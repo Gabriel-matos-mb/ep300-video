@@ -1,0 +1,560 @@
+{
+ "sequence": {
+  "frames": 9163,
+  "fps": "23.976",
+  "size": [
+   3840,
+   2160
+  ],
+  "holds": [
+   {
+    "id": "P_EVOL",
+    "base_frame": 1032,
+    "frames": 58
+   },
+   {
+    "id": "GRITEM",
+    "base_frame": 2983,
+    "frames": 72
+   }
+  ],
+  "insert": {
+   "base_frame": 7395,
+   "frames": 255,
+   "title_frames": 86,
+   "f01_frames": 169
+  },
+  "loop_exit": "ultimo quadro = ultimo quadro da base (blooper P&B do Premiere, frame 7572 da base); audio termina em silencio natural; sem fade/elemento — encaixar LOOP apos o frame 9162"
+ },
+ "layers": [
+  {
+   "id": "P01",
+   "track": "V3",
+   "start_f": 0,
+   "dur_f": 71,
+   "start_s": 0.0,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "P02",
+   "track": "V3",
+   "start_f": 71,
+   "dur_f": 744,
+   "start_s": 2.961,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [
+    "pipocas soltas nao ligadas (PopcornBucket tem slot, mas o asset e uma folha de 7 adesivos; balde A usado)"
+   ],
+   "transform": false
+  },
+  {
+   "id": "P03",
+   "track": "V3",
+   "start_f": 815,
+   "dur_f": 138,
+   "start_s": 33.992,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C01_01",
+   "track": "V6",
+   "start_f": 1346,
+   "dur_f": 46,
+   "start_s": 56.139,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": true
+  },
+  {
+   "id": "C02_01a",
+   "track": "V3",
+   "start_f": 1478,
+   "dur_f": 141,
+   "start_s": 61.645,
+   "clone_f": 0,
+   "underlay": true,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "S01",
+   "track": "V3",
+   "start_f": 1830,
+   "dur_f": 148,
+   "start_s": 76.326,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C02_02",
+   "track": "V6",
+   "start_f": 2118,
+   "dur_f": 82,
+   "start_s": 88.338,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C06_02_BLEEP",
+   "track": "V7",
+   "start_f": 2152,
+   "dur_f": 31,
+   "start_s": 89.756,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C02_03",
+   "track": "V3",
+   "start_f": 2198,
+   "dur_f": 106,
+   "start_s": 91.675,
+   "clone_f": 0,
+   "underlay": true,
+   "placeholders": [
+    "PLACEHOLDER_R17_PRINTS"
+   ],
+   "transform": false
+  },
+  {
+   "id": "C03_01",
+   "track": "V4",
+   "start_f": 2296,
+   "dur_f": 247,
+   "start_s": 95.762,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C03_02",
+   "track": "V3",
+   "start_f": 2589,
+   "dur_f": 89,
+   "start_s": 107.983,
+   "clone_f": 0,
+   "underlay": true,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "S02S03",
+   "track": "V4",
+   "start_f": 2677,
+   "dur_f": 290,
+   "start_s": 111.653,
+   "clone_f": 3,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C03_04",
+   "track": "V3",
+   "start_f": 2970,
+   "dur_f": 48,
+   "start_s": 123.874,
+   "clone_f": 0,
+   "underlay": true,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "IA_METADE",
+   "track": "V6",
+   "start_f": 3265,
+   "dur_f": 60,
+   "start_s": 136.178,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "S04",
+   "track": "V3",
+   "start_f": 3327,
+   "dur_f": 232,
+   "start_s": 138.764,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "BQ_MARKETING",
+   "track": "V6",
+   "start_f": 3560,
+   "dur_f": 139,
+   "start_s": 148.482,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": true
+  },
+  {
+   "id": "S05",
+   "track": "V3",
+   "start_f": 3729,
+   "dur_f": 142,
+   "start_s": 155.53,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C04_01",
+   "track": "V3",
+   "start_f": 3958,
+   "dur_f": 94,
+   "start_s": 165.082,
+   "clone_f": 2,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C04_03",
+   "track": "V3",
+   "start_f": 4054,
+   "dur_f": 86,
+   "start_s": 169.086,
+   "clone_f": 3,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C04_04",
+   "track": "V3",
+   "start_f": 4143,
+   "dur_f": 55,
+   "start_s": 172.798,
+   "clone_f": 0,
+   "underlay": true,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C04_05_GRITEM",
+   "track": "V6",
+   "start_f": 4246,
+   "dur_f": 72,
+   "start_s": 177.094,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C04_06",
+   "track": "V3",
+   "start_f": 4334,
+   "dur_f": 312,
+   "start_s": 180.764,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [
+    "PLACEHOLDER_R21_PICAPAU_NEW_STICKER (pássaro e balão removidos: sticker novo não localizado)"
+   ],
+   "transform": false
+  },
+  {
+   "id": "C05_01",
+   "track": "V3",
+   "start_f": 4689,
+   "dur_f": 168,
+   "start_s": 195.57,
+   "clone_f": 12,
+   "underlay": false,
+   "placeholders": [
+    "PLACEHOLDER_PERSON_STICKER x11 (só 7 pessoas distintas aprovadas: Phill, Mafê, Guta, Lucas, Vitória, Layla, Bonel)"
+   ],
+   "transform": false
+  },
+  {
+   "id": "S06",
+   "track": "V3",
+   "start_f": 4869,
+   "dur_f": 68,
+   "start_s": 203.078,
+   "clone_f": 4,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C05_02G",
+   "track": "V3",
+   "start_f": 4941,
+   "dur_f": 86,
+   "start_s": 206.081,
+   "clone_f": 0,
+   "underlay": true,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C05_04",
+   "track": "V3",
+   "start_f": 5090,
+   "dur_f": 134,
+   "start_s": 212.295,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [
+    "frame EP126 trocado (olhos abertos, t=1.0 s do making-off); PLACEHOLDER_R23 resolvido"
+   ],
+   "transform": false
+  },
+  {
+   "id": "S07",
+   "track": "V3",
+   "start_f": 5257,
+   "dur_f": 186,
+   "start_s": 219.261,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "S08",
+   "track": "V3",
+   "start_f": 5569,
+   "dur_f": 193,
+   "start_s": 232.274,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C06_01",
+   "track": "V6",
+   "start_f": 5826,
+   "dur_f": 29,
+   "start_s": 242.993,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": true
+  },
+  {
+   "id": "S09",
+   "track": "V3",
+   "start_f": 5916,
+   "dur_f": 212,
+   "start_s": 246.746,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C06_03_VI",
+   "track": "V6",
+   "start_f": 6161,
+   "dur_f": 62,
+   "start_s": 256.965,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C06_03_MMM",
+   "track": "V3",
+   "start_f": 6255,
+   "dur_f": 48,
+   "start_s": 260.886,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C06_04",
+   "track": "V6",
+   "start_f": 6305,
+   "dur_f": 46,
+   "start_s": 262.971,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [
+    "PENDING_H3"
+   ],
+   "transform": true
+  },
+  {
+   "id": "S10",
+   "track": "V3",
+   "start_f": 6347,
+   "dur_f": 251,
+   "start_s": 264.723,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "O01",
+   "track": "V6",
+   "start_f": 6648,
+   "dur_f": 86,
+   "start_s": 277.277,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C06_05_DEZ",
+   "track": "V3",
+   "start_f": 6737,
+   "dur_f": 72,
+   "start_s": 280.989,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C06_06",
+   "track": "V6",
+   "start_f": 6811,
+   "dur_f": 72,
+   "start_s": 284.075,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C06_07",
+   "track": "V3",
+   "start_f": 7087,
+   "dur_f": 194,
+   "start_s": 295.587,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C07_01",
+   "track": "V6",
+   "start_f": 7324,
+   "dur_f": 38,
+   "start_s": 305.472,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": true
+  },
+  {
+   "id": "S11",
+   "track": "V3",
+   "start_f": 7354,
+   "dur_f": 90,
+   "start_s": 306.723,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "CEM_MIL_HORAS",
+   "track": "V6",
+   "start_f": 7468,
+   "dur_f": 72,
+   "start_s": 311.478,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": true
+  },
+  {
+   "id": "O02",
+   "track": "V3",
+   "start_f": 7559,
+   "dur_f": 182,
+   "start_s": 315.273,
+   "clone_f": 3,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C07_04",
+   "track": "V3",
+   "start_f": 7744,
+   "dur_f": 86,
+   "start_s": 322.989,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C07_05",
+   "track": "V3",
+   "start_f": 8034,
+   "dur_f": 117,
+   "start_s": 335.085,
+   "clone_f": 0,
+   "underlay": true,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C07_06",
+   "track": "V6",
+   "start_f": 8242,
+   "dur_f": 41,
+   "start_s": 343.76,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "C08_01",
+   "track": "V3",
+   "start_f": 8730,
+   "dur_f": 96,
+   "start_s": 364.114,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  },
+  {
+   "id": "F01",
+   "track": "V4",
+   "start_f": 8816,
+   "dur_f": 169,
+   "start_s": 367.701,
+   "clone_f": 0,
+   "underlay": false,
+   "placeholders": [],
+   "transform": false
+  }
+ ]
+}

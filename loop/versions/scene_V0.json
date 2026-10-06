@@ -1,0 +1,65 @@
+{
+  "_doc": "EP300 LOOP — manifesto editável. ASSET VISUAL ≠ LÓGICA DE ANIMAÇÃO: para trocar Gustavo/Lucian/pipoca/logos/thumbs, substitua o arquivo em assets/ (mesmo nome) OU mude o caminho aqui. As linhas 'timeline' dos atores não dependem do PNG.",
+  "canvas": {"w": 1920, "h": 1080, "fps": 30, "duration": 120.0},
+  "palette": {"ink": "#121213", "dots": "#232325", "orange": "#F47340", "white": "#FFFFFF"},
+  "background": {"dot_drift_px_per_loop": 20, "collage_breath": 0.010, "collage_breath_period": 20.0},
+  "fonts": {"sora": "fonts/Sora-VariableFont_wght.ttf"},
+  "collage": {
+    "_doc": "cx,cy,w = centro/largura do cartão (px); rot = graus; depth 0..1 (1 = mais perto = parallax maior); bright = brilho base (0..1); orbit_period em segundos (divisor de 60); phase 0..1",
+    "cards": [
+      {"file": "assets/thumbs/EP282_CONVIDADA.png",       "cx": 190,  "cy": 195,  "w": 470, "rot": -6, "depth": 0.9, "bright": 0.50, "period": 30, "phase": 0.00},
+      {"file": "assets/thumbs/EP284_GUSTAVO_LUCIAN.png",  "cx": 610,  "cy": 105,  "w": 390, "rot": 4,  "depth": 0.5, "bright": 0.36, "period": 60, "phase": 0.30},
+      {"file": "assets/thumbs/EP283_CONVIDADO.png",       "cx": 1010, "cy": 90,   "w": 400, "rot": -3, "depth": 0.6, "bright": 0.36, "period": 30, "phase": 0.55},
+      {"file": "assets/thumbs/EP288_CONVIDADOS.png",      "cx": 1400, "cy": 125,  "w": 390, "rot": 5,  "depth": 0.5, "bright": 0.36, "period": 60, "phase": 0.75},
+      {"file": "assets/thumbs/EP286_GUSTAVO_LUCIAN.png",  "cx": 1740, "cy": 205,  "w": 480, "rot": 7,  "depth": 0.9, "bright": 0.50, "period": 30, "phase": 0.20},
+      {"file": "assets/thumbs/EP282_GUSTAVO_LUCIAN.png",  "cx": 140,  "cy": 560,  "w": 420, "rot": 5,  "depth": 0.7, "bright": 0.42, "period": 60, "phase": 0.10},
+      {"file": "assets/thumbs/f_duo.png",                 "cx": 1790, "cy": 590,  "w": 430, "rot": -5, "depth": 0.7, "bright": 0.42, "period": 60, "phase": 0.65},
+      {"file": "assets/thumbs/EP284_CONVIDADA.png",       "cx": 215,  "cy": 890,  "w": 460, "rot": -4, "depth": 0.9, "bright": 0.42, "period": 30, "phase": 0.40},
+      {"file": "assets/thumbs/EP288_GUSTAVO_LUCIAN.png",  "cx": 1725, "cy": 905,  "w": 470, "rot": 6,  "depth": 0.9, "bright": 0.42, "period": 30, "phase": 0.85},
+      {"file": "assets/thumbs/f_guest.png",               "cx": 470,  "cy": 380,  "w": 330, "rot": -4, "depth": 0.3, "bright": 0.26, "period": 60, "phase": 0.50},
+      {"file": "assets/thumbs/EP286_CONVIDADOS.png",      "cx": 1470, "cy": 400,  "w": 330, "rot": 3,  "depth": 0.3, "bright": 0.26, "period": 60, "phase": 0.05},
+      {"file": "assets/thumbs/EP283_CONVIDADO.png",       "cx": 480,  "cy": 760,  "w": 300, "rot": 5,  "depth": 0.25, "bright": 0.22, "period": 60, "phase": 0.90},
+      {"file": "assets/thumbs/EP288_CONVIDADOS.png",      "cx": 1450, "cy": 770,  "w": 300, "rot": -6, "depth": 0.25, "bright": 0.22, "period": 60, "phase": 0.35}
+    ],
+    "spotlights": [
+      {"card": 0, "keys": [[30, 0], [33, 1], [38, 1], [41, 0]], "lift_bright": 0.30, "lift_scale": 0.05},
+      {"card": 7, "keys": [[70, 0], [73, 1], [78, 1], [81, 0]], "lift_bright": 0.30, "lift_scale": 0.05}
+    ]
+  },
+  "title": {
+    "episodio": {"text": "EPISÓDIO", "size": 62, "cx": 960, "cy": 205, "color": "#F47340"},
+    "numero":   {"text": "300", "size": 400, "cx": 960, "cy": 420, "color": "#121213", "rot": -3, "sway_deg": 0.7, "sway_period": 12.0, "breath": 0.012, "breath_period": 10.0},
+    "logo":     {"file": "assets/brand/selo-analytics-talks.webp", "h": 190, "cx": 960, "cy": 706, "rot": 0},
+    "frase":    {"text": "Toca pra ver o que rolou até aqui.", "size": 34, "cx": 960, "cy": 836}
+  },
+  "sponsors": {
+    "_doc": "Bloco estático (sem movimento). Ordem = ordem na tela. Café Oficial = Coffee++ (assumido pelo mapeamento do site /300).",
+    "y": 952, "label_size": 17, "logo_box": [200, 64], "gap": 26,
+    "patrocinio": ["assets/sponsors/purple-metrics.webp", "assets/sponsors/eletromidia.webp", "assets/sponsors/onfly.webp", "assets/sponsors/reportei.webp", "assets/sponsors/sinatra.webp"],
+    "cafe": ["assets/sponsors/coffee-plusplus.webp"]
+  },
+  "actors": [
+    {
+      "id": "gustavo", "_doc": "estados: troque o PNG de cada estado sem mexer na timeline",
+      "states": {"base": "assets/stickers/gustavo/still.webp", "smile": "assets/stickers/gustavo/hover-transicao.webp", "surprise": "assets/stickers/gustavo/hover-final.webp", "glance": "assets/stickers/gustavo/arraste-final.webp"},
+      "cx": 355, "cy": 520, "size": 270, "rot": -7, "breath": 0.02, "breath_period": 3.0,
+      "presence": [[0, 0], [12.0, 0], [13.3, 1], [18.5, 1], [19.8, 0], [92.0, 0], [93.3, 1], [102.5, 1], [103.8, 0], [120, 0]],
+      "state": [[0, "base"], [15.6, "base"], [15.9, "surprise"], [17.4, "surprise"], [17.8, "base"], [96.5, "base"], [96.8, "glance"], [99.2, "glance"], [99.6, "base"]]
+    },
+    {
+      "id": "lucian",
+      "states": {"base": "assets/stickers/lucian/still.webp", "smile": "assets/stickers/lucian/hover-transicao.webp", "surprise": "assets/stickers/lucian/hover-final.webp", "glance": "assets/stickers/lucian/arraste-final.webp"},
+      "cx": 1565, "cy": 520, "size": 270, "rot": 7, "breath": 0.02, "breath_period": 3.0,
+      "presence": [[0, 0], [50.0, 0], [51.3, 1], [60.0, 1], [61.3, 0], [93.0, 0], [94.3, 1], [103.2, 1], [104.5, 0], [120, 0]],
+      "state": [[0, "base"], [54.5, "base"], [54.8, "surprise"], [56.2, "surprise"], [56.6, "smile"], [58.2, "smile"], [58.6, "base"], [98.0, "base"], [98.3, "smile"], [100.8, "smile"], [101.2, "base"]]
+    }
+  ],
+  "props": [
+    {
+      "id": "pipoca", "file": "assets/stickers/pipoca.png", "cx": 1650, "cy": 720, "size": 150, "rot": 8,
+      "presence": [[0, 0], [52.4, 0], [53.8, 1], [58.4, 1], [59.8, 0], [120, 0]],
+      "hop": [[54.2, 0.0], [54.6, 1.0], [55.1, 0.0]]
+    }
+  ],
+  "output": {"name": "EP300_LOOP_V0_PROXY", "crf": 20}
+}

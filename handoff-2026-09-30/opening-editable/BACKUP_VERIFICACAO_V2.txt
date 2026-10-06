@@ -1,0 +1,7 @@
+Verificação (MD5) do projeto do Gabriel em 02_PROJETOS × BACKUP_INTERVENCAO_GABRIEL_V0_2026-09-29 — feita na execução da V2.
+RESULTADO: nenhum arquivo do Gabriel mudou desde o backup.
+IGUAL    EP300_ABERTURA_V0 Cópia.prin
+IGUAL    EP300_ABERTURA_V0 Cópia.prproj
+IGUAL    EP300_ABERTURA_V0-ajustes gabriel.prin
+IGUAL    EP300_ABERTURA_V0-comcomentarios.xml
+IGUAL    EP300_SYNC_3CAM (sincronia por áudio) - ajustado.xml

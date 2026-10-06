@@ -1,0 +1,274 @@
+[   0.0] L Então, mas é isso, aí não passa a ser a gente.
+[   3.2] G Gravando, novo tempo de abertura do episódio 300.
+[  12.7] ? Fala aí, analítica e analítica de plantão, belezinha?
+[  16.6] ? Bem-vindos ao nosso episódio especial de número 300, Luciano.
+[  21.9] ? 300, né? Chegamos a 300 episódios, começamos lá em 2025, como o programa do...
+[  29.5] ? Caralho, por que cromotão?
+[  30.7] G É dislexia isso, né?
+[  32.4] G Acho que você até vai comentar
+[  33.7] G que fez a aula e tudo,
+[  34.8] G você tá muito tratado.
+[  36.1] G Eu não, porque...
+[  37.2] ? Isso vai 2025.
+[  39.6] ? Aí, aí, meu.
+[  40.2] ? Vai, vai doze anos de novo?
+[  41.3] ? Vai.
+[  42.5] ? Fala aí, analítica,
+[  44.3] ? analítico de plantão,
+[  45.5] ? belezinha?
+[  46.3] L Tá no ar, tá valendo
+[  47.4] ? o episódio 300 do Anadente Exposso.
+[  50.2] ? Chegamos a 300 episódios,
+[  52.5] L quem diria?
+[  53.6] ? Começamos lá em 2015
+[  55.0] ? com um programa que era
+[  56.6] ? dentro do Metricas Boss Prime,
+[  58.4] ? o MB Talks, duas pessoas
+[  60.7] ? e uma pergunta ali da galera
+[  62.8] ? que tava tirando dúvida, né?
+[  64.7] ? Uma pergunta ali por semana, a gente debatia
+[  66.7] ? sobre os problemas do dia 4. Quando eu voltei
+[  68.8] ? a gravar com a gente, né? A gente voltou
+[  70.9] L naquele cenário no escritório antigo ainda,
+[  72.8] ? deve estar aparecendo aí pra galera, a gente
+[  74.8] ? voltou pra esse cenário de MesaCast e desde
+[  76.9] ? lá, 300 episódios.
+[  78.5] ? Irmão, 300 episódios são mais de
+[  80.9] ? 300 fucking
+[  82.7] ? perguntas no céu. E a
+[  84.8] ? pergunta foi mudando. No começo, quase
+[  86.9] G e tudo era sobre ferramenta. Como instalar,
+[  89.0] ? como taguear, porque o número do relatório
+[  90.8] ? não bate com o número do financeiro,
+[  93.1] ? o que segue sendo realidade.
+[  96.2] L Infelizmente,
+[  96.6] ? em 2026, né? E aí em 2023,
+[  99.5] L o Google...
+[ 100.3] ? Aí em 2023, o Google Analytics
+[ 103.7] ? Universal...
+[ 104.7] ? Aí em 2023...
+[ 108.4] ? Aí em 2023, o Google Analytics...
+[ 111.2] ? Volta, um pouquinho só.
+[ 113.2] ? Não, não, é só que
+[ 114.6] ? é porque tá pulando linha, aí eu sou burro, né?
+[ 118.5] ? Aí, em 2023, o Google desligou, fez o Sunset do Universo Analytics.
+[ 124.3] ? Naquele ano, a gente publicou 153 episódios.
+[ 129.8] ? 153 episódios e 4 em cada 10 falavam sobre a 4.
+[ 133.2] ? Tá, a gente publicou 153 episódios naquele ano.
+[ 137.2] ? Ah, tá, beleza.
+[ 139.1] ? Aí, em 2023, chegou o Sunset do Google Analytics Universo
+[ 142.9] L e naquele ano a gente publicou 153 episódios.
+[ 146.9] L Vamos voltar de novo. Naquele ano a gente publicou
+[ 148.6] ? 153 episódios. 4
+[ 150.7] ? em cada 10 falavam sobre o GA4.
+[ 153.2] ? O GA4 nunca
+[ 154.9] L saiu da pauta e até hoje
+[ 156.9] ? tá em 3 a cada 10 episódios.
+[ 159.8] ? De nada, Vitória Pobarino.
+[ 161.5] ? Mas o que mudou, Luciano,
+[ 163.1] ? foi que entrou do lado do GA4, né?
+[ 165.6] ? Exatamente. Um assunto que eu gosto
+[ 167.1] ? bastante, inteligência artificial.
+[ 169.5] ? Não existia...
+[ 170.9] ? Volta lá um pouquinho. Eu vou pulando, pulando ali.
+[ 173.7] L Não existia.
+[ 175.1] ? e aí chegou um assunto que eu tenho
+[ 177.9] ? bastante interesse, inteligência artificial
+[ 180.2] ? não existia na nossa pauta
+[ 181.9] ? até 2021, e agora
+[ 183.8] ? aparece metade dos nossos episódios
+[ 186.5] ? atribuição
+[ 188.4] L incrementalidade, virar o assunto
+[ 190.1] ? não, volto
+[ 195.6] ? pode ser daí, pode ser daí, agora vai direto
+[ 197.7] ? inteligência artificial não existia
+[ 200.2] ? nos nossos conteúdos até 2021
+[ 202.1] L então a gente começou inclusive a falar
+[ 203.9] ? antes do hype, tá? Hoje aparece
+[ 206.2] L em metade dos nossos episódios.
+[ 208.9] ? E atribuição
+[ 210.0] ? e incrementalidade viraram um assunto
+[ 212.2] ? com um tema quentíssimo aqui. 4
+[ 214.0] ? em cada 10 episódios desse ano
+[ 215.9] ? a gente falou sobre incrementalidade. E o
+[ 218.0] ? Google Big Query, que era um assunto de
+[ 220.0] ? engenheiro, virou
+[ 222.0] ? assunto da galera que tá trabalhando no
+[ 223.9] ? marketing. E a gente fez isso.
+[ 225.9] ? A gente começou na Lúcia perguntando como
+[ 227.9] ? taguear o botão. E hoje a gente
+[ 229.8] ? pergunta se dá pra confiar no modelo.
+[ 232.0] ? O assunto mudou. Outras coisas
+[ 233.8] ? ficaram igualzinhas.
+[ 235.7] ? Mais de 200 vezes que eu falei
+[ 237.6] ? e mais de 60 maneiras
+[ 241.5] ? diferentes, cara, criativo, de me
+[ 243.8] ? apresentar como...
+[ 245.9] L De me apresentar. Ah, não, é porque
+[ 247.8] ? essa daí é o Gustavo que faz.
+[ 249.8] ? Mais de 60 maneiras.
+[ 251.8] G É.
+[ 253.7] ? E mais de 60 maneiras
+[ 255.6] G diferentes de me apresentar.
+[ 258.1] ? Mas, diamante negro
+[ 259.5] G é um oficial, né, galera? Grita aí se vocês
+[ 261.7] L concordam. Pelo amor de Deus.
+[ 263.0] ? É, 24 vezes alguém lembrou que se o Pica-Pau tivesse chamado a polícia,
+[ 268.7] ? nada disso teria acontecido.
+[ 270.9] ? Só que as respostas quase nunca foram nossas.
+[ 273.8] ? Quase 200 pessoas sentaram nessa mesa.
+[ 277.0] ? Quase 350 vezes.
+[ 279.1] ? Mais de 140 em...
+[ 281.2] G É, então volta a gente...
+[ 286.2] G Ah, tá, viu?
+[ 289.3] ? E 24 vezes, Luciano,
+[ 292.0] ? você lembrou que se o pica-pau tivesse chamado a polícia
+[ 294.5] ? nada disso teria acontecido
+[ 295.3] ? e o problema continua acontecendo
+[ 296.8] ? não é que as pessoas estão chamando a polícia agora
+[ 299.2] ? tem um problema maior
+[ 300.3] ? que ninguém sabe essa referência
+[ 302.3] L mas
+[ 310.1] ? quase 200 pessoas
+[ 311.8] G sentaram aqui nessa mesa
+[ 316.5] G quase 200
+[ 317.5] ? pessoas sentaram nessa mesa
+[ 319.3] ? quase 350
+[ 321.7] ? vezes. De mais de
+[ 323.1] ? 40, de mais de
+[ 325.1] ? 140 empresas.
+[ 326.9] ? Banco, varejo, mídia, telecom
+[ 329.1] ? e o Google. E até...
+[ 331.2] ? Volta, porque aí eu lembrei que é aí
+[ 333.1] G que eu faço a piada do bagulho do...
+[ 334.8] ? De mais de 140
+[ 337.1] ? empresas. Banco, varejo,
+[ 339.3] ? mídia, telecom, até
+[ 341.1] ? o Google veio aqui. E ainda a gente...
+[ 343.1] ? E a gente ainda não é parceiro
+[ 345.0] ? do Google, tu acredita? Queria.
+[ 346.7] G É isso, né? Felizmente. Mas o
+[ 349.0] ? que a Paula não chamou a polícia, mas nós chamamos
+[ 351.1] ? e a gente gravou até com a polícia militar
+[ 352.9] G do Rio de Janeiro. Exatamente.
+[ 354.6] ? Tem gente que cavaritou ficha de presença.
+[ 356.7] ? O filme passou por aqui
+[ 358.5] ? 29 vezes. Samafim 24
+[ 360.3] ? e foi ela a convidada no episódio 1
+[ 362.9] ? do Oceano. E fora de casa,
+[ 364.7] ? o recordista é o nosso querido Claudio
+[ 367.0] ? Coisa Rica, o Conel.
+[ 369.0] L Com sete vezes enchendo
+[ 370.6] ? o nosso saco nos episódios. Tem gente
+[ 372.9] ? que veio responder uma pergunta e ficou
+[ 374.8] ? aqui por anos, até pra dar boleto.
+[ 376.6] ? quando você pergunta algo
+[ 378.2] ? 300 vezes, de vez em quando
+[ 380.4] ? você acerta antes
+[ 381.5] ? em fevereiro de 2022
+[ 383.3] ? é que aí sou eu
+[ 385.9] ? você chamou
+[ 387.6] ? quando você pergunta algo
+[ 390.2] ? 300 vezes, de vez em quando
+[ 392.1] ? você acerta antes
+[ 393.5] ? em fevereiro de 2022
+[ 396.5] ? a gente perguntou se o dia 4
+[ 398.5] ? era esse todinho gelado todo
+[ 400.5] ? 27 dias depois
+[ 402.1] L o Google anunciou o fim do universo
+[ 404.2] ? até parece que a gente sabe o que a gente está fazendo
+[ 406.0] ? Desculpa, Rio Vitória, mas a gente continua
+[ 408.0] ? produzindo conteúdo. Exatamente.
+[ 409.8] ? A gente fez um episódio inteiro sobre o M&M.
+[ 412.3] ? De nada, por favor. Também prevendo, né?
+[ 414.3] ? Três meses depois, o Lua abriu o Meridian,
+[ 416.4] G por exemplo. E abriu 25,
+[ 418.0] L a gente criou o primeiro MCP do mundo
+[ 420.5] ? pro Google Analytics. O do Google
+[ 423.0] ? foi só em
+[ 424.2] ? julho. Do outro ano, tá? Que fique
+[ 426.1] ? claro. Voltando um pouco ao tempo,
+[ 429.1] ? voltando um pouco ao tempo
+[ 430.3] ? novamente, em dezembro de 2024,
+[ 433.2] ? volta aí um pouquinho.
+[ 438.3] ? Voltando um pouco no tempo, novamente,
+[ 440.1] G em dezembro de 2024,
+[ 441.9] ? a gente disse que ia dar pra conversar,
+[ 443.7] ? na verdade, eu não disse nada.
+[ 445.1] ? Quem disse foi o Gustavo,
+[ 446.3] ? mas aí ele pensou, e eu fiz também, né?
+[ 448.9] ? Então, em dezembro de 2024,
+[ 450.4] ? a gente tava falando sobre essa movimentação
+[ 452.6] ? de inteligência artificial,
+[ 454.5] ? falando, né, disso.
+[ 455.8] ? Exatamente.
+[ 456.6] ? E aí chegou agora, em fevereiro de 2026,
+[ 459.2] ? olha aí, o que eu falei que não dava pra fazer,
+[ 461.3] L eu mesmo fui lá e fiz.
+[ 462.2] ? e lançamos o Analytics Popilot
+[ 464.1] ? em junho. E do outro lado, da pergunta
+[ 466.0] ? a vocês. Mais de 700 mil
+[ 468.2] ? vezes alguém apertou o play.
+[ 469.8] ? Mais de 100 mil horas ouvidas.
+[ 472.5] ? Aí era eu, né?
+[ 473.5] G É muito rápido.
+[ 475.5] ? Muito rápido, minha parte. Você falou pra caralho
+[ 477.3] G e eu falo a estrofa e vai pra você.
+[ 479.6] ? Vai, vai. E do outro lado da pergunta
+[ 481.3] ? a vocês. Mais de 700
+[ 483.3] ? mil vezes alguém
+[ 485.6] ? apertou o play em mais de 110.
+[ 488.2] ? Eu ia falar, mas tá ali, né?
+[ 490.2] ? Tá. E do outro
+[ 491.5] ? Paralado da pergunta, vocês, mais de 700 mil vezes alguém apertou o play você.
+[ 497.9] ? Exatamente.
+[ 498.9] ? Mais de 100 mil horas ouvidas de conteúdo.
+[ 502.7] ? Se você apertar o play agora, aqui agora, nesse momento,
+[ 506.8] ? tu só vai parar de escutar a Annalytics Talks em 2038,
+[ 510.4] ? em mais de 100 países.
+[ 512.0] ? Mais de 100 países.
+[ 514.0] L Já ouviram o episódio nosso da Annalytics Talks?
+[ 516.7] ? E o episódio mais ouvido de todos os Spotify.
+[ 519.3] ? Não é sobre ferramenta nenhuma.
+[ 521.6] ? Graças a Deus, né?
+[ 522.6] ? Simplesmente é o episódio 197,
+[ 525.4] ? Transição de Carreira para Dados.
+[ 527.5] ? A pergunta que mais bombou desses 300 episódios
+[ 530.7] ? era sobre gente.
+[ 532.4] L Acredita?
+[ 533.2] ? Acredito, cara.
+[ 534.8] ? 300 episódios, mais de 700 newsplays.
+[ 538.0] ? Bota aí, Gabriel.
+[ 541.0] ? 300 episódios, mais de 700...
+[ 543.2] ? Eu faço assim, acredito, cara.
+[ 544.4] ? É, bota lá.
+[ 547.1] ? Eu acho tudo que eu acredito.
+[ 548.2] G que a galera ainda acha
+[ 549.8] ? que a hard skill é ferramenta
+[ 552.3] ? exatamente, no final as empresas
+[ 554.3] ? são feitas de pessoas
+[ 555.5] ? 300 episódios, mais de 700
+[ 558.4] ? mil plays, e a gente
+[ 560.3] L ainda tem uma pergunta
+[ 562.0] ? pra fazer pra você
+[ 563.1] ? qual o futuro da mensuração?
+[ 567.1] ? tá
+[ 569.7] ? 300 episódios
+[ 570.8] ? mais de 700 mil plays
+[ 572.4] ? e a gente ainda tem
+[ 574.0] G acho que você vai ter que fazer, eu acredito de novo
+[ 576.5] ? Ok, você falou. Acredito, Luciano.
+[ 578.8] G Ah, tá.
+[ 579.1] ? Pior que eu acredito, cara.
+[ 580.9] ? E a galera ainda acha que isso é hard skill.
+[ 582.9] ? Exatamente. As empresas são feitas de pessoas no final do dia.
+[ 586.0] ? Acredito, cara. A galera ainda acha que isso é soft skill.
+[ 588.2] ? Exatamente. E as empresas no final do dia são feitas de pessoas.
+[ 592.1] G 300 episódios, Luciano.
+[ 593.6] ? Mais de 700 mil plays.
+[ 596.0] ? Mais de 110 países.
+[ 597.9] ? E a gente ainda tem uma pergunta pra fazer.
+[ 600.6] ? Qual o futuro da vassuração?
+[ 603.6] ? Mas isso eu espero que a gente resolva agora.
+[ 605.7] ? um episódio pra pôr tudo.
+[ 610.3] ? Foi.

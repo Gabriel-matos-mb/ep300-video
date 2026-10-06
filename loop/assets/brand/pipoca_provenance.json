@@ -1,0 +1,26 @@
+{
+ "caixa_pipoca_frente": {
+  "origem": "4_caixa_de_pipoca_EP300_simulacao_3D_e_gabarito.pdf",
+  "pagina": 0,
+  "dpi": 240,
+  "recorte": "rembg isnet (local)"
+ },
+ "caixa_pipoca_verso": {
+  "origem": "4_caixa_de_pipoca_EP300_simulacao_3D_e_gabarito.pdf",
+  "pagina": 0,
+  "dpi": 240,
+  "recorte": "rembg isnet (local)"
+ },
+ "selo_metricas_boss": {
+  "origem": "3_caixa_de_pipoca_EP300_sem_linhas.pdf",
+  "pagina": 0,
+  "dpi": 300,
+  "recorte": "rembg isnet (local)"
+ },
+ "selo_episodio_300": {
+  "origem": "3_caixa_de_pipoca_EP300_sem_linhas.pdf",
+  "pagina": 0,
+  "dpi": 300,
+  "recorte": "rembg isnet (local)"
+ }
+}

@@ -1,0 +1,263 @@
+[
+ {
+  "project": "ma-opening",
+  "cls": "A",
+  "why": "4K final reutilizável (O01/O02/S10)",
+  "mb": 504,
+  "files": 3,
+  "on_drive_mb": 0,
+  "local_only_mb": 504
+ },
+ {
+  "project": "ma-opening",
+  "cls": "A",
+  "why": "4K final reutilizável (C02_03)",
+  "mb": 332,
+  "files": 2,
+  "on_drive_mb": 0,
+  "local_only_mb": 332
+ },
+ {
+  "project": "ma-opening",
+  "cls": "B",
+  "why": "layers R03 (reabrir/editar)",
+  "mb": 2711,
+  "files": 99,
+  "on_drive_mb": 0,
+  "local_only_mb": 2711
+ },
+ {
+  "project": "ma-opening",
+  "cls": "B",
+  "why": "insumos/estado das versões V0–V3",
+  "mb": 2316,
+  "files": 460,
+  "on_drive_mb": 494,
+  "local_only_mb": 1822
+ },
+ {
+  "project": "ma-opening",
+  "cls": "B",
+  "why": "insumos de rebuild (áudio base/blooper/freeze)",
+  "mb": 735,
+  "files": 21,
+  "on_drive_mb": 0,
+  "local_only_mb": 735
+ },
+ {
+  "project": "ma-opening",
+  "cls": "B",
+  "why": "pacote editável R03 (XML/stems/SFX)",
+  "mb": 522,
+  "files": 41,
+  "on_drive_mb": 0,
+  "local_only_mb": 522
+ },
+ {
+  "project": "ma-opening",
+  "cls": "B",
+  "why": "referência de revisão R03",
+  "mb": 182,
+  "files": 1,
+  "on_drive_mb": 0,
+  "local_only_mb": 182
+ },
+ {
+  "project": "ma-loop",
+  "cls": "B",
+  "why": "Loop: código/assets/versões",
+  "mb": 133,
+  "files": 147,
+  "on_drive_mb": 72,
+  "local_only_mb": 61
+ },
+ {
+  "project": "ma-opening",
+  "cls": "B",
+  "why": "Remotion/mapas/assets V4",
+  "mb": 65,
+  "files": 583,
+  "on_drive_mb": 6,
+  "local_only_mb": 59
+ },
+ {
+  "project": "ma-opening",
+  "cls": "B",
+  "why": "código/docs do projeto",
+  "mb": 3,
+  "files": 89,
+  "on_drive_mb": 3,
+  "local_only_mb": 0
+ },
+ {
+  "project": "ma-opening",
+  "cls": "B",
+  "why": "código/checkpoints da review",
+  "mb": 0,
+  "files": 13,
+  "on_drive_mb": 0,
+  "local_only_mb": 0
+ },
+ {
+  "project": "ma-opening",
+  "cls": "C",
+  "why": "assets de trabalho/provas",
+  "mb": 130,
+  "files": 110,
+  "on_drive_mb": 9,
+  "local_only_mb": 121
+ },
+ {
+  "project": "ma-opening",
+  "cls": "D",
+  "why": "intermediários regeneráveis (seg/chunks/raw/fix/track_base)",
+  "mb": 7235,
+  "files": 70,
+  "on_drive_mb": 0,
+  "local_only_mb": 7235
+ },
+ {
+  "project": "ma-opening",
+  "cls": "D",
+  "why": "regenerável (npm install)",
+  "mb": 999,
+  "files": 16844,
+  "on_drive_mb": 0,
+  "local_only_mb": 999
+ },
+ {
+  "project": "ma-opening",
+  "cls": "D",
+  "why": "proxies regeneráveis",
+  "mb": 948,
+  "files": 3,
+  "on_drive_mb": 0,
+  "local_only_mb": 948
+ },
+ {
+  "project": "ma-opening",
+  "cls": "D",
+  "why": "peças intermediárias regeneráveis",
+  "mb": 895,
+  "files": 183,
+  "on_drive_mb": 0,
+  "local_only_mb": 895
+ },
+ {
+  "project": "ma-opening",
+  "cls": "D",
+  "why": "720p regenerável (Remotion)",
+  "mb": 355,
+  "files": 5,
+  "on_drive_mb": 0,
+  "local_only_mb": 355
+ },
+ {
+  "project": "ma-opening",
+  "cls": "D",
+  "why": "previews regeneráveis",
+  "mb": 57,
+  "files": 22,
+  "on_drive_mb": 0,
+  "local_only_mb": 57
+ },
+ {
+  "project": "ma-opening",
+  "cls": "D",
+  "why": "espelho V*_GERADOS sem par no Drive (regenerável)",
+  "mb": 0,
+  "files": 44,
+  "on_drive_mb": 0,
+  "local_only_mb": 0
+ },
+ {
+  "project": "ma-opening",
+  "cls": "DR",
+  "why": "espelho de V*_GERADOS (Drive)",
+  "mb": 8616,
+  "files": 291,
+  "on_drive_mb": 8616,
+  "local_only_mb": 0
+ },
+ {
+  "project": "ma-loop",
+  "cls": "DR",
+  "why": "finais do Loop já no Drive",
+  "mb": 442,
+  "files": 10,
+  "on_drive_mb": 442,
+  "local_only_mb": 0
+ },
+ {
+  "project": "ma-opening",
+  "cls": "E",
+  "why": "temporários de review (qa, sheets, caches)",
+  "mb": 661,
+  "files": 543,
+  "on_drive_mb": 3,
+  "local_only_mb": 657
+ },
+ {
+  "project": "ma-opening",
+  "cls": "E",
+  "why": "sheets/frames/testes temporários",
+  "mb": 101,
+  "files": 121,
+  "on_drive_mb": 45,
+  "local_only_mb": 56
+ },
+ {
+  "project": "ma-opening",
+  "cls": "E",
+  "why": "inventário temporário",
+  "mb": 0,
+  "files": 10,
+  "on_drive_mb": 0,
+  "local_only_mb": 0
+ },
+ {
+  "project": "ma-opening",
+  "cls": "F",
+  "why": "layers R02 (superados pela R03)",
+  "mb": 2490,
+  "files": 99,
+  "on_drive_mb": 0,
+  "local_only_mb": 2490
+ },
+ {
+  "project": "ma-opening",
+  "cls": "F",
+  "why": "pacote editável R02 (superado)",
+  "mb": 521,
+  "files": 40,
+  "on_drive_mb": 0,
+  "local_only_mb": 521
+ },
+ {
+  "project": "ma-opening",
+  "cls": "F",
+  "why": "reviews anteriores",
+  "mb": 356,
+  "files": 2,
+  "on_drive_mb": 0,
+  "local_only_mb": 356
+ },
+ {
+  "project": "ma-opening",
+  "cls": "F",
+  "why": "montagem V4 REJEITADA",
+  "mb": 337,
+  "files": 443,
+  "on_drive_mb": 0,
+  "local_only_mb": 337
+ },
+ {
+  "project": "ma-opening",
+  "cls": "F",
+  "why": "720p do C02_03 (4K existe)",
+  "mb": 95,
+  "files": 2,
+  "on_drive_mb": 0,
+  "local_only_mb": 95
+ }
+]

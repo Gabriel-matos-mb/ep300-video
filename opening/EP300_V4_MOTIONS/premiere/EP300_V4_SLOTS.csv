@@ -1,0 +1,12 @@
+﻿slot;tc_in;tc_out;quadro_in;quadro_out;duracao_s;composition;classe;fala
+S01;00:00:26:01;00:00:32:05;625;773;6.173;S01-A-VOLTA;ADAPT;eu voltei a gravar com a gente, né? A gente voltou naquele cenário no escritório antigo ainda, deve estar aparecendo aí pra galera,
+S02;00:00:58:22;00:01:04:18;1414;1554;5.839;S02S03-GA4-CHAIN (1ª parte);ADAPT;Naquele ano a gente publicou 153 episódios. 4 em cada 10 falavam sobre o GA4. O
+S03;00:01:04:18;00:01:11:00;1554;1704;6.256;S02S03-GA4-CHAIN (2ª parte);ADAPT;GA4 nunca saiu da pauta e até hoje tá em 3 a cada 10 episódios.
+S04;00:01:26:00;00:01:35:16;2064;2296;9.676;S04-ATRIB-INCREM;ADAPT;atribuição e incrementalidade viraram um assunto com um tema quentíssimo aqui. 4 em cada 10 episódios desse ano a gente falou sobre incrementalidade. E o Google Big Query,
+S05;00:01:42:18;00:01:48:16;2466;2608;5.923;S05-BOTAO-MODELO;ADAPT;gente começou na Lúcia perguntando como taguear o botão. E hoje a gente pergunta se dá pra confiar no modelo.
+S06;00:02:27:06;00:02:30:02;3534;3602;2.836;S06-SETORES;ADAPT;Banco, varejo, mídia, telecom,
+S07;00:02:43:10;00:02:51:04;3922;4108;7.758;S07-FICHA-PHILL-MAFE;ADAPT;de presença. O filme passou por aqui 29 vezes. Samafim 24 e foi ela a convidada no episódio 1 do Oceano. E
+S08;00:02:56:10;00:03:04:11;4234;4427;8.05;S08-FICHA-BONEL;ADAPT;Com sete vezes enchendo o nosso saco nos episódios. Tem gente que veio responder uma pergunta e ficou aqui por anos, até pra dar boleto. quando
+S09;00:03:10:21;00:03:19:17;4581;4793;8.842;S09-FEV22-27DIAS;ADAPT;de 2022 a gente perguntou se o dia 4 era esse todinho gelado todo 27 dias depois o Google anunciou o fim do universo até
+S10;00:03:28:20;00:03:39:07;5012;5263;10.469;S10-MERIDIAN-MCP;ADAPT;Três meses depois, o Lua abriu o Meridian, por exemplo. E abriu 25, a gente criou o primeiro MCP do mundo pro Google Analytics. O do Google foi só em julho.
+S11;00:04:10:19;00:04:14:13;6019;6109;3.754;S11-700-MIL;ADAPT;de 700 mil vezes alguém apertou o play você. Exatamente.

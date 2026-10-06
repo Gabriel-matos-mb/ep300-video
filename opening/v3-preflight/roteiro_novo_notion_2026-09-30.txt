@@ -1,0 +1,52 @@
+FONTE: Notion "Texto corrido para teleprompter — EP 300" (3e29812d8c3781028f79f2a630bf766a), editado 2026-09-30T20:56Z, bloco "novo roteiro:" (o MAIS NOVO da página; abaixo dele a página guarda 2 versões anteriores: intermediária "11 mil e quinhentas" e original V0-V2 "11.526/acho/494")
+GUSTAVO: Fala aí, analítica e analítico de plantão, belezinha? Bem-vindos ao nosso episódio especial de número 300.
+LUCIAN: É, meu chapa, chegamos em 300 episódios.
+LUCIAN: Começamo lá em 2015, como um programa do Prime chamado MB Talks.
+LUCIAN: Duas pessoas e uma pergunta por semana.
+LUCIAN: Quando eu voltei a gravar com o Gustavo, virou podcast — e não parou mais.
+GUSTAVO: 300 episódios são mais de 300 perguntas.
+GUSTAVO: E a pergunta foi mudando.
+GUSTAVO: No começo, quase tudo era sobre ferramenta.
+GUSTAVO: Como instalar. Como taguear. Por que o número do relatório não bate com o número do financeiro.
+LUCIAN: Aí, em 2023, o Google desligou o Universal Analytics.
+LUCIAN: Naquele ano, a gente publicou 153 episódios — e 4 em cada 10 falavam sobre GA4.
+GUSTAVO: O GA4 nunca saiu da pauta — até hoje tá em 3 de cada 10 episódios.
+GUSTAVO: O que mudou foi o que entrou do lado dele.
+LUCIAN: Inteligência artificial não existia na nossa pauta até 2021.
+LUCIAN: Hoje, aparece em metade dos episódios.
+LUCIAN: E atribuição e incrementalidade viraram o assunto: 4 em cada 10 episódios deste ano.
+LUCIAN: E BigQuery, que era assunto de engenheiro, virou assunto de marketing.
+GUSTAVO: A gente começou perguntando como taguear um botão.
+GUSTAVO: Hoje a gente pergunta se dá pra confiar num modelo.
+GUSTAVO: O assunto mudou, outras coisas ficaram iguaizinhas…
+GUSTAVO: Mais de 200 vezes: "Fala aí, analítica e analítico de plantão!"
+LUCIAN: E mais de 60 maneiras diferentes de me apresentar.
+LUCIAN: Diamante Negro é o oficial.
+GUSTAVO: E 24 vezes alguém lembrou que, se o pica-pau tivesse chamado a polícia, nada disso teria acontecido.
+GUSTAVO: Só que as respostas quase nunca foram nossas.
+GUSTAVO: Quase 200 pessoas sentaram nessa mesa. Quase 350 vezes.
+LUCIAN: De mais de 140 empresas.
+LUCIAN: Banco, varejo, mídia, telecom, o Google, a Meta…
+LUCIAN: O pica-pau não chamou a polícia, mas nós chamamos… Gravamos até com a PM do RJ.
+GUSTAVO: Teve gente que gabaritou a ficha de presença.
+GUSTAVO: O Phill passou por aqui 29 vezes. A Mafê, 24… e foi ela a convidada do episódio 1.
+LUCIAN: Fora de casa, o recordista é o Claudio Bonel: 7 vezes.
+LUCIAN: Tem gente que veio responder uma pergunta e ficou por anos.
+GUSTAVO: Quando você pergunta algo 300 vezes, de vez em quando você acerta antes.
+LUCIAN: Fevereiro de 2022. A gente perguntou se o GA4 era esse toddynho todo.
+LUCIAN: 27 dias depois, o Google anunciou o fim do Universal.
+LUCIAN: Outubro de 2024. A gente fez um episódio inteiro sobre MMM.
+GUSTAVO: Três meses depois, o Google abriu o Meridian.
+GUSTAVO: Em Abril de 2025. A gente criou o primeiro MCP do mundo pro Google Analytics.
+GUSTAVO: O do Google saiu somente em julho.
+LUCIAN: Voltando um pouco no tempo novamente, em Dezembro de 2024. A gente disse que ia dar pra conversar com os seus dados.
+LUCIAN: O GA colocou IA na home em fevereiro de 2026. A gente lançou o Analytics Copilot em junho.
+GUSTAVO: E do outro lado da pergunta, vocês.
+GUSTAVO: Mais de 700 mil vezes alguém apertou o play.
+LUCIAN: Mais de 100 mil horas ouvidas.
+LUCIAN: Se você apertasse play agora e não parasse, terminaria em 2038.
+LUCIAN: Em mais de 100 países.
+GUSTAVO: E o episódio mais ouvido de todos no Spotify não é sobre ferramenta nenhuma.
+GUSTAVO: É o 197: transição de carreira para dados.
+LUCIAN: A pergunta que mais bombou em 300 episódios era sobre gente.
+GUSTAVO: 300 episódios. Mais de 700 mil plays. E a gente ainda tem pergunta pra fazer. Qual o futuro da mensuração?

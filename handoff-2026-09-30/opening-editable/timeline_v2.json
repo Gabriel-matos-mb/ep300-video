@@ -1,0 +1,1066 @@
+{
+ "producao": "EP300 — Vídeo de Abertura",
+ "versao": "V2 — Refinamento editorial e fechamento (arco cinema, continuidade, sound design)",
+ "deriva_de": "V1",
+ "fps": 30,
+ "resolucao_master": "1920x1080",
+ "duracao": "06:10:23",
+ "duracao_s": 370.77,
+ "fontes": {
+  "W": "CAM_GERAL.mp4",
+  "G": "MVI_9943-CAM_GUSTAVO.MP4",
+  "L": "MVI_9943-CAM_LUCIAN.MP4"
+ },
+ "offsets_na_CAM_GERAL_s": {
+  "W": 0.0,
+  "G": 476.503,
+  "L": 476.32
+ },
+ "sync": {
+  "correcao": "imagem da CAM_GERAL lida 5 quadros adiante do áudio da mesa (atraso de captura)",
+  "w_video_lead_frames": 5,
+  "validacao": "work/v1/sync_report.json (sync_check.py)"
+ },
+ "cor": "proxy: aproximação numérica do Lumetri do Gabriel (grade.py/LUTs); no Premiere: Lumetri original do projeto dele",
+ "pre_sessao": [
+  {
+   "tl_in": "00:00:00",
+   "tl_out": "00:09:09",
+   "midia": "2023-05-24 09-51-47.mp4",
+   "midia_in_s": 0.0,
+   "midia_out_s": 9.3,
+   "tratamento": "PB + grão + REC"
+  },
+  {
+   "tl_in": "00:09:09",
+   "tl_out": "00:11:23",
+   "midia": "VERDADES INCONVENIENTES SOBRE ANALYTICS.mp4",
+   "midia_in_s": 19.45,
+   "midia_out_s": 21.92,
+   "tratamento": "PB + grão + REC"
+  }
+ ],
+ "segmentos": [
+  {
+   "id": "S1",
+   "fonte_in_s": 507.15,
+   "fonte_out_s": 543.217,
+   "tl_in": "00:50:20",
+   "tl_out": "01:26:22"
+  },
+  {
+   "id": "S1b",
+   "fonte_in_s": 544.8,
+   "fonte_out_s": 565.367,
+   "tl_in": "01:26:22",
+   "tl_out": "01:47:09"
+  },
+  {
+   "id": "P_EVOL",
+   "fonte_in_s": 565.35,
+   "fonte_out_s": 567.75,
+   "tl_in": "01:47:09",
+   "tl_out": "01:49:21"
+  },
+  {
+   "id": "S1c",
+   "fonte_in_s": 570.75,
+   "fonte_out_s": 593.55,
+   "tl_in": "01:49:21",
+   "tl_out": "02:12:15"
+  },
+  {
+   "id": "S1d",
+   "fonte_in_s": 594.55,
+   "fonte_out_s": 598.283,
+   "tl_in": "02:12:15",
+   "tl_out": "02:16:07"
+  },
+  {
+   "id": "S2a",
+   "fonte_in_s": 620.3,
+   "fonte_out_s": 640.467,
+   "tl_in": "02:16:07",
+   "tl_out": "02:36:12"
+  },
+  {
+   "id": "S2a2",
+   "fonte_in_s": 641.78,
+   "fonte_out_s": 689.747,
+   "tl_in": "02:36:12",
+   "tl_out": "03:24:11"
+  },
+  {
+   "id": "HOLD",
+   "fonte_in_s": 689.74,
+   "fonte_out_s": 692.74,
+   "tl_in": "03:24:11",
+   "tl_out": "03:27:11"
+  },
+  {
+   "id": "S2b",
+   "fonte_in_s": 689.74,
+   "fonte_out_s": 712.873,
+   "tl_in": "03:27:11",
+   "tl_out": "03:50:15"
+  },
+  {
+   "id": "S3a",
+   "fonte_in_s": 756.55,
+   "fonte_out_s": 783.75,
+   "tl_in": "03:50:15",
+   "tl_out": "04:17:21"
+  },
+  {
+   "id": "S3b",
+   "fonte_in_s": 785.8,
+   "fonte_out_s": 796.167,
+   "tl_in": "04:17:21",
+   "tl_out": "04:28:02"
+  },
+  {
+   "id": "S4",
+   "fonte_in_s": 855.17,
+   "fonte_out_s": 891.003,
+   "tl_in": "04:28:02",
+   "tl_out": "05:03:27"
+  },
+  {
+   "id": "S5",
+   "fonte_in_s": 897.62,
+   "fonte_out_s": 951.887,
+   "tl_in": "05:03:27",
+   "tl_out": "05:58:05"
+  }
+ ],
+ "cortes_editoriais": [
+  {
+   "fonte_de": 543.2,
+   "fonte_ate": 544.8,
+   "motivo": "pausa longa do Lucian (marcador 0:44)"
+  },
+  {
+   "fonte_de": 565.35,
+   "fonte_ate": 570.75,
+   "motivo": "Gustavo travou: \"Aí, tipo, o que mudou, né?\" (marcador 1:06)"
+  },
+  {
+   "fonte_de": 593.55,
+   "fonte_ate": 594.55,
+   "motivo": "Lucian erra e se corrige: \"sendo que, sen—\" (marcador 1:33)"
+  },
+  {
+   "fonte_de": 598.3,
+   "fonte_ate": 620.3,
+   "motivo": "retomada: 1ª versão do \"de nada, Vitória\" + ajuste de teleprompter"
+  },
+  {
+   "fonte_de": 640.46,
+   "fonte_ate": 641.78,
+   "motivo": "\"Nesse ano de 2025\" (o certo é 2026 — marcador 1:57); a tela mostra HOJE: 1 a cada 4"
+  },
+  {
+   "fonte_de": 712.88,
+   "fonte_ate": 756.55,
+   "motivo": "retomada: bloco das empresas travou em \"a Meta\""
+  },
+  {
+   "fonte_de": 783.75,
+   "fonte_ate": 785.8,
+   "motivo": "gaguejo: \"Fora casa, o recordista—\""
+  },
+  {
+   "fonte_de": 796.18,
+   "fonte_ate": 855.17,
+   "motivo": "retomada pedida por eles + 3ª versão"
+  },
+  {
+   "fonte_de": 891.0,
+   "fonte_ate": 897.62,
+   "motivo": "\"Chupa, Google\" + \"é só não colocar\" (pedido explícito do Lucian)"
+  },
+  {
+   "fonte_de": 951.9,
+   "fonte_ate": 957.0,
+   "motivo": "\"Esse é o tema do episódio? / Obrigado, gente\" — não volta pra mesa depois do título (marcador 5:21)"
+  }
+ ],
+ "bleeps": [
+  {
+   "fonte_de": 861.2,
+   "fonte_ate": 862.47,
+   "motivo": "palavrão (reação do Lucian) — bleep como gag; removível"
+  }
+ ],
+ "planos": [
+  {
+   "tl_in": "00:50:20",
+   "tl_out": "00:58:08",
+   "camera": "CAM_GERAL.mp4 (punch-in Gustavo 1.6×)",
+   "enquadramento": "WG",
+   "fonte_s": 507.317
+  },
+  {
+   "tl_in": "00:58:08",
+   "tl_out": "01:05:09",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 514.917
+  },
+  {
+   "tl_in": "01:05:09",
+   "tl_out": "01:06:07",
+   "camera": "MVI_9943-CAM_GUSTAVO.MP4",
+   "enquadramento": "G",
+   "fonte_s": 45.28
+  },
+  {
+   "tl_in": "01:06:07",
+   "tl_out": "01:26:22",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 522.883
+  },
+  {
+   "tl_in": "01:26:22",
+   "tl_out": "01:47:09",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 544.967
+  },
+  {
+   "tl_in": "01:47:09",
+   "tl_out": "01:49:21",
+   "camera": "(pausa sem voz)",
+   "enquadramento": "PAUSE",
+   "fonte_s": "pausa"
+  },
+  {
+   "tl_in": "01:49:21",
+   "tl_out": "02:12:15",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 570.917
+  },
+  {
+   "tl_in": "02:12:15",
+   "tl_out": "02:16:07",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 594.717
+  },
+  {
+   "tl_in": "02:16:07",
+   "tl_out": "02:36:12",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 620.467
+  },
+  {
+   "tl_in": "02:36:12",
+   "tl_out": "02:53:28",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 641.947
+  },
+  {
+   "tl_in": "02:53:28",
+   "tl_out": "02:54:23",
+   "camera": "MVI_9943-CAM_LUCIAN.MP4",
+   "enquadramento": "L",
+   "fonte_s": 182.993
+  },
+  {
+   "tl_in": "02:54:23",
+   "tl_out": "03:09:12",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 660.313
+  },
+  {
+   "tl_in": "03:09:12",
+   "tl_out": "03:11:07",
+   "camera": "CAM_GERAL.mp4 (punch-in Gustavo 1.6×)",
+   "enquadramento": "WG",
+   "fonte_s": 674.947
+  },
+  {
+   "tl_in": "03:11:07",
+   "tl_out": "03:12:19",
+   "camera": "CAM_GERAL.mp4 (punch-in Lucian 1.6×)",
+   "enquadramento": "WL",
+   "fonte_s": 676.78
+  },
+  {
+   "tl_in": "03:12:19",
+   "tl_out": "03:23:05",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 678.18
+  },
+  {
+   "tl_in": "03:23:05",
+   "tl_out": "03:24:11",
+   "camera": "CAM_GERAL.mp4 (punch-in Gustavo 1.6×)",
+   "enquadramento": "WG",
+   "fonte_s": 688.713
+  },
+  {
+   "tl_in": "03:24:11",
+   "tl_out": "03:27:11",
+   "camera": "STILLS/FREEZE",
+   "enquadramento": "FREEZE",
+   "fonte_s": "freeze:WG:689.60"
+  },
+  {
+   "tl_in": "03:27:11",
+   "tl_out": "03:28:02",
+   "camera": "MVI_9943-CAM_LUCIAN.MP4",
+   "enquadramento": "L",
+   "fonte_s": 213.42
+  },
+  {
+   "tl_in": "03:28:02",
+   "tl_out": "03:50:15",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 690.607
+  },
+  {
+   "tl_in": "03:50:15",
+   "tl_out": "04:17:21",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 756.717
+  },
+  {
+   "tl_in": "04:17:21",
+   "tl_out": "04:28:02",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 785.967
+  },
+  {
+   "tl_in": "04:28:02",
+   "tl_out": "04:33:24",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 855.337
+  },
+  {
+   "tl_in": "04:33:24",
+   "tl_out": "04:35:09",
+   "camera": "MVI_9943-CAM_LUCIAN.MP4",
+   "enquadramento": "L",
+   "fonte_s": 384.583
+  },
+  {
+   "tl_in": "04:35:09",
+   "tl_out": "05:03:27",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 862.57
+  },
+  {
+   "tl_in": "05:03:27",
+   "tl_out": "05:07:08",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 897.787
+  },
+  {
+   "tl_in": "05:07:08",
+   "tl_out": "05:10:19",
+   "camera": "MVI_9943-CAM_LUCIAN.MP4",
+   "enquadramento": "L",
+   "fonte_s": 424.667
+  },
+  {
+   "tl_in": "05:10:19",
+   "tl_out": "05:49:20",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 904.52
+  },
+  {
+   "tl_in": "05:49:20",
+   "tl_out": "05:55:04",
+   "camera": "CAM_GERAL.mp4 (punch-in Lucian 1.6×)",
+   "enquadramento": "WL",
+   "fonte_s": 943.553
+  },
+  {
+   "tl_in": "05:55:04",
+   "tl_out": "05:57:01",
+   "camera": "CAM_GERAL.mp4 (punch-in Gustavo 1.6×)",
+   "enquadramento": "WG",
+   "fonte_s": 949.02
+  },
+  {
+   "tl_in": "05:57:01",
+   "tl_out": "05:58:05",
+   "camera": "CAM_GERAL.mp4",
+   "enquadramento": "W",
+   "fonte_s": 950.92
+  }
+ ],
+ "overlays": [
+  {
+   "id": "C00_00",
+   "arquivo": "OVERLAYS/C00_00_COLD_OPEN_ARQUIVO.mov",
+   "tl_in": "00:00:00",
+   "tl_out": "00:11:23",
+   "tela_cheia": false,
+   "intencao": "Cold open (removível): bastidor real de 2023 — \"Fala aí… sejam bem-vindos.\" / \"Começou mesmo?\" / \"Começa de novo…\" e a RISADA dos dois (erro → percepção → reação → riso, sem cortar na frase) → \"Tá no ar, tá valendo.\" Em PB, estética REC."
+  },
+  {
+   "id": "C00_01",
+   "arquivo": "OVERLAYS/C00_01_CONTAGEM_PRE_SESSAO.mov",
+   "tl_in": "00:11:23",
+   "tl_out": "00:15:02",
+   "tela_cheia": true,
+   "intencao": "Payoff do cold open: \"tá valendo\" → a película conta 3-2-1 (agora sim, a sessão)."
+  },
+  {
+   "id": "C00_03",
+   "arquivo": "OVERLAYS/C00_03_AVISO_ANTES_DA_SESSAO.mov",
+   "tl_in": "00:14:20",
+   "tl_out": "00:46:02",
+   "tela_cheia": true,
+   "intencao": "\"Falso vídeo de instruções do cinema\" — aviso NOSSO, falado PARA A SALA (ninguém clica): saídas p/ quem disser \"eu acho\" · levanta a mão · olha pro lado · celular só se marcar a gente · pipoca (balde corrigido) · \"vocês vieram ao cinema assistir a um podcast\". Cada página empurra a anterior; ~4,5 s de leitura por página."
+  },
+  {
+   "id": "C00_02",
+   "arquivo": "OVERLAYS/C00_02_TELA_EPISODIO_300.mov",
+   "tl_in": "00:45:20",
+   "tl_out": "00:51:11",
+   "tela_cheia": true,
+   "intencao": "Selo real \"EPISÓDIO 300\" (arte do balde) com Gustavo e Lucian → a íris abre a partir do selo (V2: sem botão/cursor/\"toca pra ver\")."
+  },
+  {
+   "id": "C01_01",
+   "arquivo": "OVERLAYS/C01_01_ADESIVO_300_CONFETE.mov",
+   "tl_in": "00:56:12",
+   "tl_out": "00:58:06",
+   "tela_cheia": false,
+   "intencao": "\"episódio especial de número 300\" — punch-in no Gustavo; adesivo 300 + confete + pontuação festiva (estouro, confete, língua de sogra)."
+  },
+  {
+   "id": "C01_02",
+   "arquivo": "OVERLAYS/C01_02_DADOS_11526_TELA_CHEIA.mov",
+   "tl_in": "01:06:07",
+   "tl_out": "01:16:05",
+   "tela_cheia": true,
+   "intencao": "VO: \"Pô, dados… 11.526 vezes. A segunda mais falada foi acho\" — hierarquia DADOS → 11.526 → VEZES; os \"acho\" são textura nas laterais, sem tocar o topo."
+  },
+  {
+   "id": "C01_03",
+   "arquivo": "OVERLAYS/C01_03_PLACAR_DADOS_X_ACHO.mov",
+   "tl_in": "01:15:23",
+   "tl_out": "01:23:15",
+   "tela_cheia": true,
+   "intencao": "\"494 vezes de diferença… existe pra aumentar essa distância\" — placar (mantido, funcionou)."
+  },
+  {
+   "id": "C02_01",
+   "arquivo": "OVERLAYS/C02_01_HISTORIA_LINHA_DO_TEMPO.mov",
+   "tl_in": "01:26:22",
+   "tl_out": "01:38:10",
+   "tela_cheia": true,
+   "intencao": "VO do Lucian: 2015 → Prime → MB Talks → \"quando eu voltei a gravar com o Gustavo\" (A VOLTA DO LUCIAN — correção factual) → podcast; frame real do EP 1 (2021, contagem oficial) para mostrar quanto o programa mudou."
+  },
+  {
+   "id": "C02_02",
+   "arquivo": "OVERLAYS/C02_02_CHUVA_DE_PERGUNTAS.mov",
+   "tl_in": "01:40:19",
+   "tl_out": "01:43:28",
+   "tela_cheia": false,
+   "intencao": "\"São mais de 300 perguntas\" — microgag sobre a câmera aberta (sem cobrir rostos)."
+  },
+  {
+   "id": "C02_03",
+   "arquivo": "OVERLAYS/C02_03_EVOLUCAO_DO_PROGRAMA.mov",
+   "tl_in": "01:44:16",
+   "tl_out": "01:50:03",
+   "tela_cheia": true,
+   "intencao": "\"E a pergunta foi mudando\" — seis épocas do programa (2021→hoje) em frames reais do acervo histórico; ~2,4 s de pausa sem voz para a sala ler."
+  },
+  {
+   "id": "C03_01",
+   "arquivo": "OVERLAYS/C03_01_ECOSSISTEMA_DE_FERRAMENTAS.mov",
+   "tl_in": "01:49:21",
+   "tl_out": "02:02:21",
+   "tela_cheia": true,
+   "intencao": "\"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos."
+  },
+  {
+   "id": "C03_02",
+   "arquivo": "OVERLAYS/C03_02_UNIVERSAL_ON_OFF.mov",
+   "tl_in": "02:02:09",
+   "tl_out": "02:09:03",
+   "tela_cheia": true,
+   "intencao": "\"o Google Analytics desligou o Universal\" — chave ON/OFF em papel."
+  },
+  {
+   "id": "C03_03",
+   "arquivo": "OVERLAYS/C03_03_CONTADOR_153_GRADE_4_DE_10.mov",
+   "tl_in": "02:08:21",
+   "tl_out": "02:16:19",
+   "tela_cheia": true,
+   "intencao": "\"153 episódios… 4 em cada 10 GA4\" — contador + grade que se preenche."
+  },
+  {
+   "id": "C03_04",
+   "arquivo": "OVERLAYS/C03_04_DE_NADA_VITORIA.mov",
+   "tl_in": "02:16:07",
+   "tl_out": "02:19:22",
+   "tela_cheia": true,
+   "intencao": "Piada interna gravada — a graça é VISUAL: corações nos olhos da Vitória (sem rótulo de \"zoeira\")."
+  },
+  {
+   "id": "C03_05",
+   "arquivo": "OVERLAYS/C03_05_GA4_1_DE_3.mov",
+   "tl_in": "02:19:10",
+   "tl_out": "02:27:16",
+   "tela_cheia": true,
+   "intencao": "\"o GA4 nunca saiu da pauta… um a cada três\" — logo GA4 em adesivo, tela cheia."
+  },
+  {
+   "id": "C03_06",
+   "arquivo": "OVERLAYS/C03_06_GOSTA_POUCO_IA.mov",
+   "tl_in": "02:29:10",
+   "tl_out": "02:33:04",
+   "tela_cheia": false,
+   "intencao": "Ironia real (\"gosto pouco… inteligência artificial\") — entra no \"inteligência\"; adesivo do Lucian entre os dois, sem cobrir rosto."
+  },
+  {
+   "id": "C03_07",
+   "arquivo": "OVERLAYS/C03_07_IA_LINHA_DO_TEMPO.mov",
+   "tl_in": "02:33:01",
+   "tl_out": "02:47:11",
+   "tela_cheia": true,
+   "intencao": "IA 2021 → hoje, atribuição/incrementalidade, BigQuery → marketing em LINHA DO TEMPO. \"Nesse ano de 2025\" cortado do áudio; a tela diz HOJE."
+  },
+  {
+   "id": "C03_08",
+   "arquivo": "OVERLAYS/C03_08_BOTAO_VIRA_MODELO.mov",
+   "tl_in": "02:47:07",
+   "tl_out": "02:54:19",
+   "tela_cheia": true,
+   "intencao": "\"taguear um botão → confiar no modelo\" — tela cheia (V2: sem cursor)."
+  },
+  {
+   "id": "C04_01",
+   "arquivo": "OVERLAYS/C04_01_BORDAO_203_PRINTS.mov",
+   "tl_in": "03:03:28",
+   "tl_out": "03:09:12",
+   "tela_cheia": true,
+   "intencao": "\"203 vezes… fala aí, analítica\" — prints reais de episódios em pilha, contador correndo."
+  },
+  {
+   "id": "C04_02",
+   "arquivo": "OVERLAYS/C04_02_EPISODIO_DE_ORIGEM.mov",
+   "tl_in": "03:09:22",
+   "tl_out": "03:13:10",
+   "tela_cheia": false,
+   "intencao": "\"qual foi o episódio que nasceu? — Não, nem eu.\" — tarja embaixo + punch-in nos rostos (jogada de câmera)."
+  },
+  {
+   "id": "C04_03",
+   "arquivo": "OVERLAYS/C04_03_APELIDOS_16.mov",
+   "tl_in": "03:14:16",
+   "tl_out": "03:21:19",
+   "tela_cheia": true,
+   "intencao": "\"16 maneiras de me apresentar\" — Gustavo-adesivo com balão × Lucian \"bolado\"."
+  },
+  {
+   "id": "C04_04",
+   "arquivo": "OVERLAYS/C04_04_DIAMANTE_NEGRO_OFICIAL.mov",
+   "tl_in": "03:21:07",
+   "tl_out": "03:23:25",
+   "tela_cheia": true,
+   "intencao": "\"diamante negro é oficial\" — diamantes + barra de chocolate GENÉRICA (sem marca de terceiros)."
+  },
+  {
+   "id": "C04_05",
+   "arquivo": "OVERLAYS/C04_05_GRITEM_SE_CONCORDAM.mov",
+   "tl_in": "03:24:07",
+   "tl_out": "03:27:11",
+   "tela_cheia": false,
+   "intencao": "4ª parede real: congela, placa de cinema + Gustavo-adesivo \"gritando\"; respiro de 3 s pra sala responder."
+  },
+  {
+   "id": "C04_06",
+   "arquivo": "OVERLAYS/C04_06_PICA_PAU_24_TELA_CHEIA.mov",
+   "tl_in": "03:28:02",
+   "tl_out": "03:39:04",
+   "tela_cheia": true,
+   "intencao": "\"24 vezes… Pica-Pau\" — frase + 24× + pássaro (silhueta ORIGINAL, sem o personagem de terceiros) ligando pra polícia + viatura entrando + os dois olhando."
+  },
+  {
+   "id": "C05_01",
+   "arquivo": "OVERLAYS/C05_01_MESA_191_348_140_MURAL.mov",
+   "tl_in": "03:38:22",
+   "tl_out": "03:50:27",
+   "tela_cheia": true,
+   "intencao": "\"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número."
+  },
+  {
+   "id": "C05_02",
+   "arquivo": "OVERLAYS/C05_02_SETORES_E_GOOGLE.mov",
+   "tl_in": "03:50:15",
+   "tl_out": "03:57:11",
+   "tela_cheia": true,
+   "intencao": "\"banco, varejo, mídia, telecom e até o Google… não é parceiro do Google?\" — logo G em adesivo."
+  },
+  {
+   "id": "C05_03",
+   "arquivo": "OVERLAYS/C05_03_EU_QUERIA_CHORANDO.mov",
+   "tl_in": "03:56:29",
+   "tl_out": "03:59:08",
+   "tela_cheia": true,
+   "intencao": "\"Eu queria. / Também queria.\" — os dois adesivos grandes \"chorando\" (lágrimas desenhadas, sem mexer no rosto)."
+  },
+  {
+   "id": "C05_04",
+   "arquivo": "OVERLAYS/C05_04_PICA_PAU_PM_RJ_EP126.mov",
+   "tl_in": "03:58:26",
+   "tl_out": "04:05:14",
+   "tela_cheia": true,
+   "intencao": "\"nós chamamos. Gravamos até com a PM do RJ\" — trecho REAL do EP 126 + a viatura (sticker do Gabriel) chegando."
+  },
+  {
+   "id": "C05_05",
+   "arquivo": "OVERLAYS/C05_05_FICHA_DE_PRESENCA_FOTOS.mov",
+   "tl_in": "04:07:07",
+   "tl_out": "04:28:01",
+   "tela_cheia": true,
+   "intencao": "\"Teve gente que gabaritou a ficha de presença\" — Phill 29, Mafê 24 (convidada do EP 1: frame real), Bonel 7 + adesivos."
+  },
+  {
+   "id": "C06_01",
+   "arquivo": "OVERLAYS/C06_01_ACERTA_ANTES.mov",
+   "tl_in": "04:32:19",
+   "tl_out": "04:33:22",
+   "tela_cheia": false,
+   "intencao": "\"de vez em quando você acerta antes\" — sobre a câmera ABERTA, no topo entre os dois."
+  },
+  {
+   "id": "C06_02",
+   "arquivo": "OVERLAYS/C06_02_BLEEP.mov",
+   "tl_in": "04:34:01",
+   "tl_out": "04:35:09",
+   "tela_cheia": false,
+   "intencao": "Palavrão real da reação — bleep como gag, embaixo (não cobre o rosto do Lucian)."
+  },
+  {
+   "id": "C06_03",
+   "arquivo": "OVERLAYS/C06_03_DATAS_FEV22_OUT24.mov",
+   "tl_in": "04:35:09",
+   "tl_out": "04:50:05",
+   "tela_cheia": true,
+   "intencao": "Módulo \"nossa pergunta → resposta do mercado\" em LINHA DO TEMPO + gag do Toddynho (carton original com selo GA4) no \"todinho todo\" + desculpa, Vi."
+  },
+  {
+   "id": "C06_04",
+   "arquivo": "OVERLAYS/C06_04_DE_NADA_PURPLE.mov",
+   "tl_in": "04:50:04",
+   "tl_out": "04:53:16",
+   "tela_cheia": false,
+   "intencao": "\"Olha aí, de nada, viu, Purple…\" — câmera PRINCIPAL pra brincadeira; V2: stickers reais de Guta Tolmasquim e Lucas Yokota (Purple Metrics)."
+  },
+  {
+   "id": "C06_05",
+   "arquivo": "OVERLAYS/C06_05_DATAS_MERIDIAN_MCP_DEZ24.mov",
+   "tl_in": "04:53:16",
+   "tl_out": "05:07:08",
+   "tela_cheia": true,
+   "intencao": "+3 meses Meridian, \"viu, Layla?\" (LAYLA com Y; sticker novo), MCP abr/25 → jul/25, dez/24."
+  },
+  {
+   "id": "C06_06",
+   "arquivo": "OVERLAYS/C06_06_MEIA_CULPA.mov",
+   "tl_in": "05:07:14",
+   "tl_out": "05:10:14",
+   "tela_cheia": false,
+   "intencao": "Lucian na câmera só pra brincadeira \"vou assumir minha meia-culpa\" — tarja embaixo."
+  },
+  {
+   "id": "C06_07",
+   "arquivo": "OVERLAYS/C06_07_DATAS_FEV26_JUN26_ACERTOU.mov",
+   "tl_in": "05:10:19",
+   "tl_out": "05:18:19",
+   "tela_cheia": true,
+   "intencao": "\"GA colocou IA na home em fev/26… a gente lançou a análise comparativa em junho… Lucian falou que era impossível\"."
+  },
+  {
+   "id": "C07_01",
+   "arquivo": "OVERLAYS/C07_01_VOCES_PLATEIA.mov",
+   "tl_in": "05:20:29",
+   "tl_out": "05:22:08",
+   "tela_cheia": false,
+   "intencao": "\"do outro lado da pergunta: vocês\" — 4ª parede na câmera frontal (V2: setas removidas; o emoji já aponta)."
+  },
+  {
+   "id": "C07_02",
+   "arquivo": "OVERLAYS/C07_02_OUVIDAS_700_MIL.mov",
+   "tl_in": "05:22:04",
+   "tl_out": "05:28:23",
+   "tela_cheia": true,
+   "intencao": "\"700 mil vezes… 106 mil horas\" — tela cheia; V2: sem botão de play/cursor."
+  },
+  {
+   "id": "C07_03",
+   "arquivo": "OVERLAYS/C07_03_DE_VOLTA_PARA_2038.mov",
+   "tl_in": "05:28:11",
+   "tl_out": "05:35:16",
+   "tela_cheia": true,
+   "intencao": "\"terminaria em 2038\" — cena do sofá + ano correndo + homenagem tipográfica (sem imagens de terceiros)."
+  },
+  {
+   "id": "C07_04",
+   "arquivo": "OVERLAYS/C07_04_PAISES_110_BANDEIRAS.mov",
+   "tl_in": "05:35:04",
+   "tl_out": "05:36:22",
+   "tela_cheia": true,
+   "intencao": "\"Em 110 países\" — bandeiras QUADRADAS no formato do site (borda de tinta + sombra sólida), tela cheia."
+  },
+  {
+   "id": "C07_05",
+   "arquivo": "OVERLAYS/C07_05_EP_197.mov",
+   "tl_in": "05:39:29",
+   "tl_out": "05:43:27",
+   "tela_cheia": true,
+   "intencao": "\"o episódio mais ouvido é o 197, Transição de Carreira para Dados\"."
+  },
+  {
+   "id": "C07_06",
+   "arquivo": "OVERLAYS/C07_06_GENTE.mov",
+   "tl_in": "05:47:29",
+   "tl_out": "05:49:20",
+   "tela_cheia": false,
+   "intencao": "Payoff: \"…era sobre gente.\" — no meio, embaixo."
+  },
+  {
+   "id": "C08_01",
+   "arquivo": "OVERLAYS/C08_01_TITULO_EPISODIO.mov",
+   "tl_in": "05:58:05",
+   "tl_out": "06:02:05",
+   "tela_cheia": true,
+   "intencao": "Título do episódio (aprovado) — entra depois de um respiro, sem voltar pra mesa."
+  },
+  {
+   "id": "C09_01",
+   "arquivo": "OVERLAYS/C09_01_FINAL_300_E_LOOPING.mov",
+   "tl_in": "06:01:23",
+   "tl_out": "06:10:23",
+   "tela_cheia": true,
+   "intencao": "300 conta → estoura (confete + língua de sogra) → vocês estão aqui → Gustavo e Lucian comemoram → o 300 vira o lockup do LOOP: mosaico, logo e patrocinadores entram, e os últimos 1,5 s são os quadros 118,5–120 s do próprio loop (o loop começa no quadro 0 sem corte)."
+  }
+ ],
+ "sfx": [
+  {
+   "tl": "00:11:23",
+   "sfx": "beep"
+  },
+  {
+   "tl": "00:12:22",
+   "sfx": "beep"
+  },
+  {
+   "tl": "00:13:20",
+   "sfx": "beep"
+  },
+  {
+   "tl": "00:15:11",
+   "sfx": "thump"
+  },
+  {
+   "tl": "00:19:02",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:22:11",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:23:11",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:27:17",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:29:20",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:32:23",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:34:20",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:38:11",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:39:29",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:41:05",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:45:23",
+   "sfx": "pop"
+  },
+  {
+   "tl": "00:50:08",
+   "sfx": "whoosh"
+  },
+  {
+   "tl": "00:56:12",
+   "sfx": "party"
+  },
+  {
+   "tl": "01:08:01",
+   "sfx": "tickup1.0"
+  },
+  {
+   "tl": "01:16:02",
+   "sfx": "tickup1.1"
+  },
+  {
+   "tl": "01:16:29",
+   "sfx": "thump"
+  },
+  {
+   "tl": "01:27:10",
+   "sfx": "thump"
+  },
+  {
+   "tl": "01:35:28",
+   "sfx": "pop"
+  },
+  {
+   "tl": "01:36:10",
+   "sfx": "pop"
+  },
+  {
+   "tl": "01:40:19",
+   "sfx": "whoosh"
+  },
+  {
+   "tl": "01:45:00",
+   "sfx": "pop"
+  },
+  {
+   "tl": "01:45:16",
+   "sfx": "pop"
+  },
+  {
+   "tl": "01:46:02",
+   "sfx": "pop"
+  },
+  {
+   "tl": "01:46:19",
+   "sfx": "pop"
+  },
+  {
+   "tl": "01:47:06",
+   "sfx": "pop"
+  },
+  {
+   "tl": "01:47:22",
+   "sfx": "thump"
+  },
+  {
+   "tl": "02:00:21",
+   "sfx": "thump"
+  },
+  {
+   "tl": "02:04:21",
+   "sfx": "click"
+  },
+  {
+   "tl": "02:04:26",
+   "sfx": "tvoff"
+  },
+  {
+   "tl": "02:10:03",
+   "sfx": "tickup1.1"
+  },
+  {
+   "tl": "02:12:27",
+   "sfx": "pop"
+  },
+  {
+   "tl": "02:16:07",
+   "sfx": "pop"
+  },
+  {
+   "tl": "02:17:04",
+   "sfx": "pop"
+  },
+  {
+   "tl": "02:21:22",
+   "sfx": "pop"
+  },
+  {
+   "tl": "02:37:04",
+   "sfx": "pop"
+  },
+  {
+   "tl": "02:45:19",
+   "sfx": "thump"
+  },
+  {
+   "tl": "02:51:04",
+   "sfx": "pop"
+  },
+  {
+   "tl": "02:51:10",
+   "sfx": "pop"
+  },
+  {
+   "tl": "03:04:01",
+   "sfx": "whoosh"
+  },
+  {
+   "tl": "03:04:07",
+   "sfx": "tickup2.6"
+  },
+  {
+   "tl": "03:09:13",
+   "sfx": "whoosh"
+  },
+  {
+   "tl": "03:11:07",
+   "sfx": "whoosh"
+  },
+  {
+   "tl": "03:14:16",
+   "sfx": "tickup1.0"
+  },
+  {
+   "tl": "03:21:22",
+   "sfx": "thump"
+  },
+  {
+   "tl": "03:24:07",
+   "sfx": "woosh_boom"
+  },
+  {
+   "tl": "03:28:12",
+   "sfx": "thump"
+  },
+  {
+   "tl": "03:32:14",
+   "sfx": "whoosh"
+  },
+  {
+   "tl": "03:38:22",
+   "sfx": "tickup0.95"
+  },
+  {
+   "tl": "03:45:10",
+   "sfx": "tickup0.95"
+  },
+  {
+   "tl": "03:48:01",
+   "sfx": "tickup0.95"
+  },
+  {
+   "tl": "03:55:06",
+   "sfx": "wrong"
+  },
+  {
+   "tl": "04:00:23",
+   "sfx": "thump"
+  },
+  {
+   "tl": "04:02:08",
+   "sfx": "whoosh"
+  },
+  {
+   "tl": "04:03:11",
+   "sfx": "whoosh"
+  },
+  {
+   "tl": "04:39:18",
+   "sfx": "pop"
+  },
+  {
+   "tl": "04:42:00",
+   "sfx": "thump"
+  },
+  {
+   "tl": "04:53:28",
+   "sfx": "thump"
+  },
+  {
+   "tl": "05:02:04",
+   "sfx": "thump"
+  },
+  {
+   "tl": "05:10:25",
+   "sfx": "thump"
+  },
+  {
+   "tl": "05:17:07",
+   "sfx": "thump"
+  },
+  {
+   "tl": "05:20:29",
+   "sfx": "pop"
+  },
+  {
+   "tl": "05:22:10",
+   "sfx": "tickup0.9"
+  },
+  {
+   "tl": "05:25:22",
+   "sfx": "tickup0.8"
+  },
+  {
+   "tl": "05:31:08",
+   "sfx": "rise2.6"
+  },
+  {
+   "tl": "05:31:08",
+   "sfx": "tick"
+  },
+  {
+   "tl": "05:35:04",
+   "sfx": "pop"
+  },
+  {
+   "tl": "05:39:29",
+   "sfx": "thump"
+  },
+  {
+   "tl": "05:47:29",
+   "sfx": "ding"
+  },
+  {
+   "tl": "06:01:29",
+   "sfx": "tickup1.1"
+  },
+  {
+   "tl": "06:03:02",
+   "sfx": "party"
+  }
+ ],
+ "audio": {
+  "dialogo": "CAM_GERAL (mesa de som) +2 dB; pré-sessão = áudio dos bastidores",
+  "trilha_aviso": "MA_LEXMusic_BeatTheOdds_30s.wav −13 dB",
+  "trilha_fundo": "Trigubovich_A_Groove_Pool_loop_long.wav −31 dB (+10 dB no respiro 'Gritem')",
+  "trilha_final": "MA_Puremusic_InTheSpotlight_12s.wav −9 dB, fade-in 1,2 s",
+  "loudness": "mix normalizado −16 LUFS / −1.5 dBTP"
+ }
+}

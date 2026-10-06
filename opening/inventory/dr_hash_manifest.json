@@ -1,0 +1,2604 @@
+[
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/base_720.mp4",
+  "size": 163392448,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/base_list.txt",
+  "size": 5164,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/EP300_ABERTURA_V0.xml",
+  "size": 100031,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_ABERTURA_V0/EP300_ABERTURA_V0.xml",
+  "status": "HASH_IGUAL",
+  "md5": "e648e3fa57c36d44e30a7ed42d6964a7"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/EP300_ABERTURA_V0_PROXY.mp4",
+  "size": 155518747,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/03_EDITADOS/EP300_ABERTURA_V0_PROXY.mp4",
+  "status": "HASH_IGUAL",
+  "md5": "3432af739b8df2cd27d639a029c217be"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/mix.wav",
+  "size": 63987278,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/mix_raw.wav",
+  "size": 63987244,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/preview_fc.txt",
+  "size": 5635,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/publish_log.json",
+  "size": 6458,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/timeline_v0.json",
+  "size": 20244,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_ABERTURA_V0/timeline_v0.json",
+  "status": "HASH_IGUAL",
+  "md5": "1b07e040f57af5e6d3698d00e244cfbf"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/AUDIO/SFX_BLEEP_1kHz.wav",
+  "size": 243880,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/AUDIO/SFX_BLEEP_1kHz.wav",
+  "status": "HASH_IGUAL",
+  "md5": "7e8483d5977b94eaa60914d85f199025"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/AUDIO/SFX_LEADER_BEEP_1kHz.wav",
+  "size": 17324,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/AUDIO/SFX_LEADER_BEEP_1kHz.wav",
+  "status": "HASH_IGUAL",
+  "md5": "f191347c3b752e3eb59b15b2431f6b1b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/AUDIO/STEM_DIALOGO.wav",
+  "size": 63987244,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/AUDIO/STEM_DIALOGO.wav",
+  "status": "HASH_IGUAL",
+  "md5": "f69d32021e70b76cdae1d5dba45438ac"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/AUDIO/STEM_SFX.wav",
+  "size": 63987244,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/AUDIO/STEM_SFX.wav",
+  "status": "HASH_IGUAL",
+  "md5": "e9e05764289edcf4ecd6a316aee7089c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/AUDIO/STEM_TRILHA.wav",
+  "size": 63987244,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/AUDIO/STEM_TRILHA.wav",
+  "status": "HASH_IGUAL",
+  "md5": "c4363aa8baff400d09e62674fb019070"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C00_01_CONTAGEM_PRE_SESSAO.mov",
+  "size": 37620477,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C00_01_CONTAGEM_PRE_SESSAO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "741400a900c20fff87d06c9d5e1bd796"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C00_01_ref.png",
+  "size": 48313,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C00_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "7fb25e040925c5654d8f954dfaed3f6c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C00_02_ref.png",
+  "size": 393900,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C00_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "7b2e7486355762698b77d8fedcf08402"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C00_02_TELA_EPISODIO_300.mov",
+  "size": 67113419,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C00_02_TELA_EPISODIO_300.mov",
+  "status": "HASH_IGUAL",
+  "md5": "85cbb35dbbf74bdf88e898f56ffb84cc"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C01_01_ADESIVO_300.mov",
+  "size": 9257583,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C01_01_ADESIVO_300.mov",
+  "status": "HASH_IGUAL",
+  "md5": "3d9d5ea54609b21e262791b6395a44c8"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C01_01_ref.png",
+  "size": 120796,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C01_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "73bef493d75f567f24aafd549624057b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C01_02_DADOS_11526.mov",
+  "size": 50413486,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C01_02_DADOS_11526.mov",
+  "status": "HASH_IGUAL",
+  "md5": "bfd5b7d633f00c5c815e5272bd9e114e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C01_02_ref.png",
+  "size": 103337,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C01_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d16f034551d510d35c577218378bbb15"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C01_03_PLACAR_DADOS_X_ACHO.mov",
+  "size": 89543336,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C01_03_PLACAR_DADOS_X_ACHO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "7c9384be849ee9cd793b1d374b39d7b1"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C01_03_ref.png",
+  "size": 168114,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C01_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "b594d49f402be57d323a304565761574"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C02_01_CARIMBO_2015_MB_TALKS.mov",
+  "size": 47893952,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C02_01_CARIMBO_2015_MB_TALKS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "4a3032ba3eb290f3e4c44b074863c54e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C02_01_ref.png",
+  "size": 93429,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C02_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d0a028d9c2b4ccc54ab967ebc3992594"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C02_02_CHUVA_DE_PERGUNTAS.mov",
+  "size": 36700868,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C02_02_CHUVA_DE_PERGUNTAS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "10c98f64d5df3b693bedc8d8745941dd"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C02_02_ref.png",
+  "size": 315067,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C02_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "7dc4f52ff575c00d180da5a03d9e3a72"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_01_RAJADA_FERRAMENTA.mov",
+  "size": 41126852,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_01_RAJADA_FERRAMENTA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "2abc815792b4779d6c8eab5ba3daf65d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_01_ref.png",
+  "size": 101587,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "29bc81780365c711a59c4b154472cf62"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_02_ref.png",
+  "size": 59788,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "3e475c78c1e0c19fc01f81504716a82b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_02_UNIVERSAL_DESLIGADO.mov",
+  "size": 20144790,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_02_UNIVERSAL_DESLIGADO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "121d35d34564a7ca854106de6e23f512"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_03_CONTADOR_153_E_GRADE_4_DE_10.mov",
+  "size": 21065348,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_03_CONTADOR_153_E_GRADE_4_DE_10.mov",
+  "status": "HASH_IGUAL",
+  "md5": "ec75fff34ee93f864cb48f1822c5f390"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_03_ref.png",
+  "size": 29039,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "c5fdd0ba091ddcd3bca19f2be57339ab"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_04_DE_NADA_VITORIA_1.mov",
+  "size": 12226673,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_04_DE_NADA_VITORIA_1.mov",
+  "status": "HASH_IGUAL",
+  "md5": "f6730561820cf855ab23073b569862b9"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_04_ref.png",
+  "size": 92508,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "c498b30d4c435c8203e3b3fbe932067e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_05_GA4_1_DE_3_E_O_LADO_DELE.mov",
+  "size": 18593334,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_05_GA4_1_DE_3_E_O_LADO_DELE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "9dfddda3d45d4ba12cff543bf479740d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_05_ref.png",
+  "size": 27855,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d2389c218a330e52c2261e3f6f295dd8"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_06_GOSTA_POUCO_IA.mov",
+  "size": 10596913,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_06_GOSTA_POUCO_IA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "7e79e3d897eb213be032a8d9c675dd16"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_06_ref.png",
+  "size": 50562,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "3ead32633a698df3b21c73c08877dabf"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_07_IA_2021_2025_E_BIGQUERY.mov",
+  "size": 70012464,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_07_IA_2021_2025_E_BIGQUERY.mov",
+  "status": "HASH_IGUAL",
+  "md5": "98c7f25df1afb70a1d97739f9c72bad4"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_07_ref.png",
+  "size": 88297,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_07_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "b48c769a40dc84ad0936011817e941d5"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_08_BOTAO_VIRA_MODELO.mov",
+  "size": 18194339,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_08_BOTAO_VIRA_MODELO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "08ad4ae9247ff11a3626221c39b3092f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C03_08_ref.png",
+  "size": 50062,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C03_08_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "04d4ddbbb191d12b9391f3e04abcca8a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_01_BORDAO_203_REPLAY.mov",
+  "size": 35204520,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_01_BORDAO_203_REPLAY.mov",
+  "status": "HASH_IGUAL",
+  "md5": "e7541ba6146c6582be244c42b660b71e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_01_ref.png",
+  "size": 271995,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "22b0aa1d1f885479b76e7549ccaec360"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_02_EPISODIO_DE_ORIGEM_INTERROGACAO.mov",
+  "size": 6289493,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_02_EPISODIO_DE_ORIGEM_INTERROGACAO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "f30a8c654a8b0baceb588a32d0fce853"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_02_ref.png",
+  "size": 44412,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "3883f2537af41e1a75ffc3d025f9b585"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_03_APELIDOS_16.mov",
+  "size": 36406363,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_03_APELIDOS_16.mov",
+  "status": "HASH_IGUAL",
+  "md5": "6bd50c5a9cad1e5d6f11ddb95630a77c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_03_ref.png",
+  "size": 42195,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "da03642e97ae1547b39100788abf8bad"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_04_GRITEM_SE_CONCORDAM.mov",
+  "size": 23076891,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_04_GRITEM_SE_CONCORDAM.mov",
+  "status": "HASH_IGUAL",
+  "md5": "e5a9317dbba68741b7fb05c9167f5446"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_04_ref.png",
+  "size": 909687,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "e9f24cc604506b5fc2617f3fa5125a92"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_05_PICA_PAU_24.mov",
+  "size": 27836397,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_05_PICA_PAU_24.mov",
+  "status": "HASH_IGUAL",
+  "md5": "d6431c8b12f93749e5e16c2f3ecad021"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C04_05_ref.png",
+  "size": 90304,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C04_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "bca47d950248edb9882a5d962a4924a5"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_01_MESA_191_348_140.mov",
+  "size": 22312512,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_01_MESA_191_348_140.mov",
+  "status": "HASH_IGUAL",
+  "md5": "8bddb2073e4caa04be36bca526bf4e3d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_01_ref.png",
+  "size": 25350,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "3f2b5ba581808125ccbb99f6c179a367"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_02_ref.png",
+  "size": 187192,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "c7557bf02d21ffb2ae0573bd1f174946"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_02_SETORES_E_GOOGLE.mov",
+  "size": 51778316,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_02_SETORES_E_GOOGLE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "4a7e6419a9bddef2e3a790280b92630d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_03_EU_QUERIA_TAMBEM_QUERIA.mov",
+  "size": 6293761,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_03_EU_QUERIA_TAMBEM_QUERIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "a61e8f3c37e788045acde934d651a49f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_03_ref.png",
+  "size": 171956,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "9e83e0a5516af4330b9666f6b85f56be"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_04_PICA_PAU_CHAMAMOS_A_POLICIA.mov",
+  "size": 41167471,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_04_PICA_PAU_CHAMAMOS_A_POLICIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "041a753abad1c5377807c9f8bc98bc38"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_04_ref.png",
+  "size": 121383,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "9b00cf4e88f78e150effd83b134e03c2"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_05_FICHA_DE_PRESENCA.mov",
+  "size": 71281467,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_05_FICHA_DE_PRESENCA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "ca241d5cb12c7c401f8a8c9a896c038b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C05_05_ref.png",
+  "size": 84641,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C05_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "21826ef84694752845324f6d33618db6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_01_ACERTA_ANTES.mov",
+  "size": 5263482,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_01_ACERTA_ANTES.mov",
+  "status": "HASH_IGUAL",
+  "md5": "a9098e5435234a759cea6e9d67ad4289"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_01_ref.png",
+  "size": 89657,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "216108ba0efe5836c333ffd2bd4c1fdc"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_02_BLEEP.mov",
+  "size": 4299750,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_02_BLEEP.mov",
+  "status": "HASH_IGUAL",
+  "md5": "5260a8596c0cb0a31b88d00f08c37d59"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_02_ref.png",
+  "size": 56138,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "f6bb20f6e46082ed38ee9e98f9f88c2f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_03_FEV_2022_TODINHO.mov",
+  "size": 58299205,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_03_FEV_2022_TODINHO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "1902b3ab32f9f41f7b5d379247a48b1d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_03_ref.png",
+  "size": 102693,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "e4aedd369cfa491e9522fff179557028"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_04_OUT_2024_MMM_MERIDIAN.mov",
+  "size": 62284190,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_04_OUT_2024_MMM_MERIDIAN.mov",
+  "status": "HASH_IGUAL",
+  "md5": "9a6be77d289b766b9351576c2b6f1e32"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_04_ref.png",
+  "size": 169515,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "663bc1a03207b4c28a4630888df7b65a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_05_ABR_2025_MCP.mov",
+  "size": 37782411,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_05_ABR_2025_MCP.mov",
+  "status": "HASH_IGUAL",
+  "md5": "7e276c9df3601099c02d465141315644"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_05_ref.png",
+  "size": 83229,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "f7cceb813bb0a8ae4eda958cf0edfb3a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_06_DEZ_2024_CONVERSAR_COM_DADOS.mov",
+  "size": 111249928,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_06_DEZ_2024_CONVERSAR_COM_DADOS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "9db980d7801a5ac08f5f8f45c5fa368a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C06_06_ref.png",
+  "size": 127697,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C06_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "85ca62098fddfcbfc0792005aa711060"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_01_ref.png",
+  "size": 123908,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "7ce6e2fe0114563e59496a90e4c7c0d8"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_01_VOCES_PLATEIA.mov",
+  "size": 6928644,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_01_VOCES_PLATEIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "af880516779f68e30e47f59d220504ed"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_02_PLAY_700_MIL.mov",
+  "size": 21906460,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_02_PLAY_700_MIL.mov",
+  "status": "HASH_IGUAL",
+  "md5": "f19b390b7ca182acda24e7c59db57a7c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_02_ref.png",
+  "size": 49291,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "2a3674426815bdfd09f877b9444b2ca7"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_03_MARATONA_ATE_2038.mov",
+  "size": 46437063,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_03_MARATONA_ATE_2038.mov",
+  "status": "HASH_IGUAL",
+  "md5": "5e1b0e87e95d6d6caf438b0ba31ca524"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_03_ref.png",
+  "size": 373893,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "2cb23d32b4822d33ccce7afd079389c2"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_04_PAISES_110.mov",
+  "size": 5618520,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_04_PAISES_110.mov",
+  "status": "HASH_IGUAL",
+  "md5": "99b7d1685c520f5bc4098be0ad3053a2"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_04_ref.png",
+  "size": 87278,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "1afaf8beb0a165c9d8f4e882d3cf5eda"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_05_EP_197.mov",
+  "size": 18155169,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_05_EP_197.mov",
+  "status": "HASH_IGUAL",
+  "md5": "e954a225ea51fb66c5a2a22c8769bb25"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_05_ref.png",
+  "size": 81977,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "cbd5d47d03120bf36e219ea86cbc790b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_06_GENTE.mov",
+  "size": 5922658,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_06_GENTE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "bc1f7a3fff81b740a26ef6c7a61240bd"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C07_06_ref.png",
+  "size": 82490,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C07_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "ee41508bf5d128b112bff2f38305281e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C08_01_ref.png",
+  "size": 333173,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C08_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "fea91ad2468762a77cff3e8a74ba5f5e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C08_01_TITULO_EPISODIO.mov",
+  "size": 32683443,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C08_01_TITULO_EPISODIO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "4d63a995e7d9afa1834d4962f73e41dc"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C09_01_FINAL_300_E_CONTANDO.mov",
+  "size": 87626222,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C09_01_FINAL_300_E_CONTANDO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "400621f464269a12b53f8145572b4bf5"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/OVERLAYS/C09_01_ref.png",
+  "size": 495405,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/OVERLAYS/C09_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "9737cb97124674525f6830de3330028b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/STILLS/FREEZE_G_508_60.png",
+  "size": 1865267,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/STILLS/FREEZE_G_508_60.png",
+  "status": "HASH_IGUAL",
+  "md5": "c74a2f0d7da9b96c5d1100b37ade1689"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build/STILLS/FREEZE_G_689_60.png",
+  "size": 2067687,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V0_GERADOS/STILLS/FREEZE_G_689_60.png",
+  "status": "HASH_IGUAL",
+  "md5": "5027ca9e3a81767bb93207ec89e9f072"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/base_720.mp4",
+  "size": 199082752,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/base_list.txt",
+  "size": 4039,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/build_full.log",
+  "size": 2075,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/build_r2.log",
+  "size": 5119,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/EP300_ABERTURA_V1.xml",
+  "size": 138046,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_ABERTURA_V1/EP300_ABERTURA_V1.xml",
+  "status": "HASH_IGUAL",
+  "md5": "d3bfd9e578e8752f6044f47e5495597c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/EP300_ABERTURA_V1_PROXY.mp4",
+  "size": 112942918,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/03_EDITADOS/EP300_ABERTURA_V1_PROXY.mp4",
+  "status": "HASH_IGUAL",
+  "md5": "c362e045c18775e1cd4de608255ea353"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/mix.wav",
+  "size": 67116878,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/mix_raw.wav",
+  "size": 67116844,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/publish.log",
+  "size": 42,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/publish_log.json",
+  "size": 9907,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/timeline_v1.json",
+  "size": 24798,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_ABERTURA_V1/timeline_v1.json",
+  "status": "HASH_IGUAL",
+  "md5": "a26849a8aec1d086f4daa4453cad4efe"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/AUDIO/COLD_B_2023_05_24.wav",
+  "size": 940878,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/AUDIO/COLD_B_2023_05_24.wav",
+  "status": "HASH_IGUAL",
+  "md5": "17d69743f8c5e52589509d3a2e7d1fce"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/AUDIO/COLD_B_VERDADES.wav",
+  "size": 474318,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/AUDIO/COLD_B_VERDADES.wav",
+  "status": "HASH_IGUAL",
+  "md5": "de5238f35eb17e2702da550c48618e0a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/AUDIO/SFX_BLEEP_1kHz.wav",
+  "size": 243880,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/AUDIO/SFX_BLEEP_1kHz.wav",
+  "status": "HASH_IGUAL",
+  "md5": "7e8483d5977b94eaa60914d85f199025"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/AUDIO/SFX_LEADER_BEEP_1kHz.wav",
+  "size": 17324,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/AUDIO/SFX_LEADER_BEEP_1kHz.wav",
+  "status": "HASH_IGUAL",
+  "md5": "f191347c3b752e3eb59b15b2431f6b1b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/AUDIO/STEM_DIALOGO.wav",
+  "size": 67116844,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/AUDIO/STEM_DIALOGO.wav",
+  "status": "HASH_IGUAL",
+  "md5": "a49e36739f1aeb21ae7848be4d1a115a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/AUDIO/STEM_SFX.wav",
+  "size": 67116844,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/AUDIO/STEM_SFX.wav",
+  "status": "HASH_IGUAL",
+  "md5": "015c30d153e60dc660f0d54499384d8e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/AUDIO/STEM_TRILHA.wav",
+  "size": 67116844,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/AUDIO/STEM_TRILHA.wav",
+  "status": "HASH_IGUAL",
+  "md5": "ce4743bb31a09360f0e300948e0990e4"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/LUTS/LUMETRI_APROX_G.cube",
+  "size": 898472,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/LUTS/LUMETRI_APROX_G.cube",
+  "status": "HASH_IGUAL",
+  "md5": "a6783851fe7ca23fbba8dd866a3dcdbf"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/LUTS/LUMETRI_APROX_L.cube",
+  "size": 898472,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/LUTS/LUMETRI_APROX_L.cube",
+  "status": "HASH_IGUAL",
+  "md5": "6d9b4d6c576aad904ebaa41163fdc914"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/LUTS/LUMETRI_APROX_W.cube",
+  "size": 898472,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/LUTS/LUMETRI_APROX_W.cube",
+  "status": "HASH_IGUAL",
+  "md5": "7769b287fe56486607065b71d72f20ba"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C00_00_COLD_OPEN_ARQUIVO.mov",
+  "size": 21950716,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C00_00_COLD_OPEN_ARQUIVO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "3f4aa23606e598d50863bee70c99bf7b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C00_00_ref.png",
+  "size": 16478,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C00_00_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "50dac65886c049344ceccdb501bb5511"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C00_01_CONTAGEM_PRE_SESSAO.mov",
+  "size": 37383591,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C00_01_CONTAGEM_PRE_SESSAO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "48a30b307f41a2310e7da01cfff70c1a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C00_01_ref.png",
+  "size": 48411,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C00_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "ee84c9898726e6b874a035b6f3b90820"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C00_02_ref.png",
+  "size": 410002,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C00_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "386ea23e3ee4061d500e638674ccd7bc"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C00_02_TELA_EPISODIO_300.mov",
+  "size": 69599663,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C00_02_TELA_EPISODIO_300.mov",
+  "status": "HASH_IGUAL",
+  "md5": "827398745199ceb0f6d21d70239cc639"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C00_03_AVISO_ANTES_DA_SESSAO.mov",
+  "size": 242558527,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C00_03_AVISO_ANTES_DA_SESSAO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "f3c572464c83edb4b9e30ce79ff245a4"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C00_03_ref.png",
+  "size": 286358,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C00_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "9a224ea77c80acb4703c135a77bb8e3f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C01_01_ADESIVO_300_CONFETE.mov",
+  "size": 8851842,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C01_01_ADESIVO_300_CONFETE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "41c9c17fabfaaacc95e59d3e5c51fe80"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C01_01_ref.png",
+  "size": 122370,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C01_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "37514174f0101a44add8e25ff786cc64"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C01_02_DADOS_11526_TELA_CHEIA.mov",
+  "size": 102743791,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C01_02_DADOS_11526_TELA_CHEIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "2e91a6483bb835acfd748b1b176fb487"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C01_02_ref.png",
+  "size": 108494,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C01_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "721fa789eb775f58b1071af46d029a8c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C01_03_PLACAR_DADOS_X_ACHO.mov",
+  "size": 107565253,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C01_03_PLACAR_DADOS_X_ACHO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "682d10034ba4a8172b476fe5e094af5e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C01_03_ref.png",
+  "size": 200285,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C01_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "dd166f9d7a2911236935643cbd72b1c0"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C02_01_HISTORIA_LINHA_DO_TEMPO.mov",
+  "size": 156168148,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C02_01_HISTORIA_LINHA_DO_TEMPO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "cd2217fe8b7db10eda1f20d86296b59c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C02_01_ref.png",
+  "size": 241953,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C02_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d430f9add4a124ccbd39861ef5677bfb"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C02_02_CHUVA_DE_PERGUNTAS.mov",
+  "size": 34319159,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C02_02_CHUVA_DE_PERGUNTAS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "48674df200a907e254226cd0814a4538"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C02_02_ref.png",
+  "size": 293504,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C02_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "6693cac27efe577cd2662ca9ad8fe6f4"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_01_RAJADA_FERRAMENTAS_TELA_CHEIA.mov",
+  "size": 161856015,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_01_RAJADA_FERRAMENTAS_TELA_CHEIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "acd74f6a3e852740480cd6527125c3e7"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_01_ref.png",
+  "size": 301227,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "f651c9a2cb1d541b114cda2e020bd280"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_02_ref.png",
+  "size": 164562,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "a46585f732579c12c4cb2946d6d66d83"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_02_UNIVERSAL_ON_OFF.mov",
+  "size": 76044976,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_02_UNIVERSAL_ON_OFF.mov",
+  "status": "HASH_IGUAL",
+  "md5": "696a7d2d4606b6cc39a985d11114376f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_03_CONTADOR_153_GRADE_4_DE_10.mov",
+  "size": 66584747,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_03_CONTADOR_153_GRADE_4_DE_10.mov",
+  "status": "HASH_IGUAL",
+  "md5": "8dc9abeab9f601a1292375540d0e89ce"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_03_ref.png",
+  "size": 56143,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d155e9c251fc75effe2cc43ffba08a70"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_04_DE_NADA_VITORIA.mov",
+  "size": 35593481,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_04_DE_NADA_VITORIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "6d56dfb9c9cd1bf4754a0f7311a519b6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_04_ref.png",
+  "size": 399025,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "3705abdf264c9d95176f7a69cd29fccf"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_05_GA4_1_DE_3.mov",
+  "size": 80619107,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_05_GA4_1_DE_3.mov",
+  "status": "HASH_IGUAL",
+  "md5": "49ba8294d9a0fae86b622550228ff9cf"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_05_ref.png",
+  "size": 99289,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "e2f2907426f6c2f8083d3ffa43d5507b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_06_GOSTA_POUCO_IA.mov",
+  "size": 11850256,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_06_GOSTA_POUCO_IA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "5b177248acaa9ab2aef3b2eced23d098"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_06_ref.png",
+  "size": 125883,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "31fa47a47151c10094b8daa4196a5c7f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_07_IA_LINHA_DO_TEMPO.mov",
+  "size": 184670418,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_07_IA_LINHA_DO_TEMPO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "f0f780b7e9b9da5fcde2fcc54ed21e91"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_07_ref.png",
+  "size": 157770,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_07_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "faa5bf50de58a533b5f17e7e306ee52f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_08_BOTAO_VIRA_MODELO.mov",
+  "size": 63370481,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_08_BOTAO_VIRA_MODELO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "bd2454d9988a9474ef3b40c00924abe6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C03_08_ref.png",
+  "size": 79046,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C03_08_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "65691e2726d08a854cc0d387c30fd623"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_01_BORDAO_203_PRINTS.mov",
+  "size": 92726025,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_01_BORDAO_203_PRINTS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "20ebeb7c815c4bb045d8b21bdbed81f2"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_01_ref.png",
+  "size": 1240778,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "c50a2a8c83df9edad54db0808ffa149b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_02_EPISODIO_DE_ORIGEM.mov",
+  "size": 7724424,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_02_EPISODIO_DE_ORIGEM.mov",
+  "status": "HASH_IGUAL",
+  "md5": "674612c176ed69a84c5cd2bbfe806854"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_02_ref.png",
+  "size": 44294,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "90d6ad63ab97c632cadf5e2c98e0f37b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_03_APELIDOS_16.mov",
+  "size": 75006461,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_03_APELIDOS_16.mov",
+  "status": "HASH_IGUAL",
+  "md5": "93831ba4aee717b53b21d928ed1e549f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_03_ref.png",
+  "size": 393138,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "994c9f263dbb66c79bae10b10a992af1"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_04_DIAMANTE_NEGRO_OFICIAL.mov",
+  "size": 23725449,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_04_DIAMANTE_NEGRO_OFICIAL.mov",
+  "status": "HASH_IGUAL",
+  "md5": "fcf2f6feee95e4d49619f9d568ccd7c8"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_04_ref.png",
+  "size": 343253,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "ffe24d616213ffdb23f0848f7f550bc2"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_05_GRITEM_SE_CONCORDAM.mov",
+  "size": 20879539,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_05_GRITEM_SE_CONCORDAM.mov",
+  "status": "HASH_IGUAL",
+  "md5": "033843aa08429e4484a2c83d0f5e9b22"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_05_ref.png",
+  "size": 248043,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "15b04f8fe483334c9158c89ab30ec3b6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_06_PICA_PAU_24_TELA_CHEIA.mov",
+  "size": 137730704,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_06_PICA_PAU_24_TELA_CHEIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "0d89dd2a940cf66d0927da525c38b286"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C04_06_ref.png",
+  "size": 196915,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C04_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "82c6bd59736f5eda6481c8a5966cddf3"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_01_MESA_191_348_140_MURAL.mov",
+  "size": 176284404,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_01_MESA_191_348_140_MURAL.mov",
+  "status": "HASH_IGUAL",
+  "md5": "7346d25c0b6879ad3ba921611254ac4f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_01_ref.png",
+  "size": 968054,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "47605a09902e7f64d28b93df9b5f5d28"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_02_ref.png",
+  "size": 118558,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "b8bdf857eed839c06b3754085cb888c6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_02_SETORES_E_GOOGLE.mov",
+  "size": 81812644,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_02_SETORES_E_GOOGLE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "127f34793c057ab3fb7f998a450e5913"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_03_EU_QUERIA_CHORANDO.mov",
+  "size": 20033246,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_03_EU_QUERIA_CHORANDO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "dd0f0a8ffb5eae4ddce96adabe0a7bd1"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_03_ref.png",
+  "size": 539075,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d20bb06d7e428b3cd30f9af91894e922"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_04_PICA_PAU_PM_RJ_EP126.mov",
+  "size": 90584321,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_04_PICA_PAU_PM_RJ_EP126.mov",
+  "status": "HASH_IGUAL",
+  "md5": "0f6ec7983848d07a87aa1f21d19cc199"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_04_ref.png",
+  "size": 485458,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "3654f1694d1669ef232bfdb04bcaf0bc"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_05_FICHA_DE_PRESENCA_FOTOS.mov",
+  "size": 223371846,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_05_FICHA_DE_PRESENCA_FOTOS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "2b745c17a312c03a190558eb1ea3a5ff"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C05_05_ref.png",
+  "size": 561285,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C05_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "ed5590acfbf46907f56a87ecf7eed0c6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_01_ACERTA_ANTES.mov",
+  "size": 2808797,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_01_ACERTA_ANTES.mov",
+  "status": "HASH_IGUAL",
+  "md5": "55ae7104240381638ae4cb26115d8fc6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_01_ref.png",
+  "size": 65730,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "b7b43a1f80be3ecc8aea7546291d9562"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_02_BLEEP.mov",
+  "size": 3780693,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_02_BLEEP.mov",
+  "status": "HASH_IGUAL",
+  "md5": "8e7a51258bda86f669cf1a0e2b52b043"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_02_ref.png",
+  "size": 56034,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "10f7d0e3c8858b8a10b0fdbfe411ab92"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_03_DATAS_FEV22_OUT24.mov",
+  "size": 190884954,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_03_DATAS_FEV22_OUT24.mov",
+  "status": "HASH_IGUAL",
+  "md5": "25650eca5085c16ba6ad0c6f1cef9788"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_03_ref.png",
+  "size": 115165,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "00ce82a7760dd1d76e69833a4da8bd46"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_04_DE_NADA_PURPLE.mov",
+  "size": 15183053,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_04_DE_NADA_PURPLE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "2e47fee66a998348edd7be8b2880c4c9"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_04_ref.png",
+  "size": 105629,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "8401c313fbc6c2b817c778d4d975aaa0"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_05_DATAS_MERIDIAN_MCP_DEZ24.mov",
+  "size": 196481796,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_05_DATAS_MERIDIAN_MCP_DEZ24.mov",
+  "status": "HASH_IGUAL",
+  "md5": "751b90f2d21f2953b625d0cad9ef1d3f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_05_ref.png",
+  "size": 212788,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "a71109271a2c20d003a3374b8c342035"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_06_MEIA_CULPA.mov",
+  "size": 4245795,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_06_MEIA_CULPA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "e0d6eaa3d8bf56362679e6a02e709e7d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_06_ref.png",
+  "size": 24320,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "2f02e1470948915e270d904f7c500afe"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_07_DATAS_FEV26_JUN26_ACERTOU.mov",
+  "size": 96117100,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_07_DATAS_FEV26_JUN26_ACERTOU.mov",
+  "status": "HASH_IGUAL",
+  "md5": "0b5c49a865144b76eee0d9d7cb85faae"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C06_07_ref.png",
+  "size": 169362,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C06_07_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "61d6c1dfa41b9c94772a84ef19a1130d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_01_ref.png",
+  "size": 92258,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "b184e1ecb977071ccb3cf5a2d8802c86"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_01_VOCES_PLATEIA.mov",
+  "size": 5383335,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_01_VOCES_PLATEIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "6c47597f55a0bcd7ade71b9708427faa"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_02_PLAY_700_MIL.mov",
+  "size": 57915233,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_02_PLAY_700_MIL.mov",
+  "status": "HASH_IGUAL",
+  "md5": "76bef8c0665f80fb4d9dfd134ed93f71"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_02_ref.png",
+  "size": 67525,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "ae4295f4e65c8478672232cea2e3fc81"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_03_DE_VOLTA_PARA_2038.mov",
+  "size": 93209103,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_03_DE_VOLTA_PARA_2038.mov",
+  "status": "HASH_IGUAL",
+  "md5": "06337af051ecbc74f8d0e3f736e966e0"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_03_ref.png",
+  "size": 497387,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "f4b0fd470545cdc763b06f333f1494e9"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_04_PAISES_110_BANDEIRAS.mov",
+  "size": 18699897,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_04_PAISES_110_BANDEIRAS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "56537a142f554ffeea750d30b2217901"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_04_ref.png",
+  "size": 246441,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "68057ec8b836131166bd227c68bd2dd4"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_05_EP_197.mov",
+  "size": 45370841,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_05_EP_197.mov",
+  "status": "HASH_IGUAL",
+  "md5": "94716a64dd30864e4186c8ce703babf6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_05_ref.png",
+  "size": 121199,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "df559bb6e29b530715594c68cf00a635"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_06_GENTE.mov",
+  "size": 6118560,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_06_GENTE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "4c3b6c4e636b30249e159d40f9b8f33b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C07_06_ref.png",
+  "size": 80935,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C07_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d6ec5e5bed29d58f8cc46bfa5fd4fdce"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C08_01_ref.png",
+  "size": 337939,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C08_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "870eb1f1a3aa46f47b3ae89b066de4e7"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C08_01_TITULO_EPISODIO.mov",
+  "size": 45164287,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C08_01_TITULO_EPISODIO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "fba7ca5bf81365298149a0b0879e395b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C09_01_FINAL_300_E_CONTANDO.mov",
+  "size": 94140840,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C09_01_FINAL_300_E_CONTANDO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "4d36fa2bafa0ba19a0a16fa642433fbb"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/OVERLAYS/C09_01_ref.png",
+  "size": 448575,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/OVERLAYS/C09_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "fa1b8ea2cd15111eb01008b5a3e2b7fe"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v1/STILLS/FREEZE_WG_689_60.png",
+  "size": 1244602,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V1_GERADOS/STILLS/FREEZE_WG_689_60.png",
+  "status": "HASH_IGUAL",
+  "md5": "547c07d1b37d009fb04105a5fc860618"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/base_720.mp4",
+  "size": 205407636,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/base_list.txt",
+  "size": 4158,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/EP300_ABERTURA_V2.xml",
+  "size": 165866,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_ABERTURA_V2/EP300_ABERTURA_V2.xml",
+  "status": "HASH_IGUAL",
+  "md5": "c7acfc563473eb2a2148c888471a5baf"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/EP300_ABERTURA_V2_PROXY.mp4",
+  "size": 119624930,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/03_EDITADOS/EP300_ABERTURA_V2_PROXY.mp4",
+  "status": "HASH_IGUAL",
+  "md5": "e23d5dfff5f9bf293a01dc24ef7e2e63"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/mix.wav",
+  "size": 71379278,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/mix_raw.wav",
+  "size": 71379244,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/publish_log.json",
+  "size": 15252,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/timeline_v2.json",
+  "size": 26962,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_ABERTURA_V2/timeline_v2.json",
+  "status": "HASH_IGUAL",
+  "md5": "f3d928ebee1987644be8447e217476b4"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/COLD_B_2023_05_24.wav",
+  "size": 1785678,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/COLD_B_2023_05_24.wav",
+  "status": "HASH_IGUAL",
+  "md5": "548f81e00bd56d3ce6fe76c448d42dad"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/COLD_B_VERDADES.wav",
+  "size": 474318,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/COLD_B_VERDADES.wav",
+  "status": "HASH_IGUAL",
+  "md5": "de5238f35eb17e2702da550c48618e0a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_BLEEP_1kHz.wav",
+  "size": 243880,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_BLEEP_1kHz.wav",
+  "status": "HASH_IGUAL",
+  "md5": "7e8483d5977b94eaa60914d85f199025"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_LEADER_BEEP_1kHz.wav",
+  "size": 17324,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_LEADER_BEEP_1kHz.wav",
+  "status": "HASH_IGUAL",
+  "md5": "e7a4760f1a25351b33184c23ebc4103e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_party.wav",
+  "size": 307244,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_party.wav",
+  "status": "HASH_IGUAL",
+  "md5": "7701e5f1a1ed9dce6c4f4091a6f215d2"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_pop.wav",
+  "size": 34604,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_pop.wav",
+  "status": "HASH_IGUAL",
+  "md5": "9e7bdd5fdbeb5e72cede6635e174725e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_rise2.6.wav",
+  "size": 499244,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_rise2.6.wav",
+  "status": "HASH_IGUAL",
+  "md5": "0ec78da0e47c1cd0dadd03553468ecd5"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_thump.wav",
+  "size": 105644,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_thump.wav",
+  "status": "HASH_IGUAL",
+  "md5": "7ff6b0c50e58e943be9c17523acab380"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_tickup0.8.wav",
+  "size": 182444,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_tickup0.8.wav",
+  "status": "HASH_IGUAL",
+  "md5": "0aa8120ac086ee0705ca9b381cc343fd"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_tickup0.9.wav",
+  "size": 201644,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_tickup0.9.wav",
+  "status": "HASH_IGUAL",
+  "md5": "176329bf6f51ac986de33f6d1d83dd52"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_tickup0.95.wav",
+  "size": 211240,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_tickup0.95.wav",
+  "status": "HASH_IGUAL",
+  "md5": "3aa402152322f96e3a6e8a15f94b012c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_tickup1.0.wav",
+  "size": 220840,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_tickup1.0.wav",
+  "status": "HASH_IGUAL",
+  "md5": "17d0edc9b367f210cab7b211fbd37777"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_tickup1.1.wav",
+  "size": 240044,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_tickup1.1.wav",
+  "status": "HASH_IGUAL",
+  "md5": "089a46f2d3a94121247e802e93b25bb4"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/SFX_SYN_tickup2.6.wav",
+  "size": 528044,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/SFX_SYN_tickup2.6.wav",
+  "status": "HASH_IGUAL",
+  "md5": "88cbc4d543a5dcc78cb6f5a13b014ac8"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/STEM_DIALOGO.wav",
+  "size": 71379244,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/STEM_DIALOGO.wav",
+  "status": "HASH_IGUAL",
+  "md5": "9ac806f791d90a1a45e3166c730841c3"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/STEM_SFX.wav",
+  "size": 71379244,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/STEM_SFX.wav",
+  "status": "HASH_IGUAL",
+  "md5": "baa5bcec9c51e797a8aa1f9086a19d7e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/AUDIO/STEM_TRILHA.wav",
+  "size": 71379244,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/AUDIO/STEM_TRILHA.wav",
+  "status": "HASH_IGUAL",
+  "md5": "a3ca0c91581c469b72c2b11d58413a80"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/LUTS/LUMETRI_APROX_G.cube",
+  "size": 898472,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/LUTS/LUMETRI_APROX_G.cube",
+  "status": "HASH_IGUAL",
+  "md5": "a6783851fe7ca23fbba8dd866a3dcdbf"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/LUTS/LUMETRI_APROX_L.cube",
+  "size": 898472,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/LUTS/LUMETRI_APROX_L.cube",
+  "status": "HASH_IGUAL",
+  "md5": "6d9b4d6c576aad904ebaa41163fdc914"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/LUTS/LUMETRI_APROX_W.cube",
+  "size": 898472,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/LUTS/LUMETRI_APROX_W.cube",
+  "status": "HASH_IGUAL",
+  "md5": "7769b287fe56486607065b71d72f20ba"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_00_COLD_OPEN_ARQUIVO.mov",
+  "size": 35203836,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C00_00_COLD_OPEN_ARQUIVO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "af9cb972e41459d5456a7da12f9b4a8b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_00_COLD_OPEN_ARQUIVO.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_00_ref.png",
+  "size": 16386,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C00_00_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "c1c1bf7f2ecd651a87d8533097ef4ef2"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_01_CONTAGEM_PRE_SESSAO.mov",
+  "size": 40647920,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C00_01_CONTAGEM_PRE_SESSAO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "ac9505f699e433118da3d48aec5f6c93"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_01_CONTAGEM_PRE_SESSAO.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_01_ref.png",
+  "size": 48411,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C00_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "ee84c9898726e6b874a035b6f3b90820"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_02_ref.png",
+  "size": 723141,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C00_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "affb132b50ebf6dba03684af0c769b11"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_02_TELA_EPISODIO_300.mov",
+  "size": 77762605,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C00_02_TELA_EPISODIO_300.mov",
+  "status": "HASH_IGUAL",
+  "md5": "70f9d8ec884427e7dccf3fc2a8cfb39f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_02_TELA_EPISODIO_300.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_03_AVISO_ANTES_DA_SESSAO.mov",
+  "size": 451412986,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C00_03_AVISO_ANTES_DA_SESSAO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "27cb09661736e3c561022cadf6fdcb5b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_03_AVISO_ANTES_DA_SESSAO.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C00_03_ref.png",
+  "size": 59983,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C00_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "e887cba6ccb0d8a6933dcde7b5b0b34d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C01_01_ADESIVO_300_CONFETE.mov",
+  "size": 8855021,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C01_01_ADESIVO_300_CONFETE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "ed183a874723494f911a0b28f683464f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C01_01_ADESIVO_300_CONFETE.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C01_01_ref.png",
+  "size": 122476,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C01_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "5299f94825c88b51c33a0e4561b79502"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C01_02_DADOS_11526_TELA_CHEIA.mov",
+  "size": 101104899,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C01_02_DADOS_11526_TELA_CHEIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "2d758e6f17acf747a6bcaef1983945df"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C01_02_DADOS_11526_TELA_CHEIA.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C01_02_ref.png",
+  "size": 108494,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C01_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "721fa789eb775f58b1071af46d029a8c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C01_03_PLACAR_DADOS_X_ACHO.mov",
+  "size": 107062013,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C01_03_PLACAR_DADOS_X_ACHO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "6f1877349426ae8172d0bcf2544f1c29"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C01_03_PLACAR_DADOS_X_ACHO.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C01_03_ref.png",
+  "size": 200285,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C01_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "dd166f9d7a2911236935643cbd72b1c0"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C02_01_HISTORIA_LINHA_DO_TEMPO.mov",
+  "size": 157958759,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C02_01_HISTORIA_LINHA_DO_TEMPO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "797bd49b44d84f2e15ca3ee230c0a6ab"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C02_01_HISTORIA_LINHA_DO_TEMPO.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C02_01_ref.png",
+  "size": 242105,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C02_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "25123cd5ca49adf93d35a52b13666c44"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C02_02_CHUVA_DE_PERGUNTAS.mov",
+  "size": 34319159,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C02_02_CHUVA_DE_PERGUNTAS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "48674df200a907e254226cd0814a4538"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C02_02_CHUVA_DE_PERGUNTAS.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C02_02_ref.png",
+  "size": 293504,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C02_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "6693cac27efe577cd2662ca9ad8fe6f4"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C02_03_EVOLUCAO_DO_PROGRAMA.mov",
+  "size": 79378936,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C02_03_EVOLUCAO_DO_PROGRAMA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "509e2b7716d109f9868b0a9fa9c3eba9"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C02_03_EVOLUCAO_DO_PROGRAMA.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C02_03_ref.png",
+  "size": 581351,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C02_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "074c0fcccc40d1fb8fd050ef5558d619"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_01_ECOSSISTEMA_DE_FERRAMENTAS.mov",
+  "size": 166991134,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_01_ECOSSISTEMA_DE_FERRAMENTAS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "9dfe827af4dc4417ea5deccb8ba6915a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_01_ECOSSISTEMA_DE_FERRAMENTAS.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_01_ref.png",
+  "size": 377809,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d0a9aabb50332ad447cd5b843780d936"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_02_ref.png",
+  "size": 164562,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "a46585f732579c12c4cb2946d6d66d83"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_02_UNIVERSAL_ON_OFF.mov",
+  "size": 80094831,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_02_UNIVERSAL_ON_OFF.mov",
+  "status": "HASH_IGUAL",
+  "md5": "1a99266f7c38ad5a0bc8fd55f76338fe"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_02_UNIVERSAL_ON_OFF.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_03_CONTADOR_153_GRADE_4_DE_10.mov",
+  "size": 70778436,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_03_CONTADOR_153_GRADE_4_DE_10.mov",
+  "status": "HASH_IGUAL",
+  "md5": "60df65e7db8823b4e5df536cedf5ae05"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_03_CONTADOR_153_GRADE_4_DE_10.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_03_ref.png",
+  "size": 56143,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d155e9c251fc75effe2cc43ffba08a70"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_04_DE_NADA_VITORIA.mov",
+  "size": 39813634,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_04_DE_NADA_VITORIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "a7e66b5347e50d70b1cb646d4bd110b8"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_04_DE_NADA_VITORIA.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_04_ref.png",
+  "size": 415811,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "c1182e32c2381a077cd7505ccc7205ed"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_05_GA4_1_DE_3.mov",
+  "size": 80270553,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_05_GA4_1_DE_3.mov",
+  "status": "HASH_IGUAL",
+  "md5": "0591a9a288b1a2004e182f1271c07c31"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_05_GA4_1_DE_3.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_05_ref.png",
+  "size": 99289,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "e2f2907426f6c2f8083d3ffa43d5507b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_06_GOSTA_POUCO_IA.mov",
+  "size": 11885490,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_06_GOSTA_POUCO_IA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "b5fb3236dd7acfeb410ceba8062a98bb"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_06_GOSTA_POUCO_IA.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_06_ref.png",
+  "size": 125880,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "30859d19a99fa8996455353537ab3a12"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_07_IA_LINHA_DO_TEMPO.mov",
+  "size": 185709922,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_07_IA_LINHA_DO_TEMPO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "aac128b13fd62cf951d2a39af5829f83"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_07_IA_LINHA_DO_TEMPO.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_07_ref.png",
+  "size": 157720,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_07_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "9c32300553079ed1123d2021c65dba9a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_08_BOTAO_VIRA_MODELO.mov",
+  "size": 70124251,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_08_BOTAO_VIRA_MODELO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "9eb3003c0b57119b527e9cf5297d8f74"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_08_BOTAO_VIRA_MODELO.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C03_08_ref.png",
+  "size": 78710,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C03_08_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "0469026345e8ec746fd68a87bb55bff2"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_01_BORDAO_203_PRINTS.mov",
+  "size": 92730093,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_01_BORDAO_203_PRINTS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "e600336d85b8c07b67e38b696e1dc563"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_01_BORDAO_203_PRINTS.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_01_ref.png",
+  "size": 1236279,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "3d92b8463dc421cef3fd0c842f1930d1"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_02_EPISODIO_DE_ORIGEM.mov",
+  "size": 7724424,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_02_EPISODIO_DE_ORIGEM.mov",
+  "status": "HASH_IGUAL",
+  "md5": "674612c176ed69a84c5cd2bbfe806854"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_02_EPISODIO_DE_ORIGEM.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_02_ref.png",
+  "size": 44294,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "90d6ad63ab97c632cadf5e2c98e0f37b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_03_APELIDOS_16.mov",
+  "size": 79367938,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_03_APELIDOS_16.mov",
+  "status": "HASH_IGUAL",
+  "md5": "abd44df7c0300e973036f4aa21619a6a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_03_APELIDOS_16.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_03_ref.png",
+  "size": 393138,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "994c9f263dbb66c79bae10b10a992af1"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_04_DIAMANTE_NEGRO_OFICIAL.mov",
+  "size": 31769446,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_04_DIAMANTE_NEGRO_OFICIAL.mov",
+  "status": "HASH_IGUAL",
+  "md5": "28bad72974e31cd270261f44305810b9"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_04_DIAMANTE_NEGRO_OFICIAL.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_04_ref.png",
+  "size": 345176,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "def4f952d17812a88225243aae417002"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_05_GRITEM_SE_CONCORDAM.mov",
+  "size": 21147125,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_05_GRITEM_SE_CONCORDAM.mov",
+  "status": "HASH_IGUAL",
+  "md5": "8b0e7638b6cc5c22c5b5cf95b100a86d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_05_GRITEM_SE_CONCORDAM.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_05_ref.png",
+  "size": 249087,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "2778eefa843ff93e4e2736929ea63fa5"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_06_PICA_PAU_24_TELA_CHEIA.mov",
+  "size": 156392600,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_06_PICA_PAU_24_TELA_CHEIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "d5af31778651fafc2a7db29c67f13f19"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_06_PICA_PAU_24_TELA_CHEIA.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C04_06_ref.png",
+  "size": 472720,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C04_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "599a40bc05449722a72458d116f163b3"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_01_MESA_191_348_140_MURAL.mov",
+  "size": 165307375,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_01_MESA_191_348_140_MURAL.mov",
+  "status": "HASH_IGUAL",
+  "md5": "59773444f64883eddea9f321322e50fb"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_01_MESA_191_348_140_MURAL.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_01_ref.png",
+  "size": 673834,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "b6d3c391cf0f692ef635adda7f616e92"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_02_ref.png",
+  "size": 198290,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "839b568860286c0d827b84a3d5d3ac38"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_02_SETORES_E_GOOGLE.mov",
+  "size": 86953799,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_02_SETORES_E_GOOGLE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "d803bfc4e86aefe1ef354bf8c53f9dbd"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_02_SETORES_E_GOOGLE.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_03_EU_QUERIA_CHORANDO.mov",
+  "size": 23037914,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_03_EU_QUERIA_CHORANDO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "2fc23de5f630fc5ea2ea1de68578b663"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_03_EU_QUERIA_CHORANDO.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_03_ref.png",
+  "size": 538987,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "9e61b48fe147389b7a0d4703024e774a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_04_PICA_PAU_PM_RJ_EP126.mov",
+  "size": 90807776,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_04_PICA_PAU_PM_RJ_EP126.mov",
+  "status": "HASH_IGUAL",
+  "md5": "fe17804756ffdd6437b2090ef42d8fcc"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_04_PICA_PAU_PM_RJ_EP126.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_04_ref.png",
+  "size": 485458,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "3654f1694d1669ef232bfdb04bcaf0bc"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_05_FICHA_DE_PRESENCA_FOTOS.mov",
+  "size": 243846952,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_05_FICHA_DE_PRESENCA_FOTOS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "e68850774abd08631acb8d94780c9da7"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_05_FICHA_DE_PRESENCA_FOTOS.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C05_05_ref.png",
+  "size": 631012,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C05_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "afb813c26787b1a361e83311df477041"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_01_ACERTA_ANTES.mov",
+  "size": 2805872,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_01_ACERTA_ANTES.mov",
+  "status": "HASH_IGUAL",
+  "md5": "982d0741ff80d6299cb7e8e6d8dbbeab"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_01_ACERTA_ANTES.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_01_ref.png",
+  "size": 65998,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d19c66ec258049a1efeddb3f6eea0ec0"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_02_BLEEP.mov",
+  "size": 3780693,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_02_BLEEP.mov",
+  "status": "HASH_IGUAL",
+  "md5": "8e7a51258bda86f669cf1a0e2b52b043"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_02_BLEEP.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_02_ref.png",
+  "size": 56034,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "10f7d0e3c8858b8a10b0fdbfe411ab92"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_03_DATAS_FEV22_OUT24.mov",
+  "size": 193337225,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_03_DATAS_FEV22_OUT24.mov",
+  "status": "HASH_IGUAL",
+  "md5": "96c363112d51ae491aca6ab4663157b7"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_03_DATAS_FEV22_OUT24.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_03_ref.png",
+  "size": 148799,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "1f94f76e33495371f55b87d339cb1592"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_04_DE_NADA_PURPLE.mov",
+  "size": 24074285,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_04_DE_NADA_PURPLE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "cbaadb0bbe64442f86c128f55be507eb"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_04_DE_NADA_PURPLE.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_04_ref.png",
+  "size": 397560,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "336ffc90ead43de9a2e8bd97dceadb27"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_05_DATAS_MERIDIAN_MCP_DEZ24.mov",
+  "size": 199555289,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_05_DATAS_MERIDIAN_MCP_DEZ24.mov",
+  "status": "HASH_IGUAL",
+  "md5": "b7a4fbd43a9777553f114242e3144995"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_05_DATAS_MERIDIAN_MCP_DEZ24.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_05_ref.png",
+  "size": 237472,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "a6a68ae03b65fe6bd0e3e0ee5f2231b9"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_06_MEIA_CULPA.mov",
+  "size": 4245795,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_06_MEIA_CULPA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "e0d6eaa3d8bf56362679e6a02e709e7d"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_06_MEIA_CULPA.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_06_ref.png",
+  "size": 24320,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "2f02e1470948915e270d904f7c500afe"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_07_DATAS_FEV26_JUN26_ACERTOU.mov",
+  "size": 107993359,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_07_DATAS_FEV26_JUN26_ACERTOU.mov",
+  "status": "HASH_IGUAL",
+  "md5": "a0ace0203567902cebd5c24a9185b410"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_07_DATAS_FEV26_JUN26_ACERTOU.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C06_07_ref.png",
+  "size": 169474,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C06_07_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "8db5482a27b752220a8b2a0f4c3dd584"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_01_ref.png",
+  "size": 82766,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "4956be050ba715ab55366e480ab60467"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_01_VOCES_PLATEIA.mov",
+  "size": 4483490,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_01_VOCES_PLATEIA.mov",
+  "status": "HASH_IGUAL",
+  "md5": "6db6d023f3222942ee762e66213902b4"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_01_VOCES_PLATEIA.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_02_OUVIDAS_700_MIL.mov",
+  "size": 59954122,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_02_OUVIDAS_700_MIL.mov",
+  "status": "HASH_IGUAL",
+  "md5": "87d3eea38001f7293518bf443579d732"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_02_OUVIDAS_700_MIL.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_02_ref.png",
+  "size": 58215,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_02_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "0aecc6843f2255c5f8579259b971a0da"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_03_DE_VOLTA_PARA_2038.mov",
+  "size": 98481742,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_03_DE_VOLTA_PARA_2038.mov",
+  "status": "HASH_IGUAL",
+  "md5": "dff6d1cbced215519687387c2657a8dd"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_03_DE_VOLTA_PARA_2038.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_03_ref.png",
+  "size": 497387,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_03_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "f4b0fd470545cdc763b06f333f1494e9"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_04_PAISES_110_BANDEIRAS.mov",
+  "size": 16491440,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_04_PAISES_110_BANDEIRAS.mov",
+  "status": "HASH_IGUAL",
+  "md5": "5b5e372623c6c1a5dfb31518d99de470"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_04_PAISES_110_BANDEIRAS.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_04_ref.png",
+  "size": 257866,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_04_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "5ec1fc69e44e174ac660150bc2af2822"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_05_EP_197.mov",
+  "size": 45370841,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_05_EP_197.mov",
+  "status": "HASH_IGUAL",
+  "md5": "94716a64dd30864e4186c8ce703babf6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_05_EP_197.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_05_ref.png",
+  "size": 121199,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_05_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "df559bb6e29b530715594c68cf00a635"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_06_GENTE.mov",
+  "size": 6118560,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_06_GENTE.mov",
+  "status": "HASH_IGUAL",
+  "md5": "4c3b6c4e636b30249e159d40f9b8f33b"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_06_GENTE.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C07_06_ref.png",
+  "size": 80935,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C07_06_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "d6ec5e5bed29d58f8cc46bfa5fd4fdce"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C08_01_ref.png",
+  "size": 337939,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C08_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "870eb1f1a3aa46f47b3ae89b066de4e7"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C08_01_TITULO_EPISODIO.mov",
+  "size": 48296701,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C08_01_TITULO_EPISODIO.mov",
+  "status": "HASH_IGUAL",
+  "md5": "0ecfa5fbb0d64b63fd5e3005b25fad08"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C08_01_TITULO_EPISODIO.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C09_01_FINAL_300_E_LOOPING.mov",
+  "size": 102845011,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C09_01_FINAL_300_E_LOOPING.mov",
+  "status": "HASH_IGUAL",
+  "md5": "5a31b13d514e9262dfca85a9b9201e68"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C09_01_FINAL_300_E_LOOPING.mov.hash",
+  "size": 32,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/OVERLAYS/C09_01_ref.png",
+  "size": 631781,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/OVERLAYS/C09_01_ref.png",
+  "status": "HASH_IGUAL",
+  "md5": "270e7425662fabf32f14db390741fcba"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-opening/work/build_v2/STILLS/FREEZE_WG_689_60.png",
+  "size": 1244602,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/00_ASSETS E INSERTS/V2_GERADOS/STILLS/FREEZE_WG_689_60.png",
+  "status": "HASH_IGUAL",
+  "md5": "547c07d1b37d009fb04105a5fc860618"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/contact.jpg",
+  "size": 605807,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_LOOP_V1/QA/contact.jpg",
+  "status": "HASH_IGUAL",
+  "md5": "8a1a4cf228e94f3cea2010a26687ce0c"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/EP300_LOOP_FINAL_1080p.mp4",
+  "size": 119670074,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/03_EDITADOS/VERSÃO FINAL/EP300_LOOP_FINAL_1080p.mp4",
+  "status": "HASH_IGUAL",
+  "md5": "4dff554c1e3a39e651052651ae35d9a2"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/EP300_LOOP_FINAL_4K.mp4",
+  "size": 200827949,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/03_EDITADOS/VERSÃO FINAL/EP300_LOOP_FINAL_4K.mp4",
+  "status": "HASH_IGUAL",
+  "md5": "8325c6eb9be4aad9833c88fe6a09ab70"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/EP300_LOOP_V0_PROXY.mp4",
+  "size": 41219482,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/03_EDITADOS/EP300_LOOP_V0_PROXY.mp4",
+  "status": "HASH_IGUAL",
+  "md5": "1f844c76f796bfc6233ccc7da911cc3f"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/EP300_LOOP_V0_still_base.png",
+  "size": 1454898,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_LOOP_V0/QA/EP300_LOOP_V0_still_base.png",
+  "status": "HASH_IGUAL",
+  "md5": "1a887c5e161bed7ecc93909f93856878"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/EP300_LOOP_V1_PROXY.mp4",
+  "size": 49436194,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/03_EDITADOS/EP300_LOOP_V1_PROXY.mp4",
+  "status": "HASH_IGUAL",
+  "md5": "403bdb73ac065e7bc5763fefdaf239f6"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/EP300_LOOP_V2_PROXY.mp4",
+  "size": 49413174,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/03_EDITADOS/EP300_LOOP_V2_PROXY.mp4",
+  "status": "HASH_IGUAL",
+  "md5": "dc031cb56e29872c6f5d00a40bcf871e"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/EP300_LOOP_V3_REVIEW.mp4",
+  "size": 49702461,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/export_final.log",
+  "size": 4,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/frame_00.00.png",
+  "size": 1404220,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/frame_47.00.png",
+  "size": 1487802,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/frame_47.20.png",
+  "size": 1516781,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/frame_48.00.png",
+  "size": 1521361,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/qa_report.json",
+  "size": 3607,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_LOOP_V2/QA/qa_report.json",
+  "status": "HASH_IGUAL",
+  "md5": "8b038cdb6ef46e4ffd237e80d056d89a"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/qa_report_V1.json",
+  "size": 3606,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_LOOP_V2/QA/qa_report_V1.json",
+  "status": "HASH_IGUAL",
+  "md5": "c991a4e436992d5f18b46030d2760fbf"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/render.log",
+  "size": 347,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/render_v2.log",
+  "size": 356,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/render_v3.log",
+  "size": 348,
+  "dst": null,
+  "status": "SEM_PAR_NO_DRIVE"
+ },
+ {
+  "src": "C:/Users/gabri/Code/audio-visual/projects/ep300-cinema-loop/out/swap_test_gustavo_bonel.png",
+  "size": 1509305,
+  "dst": "I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026/300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO/01_VIDEO DE ABERTURA/02_PROJETOS/EP300_LOOP_V0/QA/swap_test_gustavo_bonel.png",
+  "status": "HASH_IGUAL",
+  "md5": "5ed3219a62643676dd92c2eecb1b58c2"
+ }
+]

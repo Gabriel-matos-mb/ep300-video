@@ -1,0 +1,2028 @@
+{
+ "gerado_em": "2026-09-30",
+ "nota": "Estado do EP300 no momento do handoff; pode receber refinamentos da validação final. used_in = varredura estática (aproximada).",
+ "categorias_proveniencia": [
+  "MB OFFICIAL",
+  "MOTION ARRAY",
+  "GENERATED",
+  "CREATED FOR EP300",
+  "EXTERNAL REFERENCE",
+  "UNKNOWN"
+ ],
+ "contagem": {
+  "CREATED FOR EP300": 36,
+  "MB OFFICIAL": 47,
+  "GENERATED": 26,
+  "EXTERNAL REFERENCE": 2,
+  "MOTION ARRAY": 11
+ },
+ "assets": [
+  {
+   "id": "sticker_bonel_00_sorriso_grande",
+   "name": "Sticker Cláudio “Coisa Rica” Bonel — sorriso_grande",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/BONEL/00_sorriso_grande.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_05 FICHA_DE_PRESENCA_FOTOS"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_05 FICHA_DE_PRESENCA_FOTOS: \"Teve gente que gabaritou a ficha de presença\" — Phill 29, Mafê 24 (convidada do EP 1: frame real), Bonel 7 + adesivos.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: BONEL_SORRISO.png). Tratamento neste pacote: fundo preto -> alpha",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_bonel_01_sorriso",
+   "name": "Sticker Cláudio “Coisa Rica” Bonel — sorriso",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/BONEL/01_sorriso.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS BONEL.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_bonel_02_surpresa",
+   "name": "Sticker Cláudio “Coisa Rica” Bonel — surpresa",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/BONEL/02_surpresa.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS BONEL.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_bonel_03_pensando",
+   "name": "Sticker Cláudio “Coisa Rica” Bonel — pensando",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/BONEL/03_pensando.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS BONEL.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_bonel_10_sorriso",
+   "name": "Sticker Cláudio “Coisa Rica” Bonel — sorriso",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/BONEL/10_sorriso.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS_BONEL 2.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_bonel_11_surpresa",
+   "name": "Sticker Cláudio “Coisa Rica” Bonel — surpresa",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/BONEL/11_surpresa.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS_BONEL 2.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_bonel_12_pensando",
+   "name": "Sticker Cláudio “Coisa Rica” Bonel — pensando",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/BONEL/12_pensando.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS_BONEL 2.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_guta_01_natural",
+   "name": "Sticker Guta Tolmasquim (Purple Metrics) — natural",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/GUTA/01_natural.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C06_04 DE_NADA_PURPLE"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C06_04 DE_NADA_PURPLE: \"Olha aí, de nada, viu, Purple…\" — câmera PRINCIPAL pra brincadeira; V2: stickers reais de Guta Tolmasquim e Lucas Yokota (Purple Metrics).",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: 01_Guta_Tolmasquim_natural.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_guta_02_reacao",
+   "name": "Sticker Guta Tolmasquim (Purple Metrics) — reacao",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/GUTA/02_reacao.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C06_04 DE_NADA_PURPLE"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C06_04 DE_NADA_PURPLE: \"Olha aí, de nada, viu, Purple…\" — câmera PRINCIPAL pra brincadeira; V2: stickers reais de Guta Tolmasquim e Lucas Yokota (Purple Metrics).",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: 02_Guta_Tolmasquim_reacao.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_guta_03_lateral",
+   "name": "Sticker Guta Tolmasquim (Purple Metrics) — lateral",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/GUTA/03_lateral.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: 03_Guta_Tolmasquim_lateral.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_layla_01_sorriso",
+   "name": "Sticker Layla Sayed — sorriso",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LAYLA/01_sorriso.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL",
+    "C06_05 DATAS_MERIDIAN_MCP_DEZ24"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS LAYLA SAYED.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_layla_02_surpresa",
+   "name": "Sticker Layla Sayed — surpresa",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LAYLA/02_surpresa.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL",
+    "C06_05 DATAS_MERIDIAN_MCP_DEZ24"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS LAYLA SAYED.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_layla_03_pensando",
+   "name": "Sticker Layla Sayed — pensando",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LAYLA/03_pensando.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS LAYLA SAYED.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_lucas_01_natural",
+   "name": "Sticker Lucas Yokota (Purple Metrics) — natural",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LUCAS/01_natural.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C06_04 DE_NADA_PURPLE"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C06_04 DE_NADA_PURPLE: \"Olha aí, de nada, viu, Purple…\" — câmera PRINCIPAL pra brincadeira; V2: stickers reais de Guta Tolmasquim e Lucas Yokota (Purple Metrics).",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: 01_Lucas_Yokota_natural.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_lucas_02_reacao",
+   "name": "Sticker Lucas Yokota (Purple Metrics) — reacao",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LUCAS/02_reacao.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: 02_Lucas_Yokota_reacao.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_lucas_03_lateral",
+   "name": "Sticker Lucas Yokota (Purple Metrics) — lateral",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LUCAS/03_lateral.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C06_04 DE_NADA_PURPLE"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C06_04 DE_NADA_PURPLE: \"Olha aí, de nada, viu, Purple…\" — câmera PRINCIPAL pra brincadeira; V2: stickers reais de Guta Tolmasquim e Lucas Yokota (Purple Metrics).",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: 03_Lucas_Yokota_lateral.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_mafe_01_sorriso",
+   "name": "Sticker Mafê Neurauter — sorriso",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/MAFE/01_sorriso.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL",
+    "C05_05 FICHA_DE_PRESENCA_FOTOS"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: MAFE_01.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_mafe_02_serena",
+   "name": "Sticker Mafê Neurauter — serena",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/MAFE/02_serena.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: MAFE_02.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_mafe_03_lateral",
+   "name": "Sticker Mafê Neurauter — lateral",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/MAFE/03_lateral.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: MAFE_03.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_phillip_01_sorriso",
+   "name": "Sticker Phill Mello — sorriso",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/PHILLIP/01_sorriso.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS PHILLIP MELLO.png). Tratamento neste pacote: fundo preto -> alpha",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_phillip_02_sorriso",
+   "name": "Sticker Phill Mello — sorriso",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/PHILLIP/02_sorriso.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL",
+    "C05_05 FICHA_DE_PRESENCA_FOTOS"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS PHILLIP MELLO 2.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_phillip_03_surpresa",
+   "name": "Sticker Phill Mello — surpresa",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/PHILLIP/03_surpresa.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS PHILLIP MELLO 2.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_phillip_04_pensando",
+   "name": "Sticker Phill Mello — pensando",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/PHILLIP/04_pensando.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: STICKERS PHILLIP MELLO 2.png). Tratamento neste pacote: tira de 3 rostos do Gabriel; fundo -> alpha (se preto) e corte individual",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_vitoria_01_natural",
+   "name": "Sticker Vitória Comarin — natural",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/VITORIA/01_natural.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: 01_Vitoria_Comarin_natural.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_vitoria_02_reacao",
+   "name": "Sticker Vitória Comarin — reacao",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/VITORIA/02_reacao.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C06_03 DATAS_FEV22_OUT24"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C06_03 DATAS_FEV22_OUT24: Módulo \"nossa pergunta → resposta do mercado\" em LINHA DO TEMPO + gag do Toddynho (carton original com selo GA4) no \"todinho todo\" + desculpa, Vi.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: 02_Vitoria_Comarin_reacao.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_vitoria_03_lateral",
+   "name": "Sticker Vitória Comarin — lateral",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/VITORIA/03_lateral.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: 03_Vitoria_Comarin_lateral.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "sticker_vitoria_04_sorriso",
+   "name": "Sticker Vitória Comarin — sorriso",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/VITORIA/04_sorriso.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C03_04 DE_NADA_VITORIA"
+   ],
+   "purpose": "Rosto-adesivo (contorno branco) para momentos de pessoas/convidados",
+   "visual_meaning": "Linguagem de colagem/sticker do site; estados = reações",
+   "usage_context": "Usado na cena C03_04 DE_NADA_VITORIA: Piada interna gravada — a graça é VISUAL: corações nos olhos da Vitória (sem rótulo de \"zoeira\").",
+   "reusable": true,
+   "license_or_provenance": "Adesivo feito pelo Gabriel para o EP300 a partir de foto da pessoa (arquivo original: VITORIA_COMARIN-1.png). Tratamento neste pacote: adesivo do Gabriel; só corte de margem",
+   "notes": "Rostos não foram alterados; só corte de margem / fundo preto→alpha. Original em 00_ASSETS E INSERTS/stickers e emojis refeitos."
+  },
+  {
+   "id": "personagem_gustavo_still",
+   "name": "Gustavo (site) — still",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/GUSTAVO_oficial/still.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_03 AVISO_ANTES_DA_SESSAO",
+    "C00_02 TELA_EPISODIO_300",
+    "C02_01 HISTORIA_LINHA_DO_TEMPO",
+    "C08_01 TITULO_EPISODIO",
+    "C09_01 FINAL_300_E_LOOPING",
+    "LOOP V2"
+   ],
+   "purpose": "Rosto-adesivo vivo dos apresentadores (4 estados do site)",
+   "visual_meaning": "still=base · hover-transicao=sorriso · hover-final=surpresa · arraste-final=olhar de lado",
+   "usage_context": "Usado na cena C00_03 AVISO_ANTES_DA_SESSAO: \"Falso vídeo de instruções do cinema\" — aviso NOSSO, falado PARA A SALA (ninguém clica): saídas p/ quem disser \"eu acho\" · levanta a mão · olha pro lado · celular só se marcar a gente · pipoca (balde corrigido) · \"vocês vieram ao cinema assistir a um podcast\".…",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (Claudio/Lucian), 28/09 — 00_ASSETS E INSERTS/300-handoff-video/assets/personagens",
+   "notes": "used_in aproximado: a varredura encontra o apresentador, não o estado exato."
+  },
+  {
+   "id": "personagem_gustavo_hover-transicao",
+   "name": "Gustavo (site) — hover-transicao",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/GUSTAVO_oficial/hover-transicao.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C04_05 GRITEM_SE_CONCORDAM",
+    "C08_01 TITULO_EPISODIO",
+    "C09_01 FINAL_300_E_LOOPING",
+    "LOOP V2"
+   ],
+   "purpose": "Rosto-adesivo vivo dos apresentadores (4 estados do site)",
+   "visual_meaning": "still=base · hover-transicao=sorriso · hover-final=surpresa · arraste-final=olhar de lado",
+   "usage_context": "Usado na cena C04_05 GRITEM_SE_CONCORDAM: 4ª parede real: congela, placa de cinema + Gustavo-adesivo \"gritando\"; respiro de 3 s pra sala responder.",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (Claudio/Lucian), 28/09 — 00_ASSETS E INSERTS/300-handoff-video/assets/personagens",
+   "notes": "used_in aproximado: a varredura encontra o apresentador, não o estado exato."
+  },
+  {
+   "id": "personagem_gustavo_hover-final",
+   "name": "Gustavo (site) — hover-final",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/GUSTAVO_oficial/hover-final.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_03 AVISO_ANTES_DA_SESSAO",
+    "C04_03 APELIDOS_16",
+    "C04_05 GRITEM_SE_CONCORDAM",
+    "C04_06 PICA_PAU_24_TELA_CHEIA",
+    "C05_03 EU_QUERIA_CHORANDO",
+    "C08_01 TITULO_EPISODIO",
+    "C09_01 FINAL_300_E_LOOPING",
+    "LOOP V2"
+   ],
+   "purpose": "Rosto-adesivo vivo dos apresentadores (4 estados do site)",
+   "visual_meaning": "still=base · hover-transicao=sorriso · hover-final=surpresa · arraste-final=olhar de lado",
+   "usage_context": "Usado na cena C00_03 AVISO_ANTES_DA_SESSAO: \"Falso vídeo de instruções do cinema\" — aviso NOSSO, falado PARA A SALA (ninguém clica): saídas p/ quem disser \"eu acho\" · levanta a mão · olha pro lado · celular só se marcar a gente · pipoca (balde corrigido) · \"vocês vieram ao cinema assistir a um podcast\".…",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (Claudio/Lucian), 28/09 — 00_ASSETS E INSERTS/300-handoff-video/assets/personagens",
+   "notes": "used_in aproximado: a varredura encontra o apresentador, não o estado exato."
+  },
+  {
+   "id": "personagem_gustavo_arraste-final",
+   "name": "Gustavo (site) — arraste-final",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/GUSTAVO_oficial/arraste-final.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_03 AVISO_ANTES_DA_SESSAO",
+    "C08_01 TITULO_EPISODIO",
+    "C09_01 FINAL_300_E_LOOPING",
+    "LOOP V2"
+   ],
+   "purpose": "Rosto-adesivo vivo dos apresentadores (4 estados do site)",
+   "visual_meaning": "still=base · hover-transicao=sorriso · hover-final=surpresa · arraste-final=olhar de lado",
+   "usage_context": "Usado na cena C00_03 AVISO_ANTES_DA_SESSAO: \"Falso vídeo de instruções do cinema\" — aviso NOSSO, falado PARA A SALA (ninguém clica): saídas p/ quem disser \"eu acho\" · levanta a mão · olha pro lado · celular só se marcar a gente · pipoca (balde corrigido) · \"vocês vieram ao cinema assistir a um podcast\".…",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (Claudio/Lucian), 28/09 — 00_ASSETS E INSERTS/300-handoff-video/assets/personagens",
+   "notes": "used_in aproximado: a varredura encontra o apresentador, não o estado exato."
+  },
+  {
+   "id": "personagem_lucian_still",
+   "name": "Lucian (site) — still",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LUCIAN_oficial/still.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_03 AVISO_ANTES_DA_SESSAO",
+    "C00_02 TELA_EPISODIO_300",
+    "C02_01 HISTORIA_LINHA_DO_TEMPO",
+    "C08_01 TITULO_EPISODIO",
+    "C09_01 FINAL_300_E_LOOPING",
+    "LOOP V2"
+   ],
+   "purpose": "Rosto-adesivo vivo dos apresentadores (4 estados do site)",
+   "visual_meaning": "still=base · hover-transicao=sorriso · hover-final=surpresa · arraste-final=olhar de lado",
+   "usage_context": "Usado na cena C00_03 AVISO_ANTES_DA_SESSAO: \"Falso vídeo de instruções do cinema\" — aviso NOSSO, falado PARA A SALA (ninguém clica): saídas p/ quem disser \"eu acho\" · levanta a mão · olha pro lado · celular só se marcar a gente · pipoca (balde corrigido) · \"vocês vieram ao cinema assistir a um podcast\".…",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (Claudio/Lucian), 28/09 — 00_ASSETS E INSERTS/300-handoff-video/assets/personagens",
+   "notes": "used_in aproximado: a varredura encontra o apresentador, não o estado exato."
+  },
+  {
+   "id": "personagem_lucian_hover-transicao",
+   "name": "Lucian (site) — hover-transicao",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LUCIAN_oficial/hover-transicao.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C08_01 TITULO_EPISODIO",
+    "C09_01 FINAL_300_E_LOOPING",
+    "LOOP V2"
+   ],
+   "purpose": "Rosto-adesivo vivo dos apresentadores (4 estados do site)",
+   "visual_meaning": "still=base · hover-transicao=sorriso · hover-final=surpresa · arraste-final=olhar de lado",
+   "usage_context": "Usado na cena C08_01 TITULO_EPISODIO: Título do episódio (aprovado) — entra depois de um respiro, sem voltar pra mesa.",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (Claudio/Lucian), 28/09 — 00_ASSETS E INSERTS/300-handoff-video/assets/personagens",
+   "notes": "used_in aproximado: a varredura encontra o apresentador, não o estado exato."
+  },
+  {
+   "id": "personagem_lucian_hover-final",
+   "name": "Lucian (site) — hover-final",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LUCIAN_oficial/hover-final.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_03 AVISO_ANTES_DA_SESSAO",
+    "C03_06 GOSTA_POUCO_IA",
+    "C04_04 DIAMANTE_NEGRO_OFICIAL",
+    "C05_03 EU_QUERIA_CHORANDO",
+    "C08_01 TITULO_EPISODIO",
+    "C09_01 FINAL_300_E_LOOPING",
+    "LOOP V2"
+   ],
+   "purpose": "Rosto-adesivo vivo dos apresentadores (4 estados do site)",
+   "visual_meaning": "still=base · hover-transicao=sorriso · hover-final=surpresa · arraste-final=olhar de lado",
+   "usage_context": "Usado na cena C00_03 AVISO_ANTES_DA_SESSAO: \"Falso vídeo de instruções do cinema\" — aviso NOSSO, falado PARA A SALA (ninguém clica): saídas p/ quem disser \"eu acho\" · levanta a mão · olha pro lado · celular só se marcar a gente · pipoca (balde corrigido) · \"vocês vieram ao cinema assistir a um podcast\".…",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (Claudio/Lucian), 28/09 — 00_ASSETS E INSERTS/300-handoff-video/assets/personagens",
+   "notes": "used_in aproximado: a varredura encontra o apresentador, não o estado exato."
+  },
+  {
+   "id": "personagem_lucian_arraste-final",
+   "name": "Lucian (site) — arraste-final",
+   "type": "sticker_pessoa",
+   "file": "03_SHARED_ASSETS/stickers/LUCIAN_oficial/arraste-final.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C02_01 HISTORIA_LINHA_DO_TEMPO",
+    "C03_07 IA_LINHA_DO_TEMPO",
+    "C04_03 APELIDOS_16",
+    "C04_06 PICA_PAU_24_TELA_CHEIA",
+    "C06_07 DATAS_FEV26_JUN26_ACERTOU",
+    "C08_01 TITULO_EPISODIO",
+    "C09_01 FINAL_300_E_LOOPING",
+    "LOOP V2"
+   ],
+   "purpose": "Rosto-adesivo vivo dos apresentadores (4 estados do site)",
+   "visual_meaning": "still=base · hover-transicao=sorriso · hover-final=surpresa · arraste-final=olhar de lado",
+   "usage_context": "Usado na cena C02_01 HISTORIA_LINHA_DO_TEMPO: VO do Lucian: 2015 → Prime → MB Talks → \"quando eu voltei a gravar com o Gustavo\" (A VOLTA DO LUCIAN — correção factual) → podcast; frame real do EP 1 (2021, contagem oficial) para mostrar quanto o programa mudou.",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (Claudio/Lucian), 28/09 — 00_ASSETS E INSERTS/300-handoff-video/assets/personagens",
+   "notes": "used_in aproximado: a varredura encontra o apresentador, não o estado exato."
+  },
+  {
+   "id": "balde_pipoca_cheio",
+   "name": "Balde de pipoca EP300 (versão CORRIGIDA: borda traseira → pipocas dentro → borda frontal à frente)",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/balde_pipoca_cheio.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C00_03 AVISO_ANTES_DA_SESSAO"
+   ],
+   "purpose": "Objeto do cinema; arte oficial da embalagem (logos/textos preservados)",
+   "visual_meaning": "Elemento de ambientação de cinema/humor",
+   "usage_context": "Usado na cena C00_03 AVISO_ANTES_DA_SESSAO: \"Falso vídeo de instruções do cinema\" — aviso NOSSO, falado PARA A SALA (ninguém clica): saídas p/ quem disser \"eu acho\" · levanta a mão · olha pro lado · celular só se marcar a gente · pipoca (balde corrigido) · \"vocês vieram ao cinema assistir a um podcast\".…",
+   "reusable": true,
+   "license_or_provenance": "Arte da caixa de pipoca do EP300 (PDFs de gabarito em 00_ASSETS E INSERTS) — versão refeita pelo Gabriel em 29/09",
+   "notes": ""
+  },
+  {
+   "id": "viatura",
+   "name": "Viatura (sticker)",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/viatura.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C04_06 PICA_PAU_24_TELA_CHEIA",
+    "C05_04 PICA_PAU_PM_RJ_EP126"
+   ],
+   "purpose": "Gag “se o Pica-Pau tivesse chamado a polícia” / “nós chamamos” (PM-RJ)",
+   "visual_meaning": "Elemento de ambientação de cinema/humor",
+   "usage_context": "Usado na cena C04_06 PICA_PAU_24_TELA_CHEIA: \"24 vezes… Pica-Pau\" — frase + 24× + pássaro (silhueta ORIGINAL, sem o personagem de terceiros) ligando pra polícia + viatura entrando + os dois olhando.",
+   "reusable": true,
+   "license_or_provenance": "Sticker feito pelo Gabriel em 29/09; método de criação não registrado",
+   "notes": ""
+  },
+  {
+   "id": "pipoca_icone",
+   "name": "Ícone de pipoca",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/pipoca_icone.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Usado no gag do loop antes do balde corrigido (V1); na V2 o loop usa o balde",
+   "visual_meaning": "Elemento de ambientação de cinema/humor",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "STICKER PIPOCA.png (stickers e emojis refeitos)",
+   "notes": ""
+  },
+  {
+   "id": "gag_toddynho_ga4",
+   "name": "gag_toddynho_ga4",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/gag_toddynho_ga4.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C06_03 DATAS_FEV22_OUT24"
+   ],
+   "purpose": "Carton de achocolatado ORIGINAL (texto TODDYNHO + selo GA4) — gag “o GA4 era esse todinho todo?”",
+   "visual_meaning": "Piada visual sem reproduzir marca/personagem de terceiros",
+   "usage_context": "Usado na cena C06_03 DATAS_FEV22_OUT24: Módulo \"nossa pergunta → resposta do mercado\" em LINHA DO TEMPO + gag do Toddynho (carton original com selo GA4) no \"todinho todo\" + desculpa, Vi.",
+   "reusable": true,
+   "license_or_provenance": "Desenhado em código (v2/make_art_v2.py, Pillow) para o EP300 — sem fonte externa",
+   "notes": "Se a marca Toddynho precisar de clearance, trocar por carton genérico."
+  },
+  {
+   "id": "gag_picapau_silhueta",
+   "name": "gag_picapau_silhueta",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/gag_picapau_silhueta.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C04_06 PICA_PAU_24_TELA_CHEIA"
+   ],
+   "purpose": "Silhueta ORIGINAL de pica-pau (“Alô, polícia?”) — referência indireta, sem o personagem protegido",
+   "visual_meaning": "Piada visual sem reproduzir marca/personagem de terceiros",
+   "usage_context": "Usado na cena C04_06 PICA_PAU_24_TELA_CHEIA: \"24 vezes… Pica-Pau\" — frase + 24× + pássaro (silhueta ORIGINAL, sem o personagem de terceiros) ligando pra polícia + viatura entrando + os dois olhando.",
+   "reusable": true,
+   "license_or_provenance": "Desenhado em código (v2/make_art_v2.py, Pillow) para o EP300 — sem fonte externa",
+   "notes": "Se a marca Toddynho precisar de clearance, trocar por carton genérico."
+  },
+  {
+   "id": "logo_googleanalytics",
+   "name": "Logo Google Analytics (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/googleanalytics.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_googletagmanager",
+   "name": "Logo Google Tag Manager (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/googletagmanager.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_googlebigquery",
+   "name": "Logo BigQuery (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/googlebigquery.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_looker",
+   "name": "Logo Looker Studio (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/looker.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_powerbi",
+   "name": "Logo Power BI (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/powerbi.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_googleads",
+   "name": "Logo Google Ads (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/googleads.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_meta",
+   "name": "Logo Meta (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/meta.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_hotjar",
+   "name": "Logo Hotjar (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/hotjar.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_googlesearchconsole",
+   "name": "Logo Google Search Console (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/googlesearchconsole.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_google",
+   "name": "Logo Google (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/google.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS",
+    "C05_02 SETORES_E_GOOGLE"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Glifo de simple-icons@13 (CC0) renderizado em tile por v2/make_logos.py; marcas registradas pertencem aos respectivos donos — uso referencial/editorial",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "logo_amplitude",
+   "name": "Logo Amplitude (tile-adesivo)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/ferramentas/amplitude.png",
+   "source": "GENERATED",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Ecossistema de ferramentas de analytics/mídia/BI na cena “no começo, quase tudo era ferramenta”",
+   "visual_meaning": "Glifo da marca em cor oficial sobre tile branco arredondado com sombra sólida (linguagem de adesivo)",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Wordmark tipográfico desenhado em código (não há logo livre no simple-icons); não é o logo oficial da Amplitude",
+   "notes": "Para uso com logo oficial, substituir pelo arquivo de marca do fabricante."
+  },
+  {
+   "id": "patrocinador_coffee-plusplus",
+   "name": "Logo coffee-plusplus",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/patrocinadores/coffee-plusplus.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_02 TELA_EPISODIO_300",
+    "LOOP V2"
+   ],
+   "purpose": "Bloco de patrocínio / café oficial / realização",
+   "visual_meaning": "Logos dos parceiros do evento",
+   "usage_context": "Usado na cena C00_02 TELA_EPISODIO_300: Selo real \"EPISÓDIO 300\" (arte do balde) com Gustavo e Lucian → a íris abre a partir do selo (V2: sem botão/cursor/\"toca pra ver\").",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/patrocinadores) — logos dos parceiros; uso autorizado pelo evento",
+   "notes": "PROVISÓRIO: naming/logos finais de Purple Metrics e Onfly a confirmar (registrado no Studio)."
+  },
+  {
+   "id": "patrocinador_eletromidia",
+   "name": "Logo eletromidia",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/patrocinadores/eletromidia.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [],
+   "purpose": "Bloco de patrocínio / café oficial / realização",
+   "visual_meaning": "Logos dos parceiros do evento",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/patrocinadores) — logos dos parceiros; uso autorizado pelo evento",
+   "notes": "PROVISÓRIO: naming/logos finais de Purple Metrics e Onfly a confirmar (registrado no Studio)."
+  },
+  {
+   "id": "patrocinador_onfly",
+   "name": "Logo onfly",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/patrocinadores/onfly.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_02 TELA_EPISODIO_300",
+    "LOOP V2"
+   ],
+   "purpose": "Bloco de patrocínio / café oficial / realização",
+   "visual_meaning": "Logos dos parceiros do evento",
+   "usage_context": "Usado na cena C00_02 TELA_EPISODIO_300: Selo real \"EPISÓDIO 300\" (arte do balde) com Gustavo e Lucian → a íris abre a partir do selo (V2: sem botão/cursor/\"toca pra ver\").",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/patrocinadores) — logos dos parceiros; uso autorizado pelo evento",
+   "notes": "PROVISÓRIO: naming/logos finais de Purple Metrics e Onfly a confirmar (registrado no Studio)."
+  },
+  {
+   "id": "patrocinador_purple-metrics",
+   "name": "Logo purple-metrics",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/patrocinadores/purple-metrics.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_02 TELA_EPISODIO_300",
+    "C06_04 DE_NADA_PURPLE",
+    "LOOP V2"
+   ],
+   "purpose": "Bloco de patrocínio / café oficial / realização",
+   "visual_meaning": "Logos dos parceiros do evento",
+   "usage_context": "Usado na cena C00_02 TELA_EPISODIO_300: Selo real \"EPISÓDIO 300\" (arte do balde) com Gustavo e Lucian → a íris abre a partir do selo (V2: sem botão/cursor/\"toca pra ver\").",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/patrocinadores) — logos dos parceiros; uso autorizado pelo evento",
+   "notes": "PROVISÓRIO: naming/logos finais de Purple Metrics e Onfly a confirmar (registrado no Studio)."
+  },
+  {
+   "id": "patrocinador_reportei",
+   "name": "Logo reportei",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/patrocinadores/reportei.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS"
+   ],
+   "purpose": "Bloco de patrocínio / café oficial / realização",
+   "visual_meaning": "Logos dos parceiros do evento",
+   "usage_context": "Usado na cena C03_01 ECOSSISTEMA_DE_FERRAMENTAS: \"No começo, quase tudo era ferramenta\" — ecossistema de LOGOS reais (GA, GTM, BigQuery, Looker Studio, Power BI, Amplitude, Ads, Meta, Hotjar, Search Console, Google, Reportei) em adesivos-tile; V2 substitui os placeholders tipográficos.",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/patrocinadores) — logos dos parceiros; uso autorizado pelo evento",
+   "notes": "PROVISÓRIO: naming/logos finais de Purple Metrics e Onfly a confirmar (registrado no Studio)."
+  },
+  {
+   "id": "patrocinador_sinatra",
+   "name": "Logo sinatra",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/patrocinadores/sinatra.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [],
+   "purpose": "Bloco de patrocínio / café oficial / realização",
+   "visual_meaning": "Logos dos parceiros do evento",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/patrocinadores) — logos dos parceiros; uso autorizado pelo evento",
+   "notes": "PROVISÓRIO: naming/logos finais de Purple Metrics e Onfly a confirmar (registrado no Studio)."
+  },
+  {
+   "id": "logo_metricas_boss_branca",
+   "name": "Logo Métricas Boss (branca)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/logo-metricas-boss-branca.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "LOOP V2"
+   ],
+   "purpose": "Realização no bloco de patrocinadores do loop",
+   "visual_meaning": "Logo oficial — nunca rotacionar/deformar",
+   "usage_context": "Usado no Loop V2 (ver scene.json).",
+   "reusable": true,
+   "license_or_provenance": "SVG do repositório remotion-mb (logo-mb-branca.svg)",
+   "notes": ""
+  },
+  {
+   "id": "logo_metricas_boss_branca_svg",
+   "name": "Logo Métricas Boss (branca)",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/logo-metricas-boss-branca.svg",
+   "source": "MB OFFICIAL",
+   "used_in": [],
+   "purpose": "Realização no bloco de patrocinadores do loop",
+   "visual_meaning": "Logo oficial — nunca rotacionar/deformar",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "SVG do repositório remotion-mb (logo-mb-branca.svg)",
+   "notes": ""
+  },
+  {
+   "id": "selo_analytics_talks",
+   "name": "selo_analytics_talks",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/selo-analytics-talks.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C02_01 HISTORIA_LINHA_DO_TEMPO",
+    "LOOP V2"
+   ],
+   "purpose": "Selo/lockup do programa ou do evento",
+   "visual_meaning": "Selo “EPISÓDIO 300” com Gustavo e Lucian / logo Analytics Talks",
+   "usage_context": "Usado na cena C02_01 HISTORIA_LINHA_DO_TEMPO: VO do Lucian: 2015 → Prime → MB Talks → \"quando eu voltei a gravar com o Gustavo\" (A VOLTA DO LUCIAN — correção factual) → podcast; frame real do EP 1 (2021, contagem oficial) para mostrar quanto o programa mudou.",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site (stickers/selo-analytics-talks.webp)",
+   "notes": ""
+  },
+  {
+   "id": "selo_episodio_300",
+   "name": "selo_episodio_300",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/selo_episodio_300.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "C00_02 TELA_EPISODIO_300"
+   ],
+   "purpose": "Selo/lockup do programa ou do evento",
+   "visual_meaning": "Selo “EPISÓDIO 300” com Gustavo e Lucian / logo Analytics Talks",
+   "usage_context": "Usado na cena C00_02 TELA_EPISODIO_300: Selo real \"EPISÓDIO 300\" (arte do balde) com Gustavo e Lucian → a íris abre a partir do selo (V2: sem botão/cursor/\"toca pra ver\").",
+   "reusable": true,
+   "license_or_provenance": "Recortado (rembg local) do PDF de gabarito da caixa de pipoca EP300 (3_caixa_de_pipoca_EP300_sem_linhas.pdf)",
+   "notes": ""
+  },
+  {
+   "id": "selo_metricas_boss_pipoca",
+   "name": "selo_metricas_boss_pipoca",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/selo_metricas_boss.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Selo/lockup do programa ou do evento",
+   "visual_meaning": "Selo “EPISÓDIO 300” com Gustavo e Lucian / logo Analytics Talks",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Recortado (rembg local) do PDF de gabarito da caixa de pipoca EP300 (3_caixa_de_pipoca_EP300_sem_linhas.pdf)",
+   "notes": ""
+  },
+  {
+   "id": "selo_purple_metrics_pipoca",
+   "name": "selo_purple_metrics_pipoca",
+   "type": "logo",
+   "file": "03_SHARED_ASSETS/logos/selo_purple_metrics.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Selo/lockup do programa ou do evento",
+   "visual_meaning": "Selo “EPISÓDIO 300” com Gustavo e Lucian / logo Analytics Talks",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Recortado (rembg local) do PDF de gabarito da caixa de pipoca EP300 (3_caixa_de_pipoca_EP300_sem_linhas.pdf)",
+   "notes": ""
+  },
+  {
+   "id": "hist_ep001_2021_digital_analytics_em_2021",
+   "name": "EP 1 (2021) — Digital Analytics em 2021",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/historico/EP001_2021_DIGITAL_ANALYTICS_EM_2021.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C02_01 HISTORIA_LINHA_DO_TEMPO",
+    "C02_03 EVOLUCAO_DO_PROGRAMA",
+    "C05_05 FICHA_DE_PRESENCA_FOTOS"
+   ],
+   "purpose": "Mostrar tempo + evolução visual do programa (cenário, roupa, iluminação, formato)",
+   "visual_meaning": "Frame único representativo da época",
+   "usage_context": "Usado na cena C02_01 HISTORIA_LINHA_DO_TEMPO: VO do Lucian: 2015 → Prime → MB Talks → \"quando eu voltei a gravar com o Gustavo\" (A VOLTA DO LUCIAN — correção factual) → podcast; frame real do EP 1 (2021, contagem oficial) para mostrar quanto o programa mudou.",
+   "reusable": true,
+   "license_or_provenance": "Frame extraído de material MB: YouTube Métricas Boss 4EPVBU7WgDg (canal próprio), frame em 1985 s",
+   "notes": "Frame em baixa resolução (miniatura de contact sheet / 960 px); re-extrair do original para uso em alta."
+  },
+  {
+   "id": "hist_ep073_2022_bigquery",
+   "name": "EP 73 (2022) — BigQuery",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/historico/EP073_2022_BIGQUERY.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C02_03 EVOLUCAO_DO_PROGRAMA"
+   ],
+   "purpose": "Mostrar tempo + evolução visual do programa (cenário, roupa, iluminação, formato)",
+   "visual_meaning": "Frame único representativo da época",
+   "usage_context": "Usado na cena C02_03 EVOLUCAO_DO_PROGRAMA: \"E a pergunta foi mudando\" — seis épocas do programa (2021→hoje) em frames reais do acervo histórico; ~2,4 s de pausa sem voz para a sala ler.",
+   "reusable": true,
+   "license_or_provenance": "Frame extraído de material MB: 00_ARQUIVO_HISTORICO/…/01_2022/73_BIG QUERY/01_BRUTOS",
+   "notes": "Frame em baixa resolução (miniatura de contact sheet / 960 px); re-extrair do original para uso em alta."
+  },
+  {
+   "id": "hist_ep084_2022_verdades",
+   "name": "EP 84 (2022) — Verdades inconvenientes",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/historico/EP084_2022_VERDADES.png",
+   "source": "MB OFFICIAL",
+   "used_in": [],
+   "purpose": "Mostrar tempo + evolução visual do programa (cenário, roupa, iluminação, formato)",
+   "visual_meaning": "Frame único representativo da época",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Frame extraído de material MB: 00_ARQUIVO_HISTORICO/…/01_2022/84_VERDADES…/03_EDITADOS",
+   "notes": "Frame em baixa resolução (miniatura de contact sheet / 960 px); re-extrair do original para uso em alta."
+  },
+  {
+   "id": "hist_ep100_2023_plateia",
+   "name": "EP 100 (2023) — ao vivo com plateia",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/historico/EP100_2023_PLATEIA.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C02_03 EVOLUCAO_DO_PROGRAMA"
+   ],
+   "purpose": "Mostrar tempo + evolução visual do programa (cenário, roupa, iluminação, formato)",
+   "visual_meaning": "Frame único representativo da época",
+   "usage_context": "Usado na cena C02_03 EVOLUCAO_DO_PROGRAMA: \"E a pergunta foi mudando\" — seis épocas do programa (2021→hoje) em frames reais do acervo histórico; ~2,4 s de pausa sem voz para a sala ler.",
+   "reusable": true,
+   "license_or_provenance": "Frame extraído de material MB: 00_ARQUIVO_HISTORICO/…/02_2023/100_EPISODIO 100/03_EDITADOS",
+   "notes": "Frame em baixa resolução (miniatura de contact sheet / 960 px); re-extrair do original para uso em alta."
+  },
+  {
+   "id": "hist_ep153_2024_powerbi_looker",
+   "name": "EP 153 (2024) — Power BI × Looker Studio",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/historico/EP153_2024_POWERBI_LOOKER.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C02_03 EVOLUCAO_DO_PROGRAMA"
+   ],
+   "purpose": "Mostrar tempo + evolução visual do programa (cenário, roupa, iluminação, formato)",
+   "visual_meaning": "Frame único representativo da época",
+   "usage_context": "Usado na cena C02_03 EVOLUCAO_DO_PROGRAMA: \"E a pergunta foi mudando\" — seis épocas do programa (2021→hoje) em frames reais do acervo histórico; ~2,4 s de pausa sem voz para a sala ler.",
+   "reusable": true,
+   "license_or_provenance": "Frame extraído de material MB: 00_ARQUIVO_HISTORICO/…/03_2024/153_…/02_EDITADO",
+   "notes": "Frame em baixa resolução (miniatura de contact sheet / 960 px); re-extrair do original para uso em alta."
+  },
+  {
+   "id": "hist_ep187_2024_mmm",
+   "name": "EP 187 (2024) — Marketing Mix Modeling (convidado remoto)",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/historico/EP187_2024_MMM.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Mostrar tempo + evolução visual do programa (cenário, roupa, iluminação, formato)",
+   "visual_meaning": "Frame único representativo da época",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Frame extraído de material MB: 00_ARQUIVO_HISTORICO/…/03_2024/187_MARKETIN MIX MODELING/03_EDITADOS",
+   "notes": "Frame em baixa resolução (miniatura de contact sheet / 960 px); re-extrair do original para uso em alta."
+  },
+  {
+   "id": "hist_ep210_2025_meridian",
+   "name": "EP 210 (2025) — Google Meridian",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/historico/EP210_2025_MERIDIAN.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C02_03 EVOLUCAO_DO_PROGRAMA"
+   ],
+   "purpose": "Mostrar tempo + evolução visual do programa (cenário, roupa, iluminação, formato)",
+   "visual_meaning": "Frame único representativo da época",
+   "usage_context": "Usado na cena C02_03 EVOLUCAO_DO_PROGRAMA: \"E a pergunta foi mudando\" — seis épocas do programa (2021→hoje) em frames reais do acervo histórico; ~2,4 s de pausa sem voz para a sala ler.",
+   "reusable": true,
+   "license_or_provenance": "Frame extraído de material MB: 00_ARQUIVO_HISTORICO/…/04_2025/210_GOOGLE MERIDIAN/03_EDITADOS",
+   "notes": "Frame em baixa resolução (miniatura de contact sheet / 960 px); re-extrair do original para uso em alta."
+  },
+  {
+   "id": "hist_ep300_2026_hoje",
+   "name": "EP 300 (2026) — hoje (CAM_GERAL)",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/historico/EP300_2026_HOJE.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C02_03 EVOLUCAO_DO_PROGRAMA"
+   ],
+   "purpose": "Mostrar tempo + evolução visual do programa (cenário, roupa, iluminação, formato)",
+   "visual_meaning": "Frame único representativo da época",
+   "usage_context": "Usado na cena C02_03 EVOLUCAO_DO_PROGRAMA: \"E a pergunta foi mudando\" — seis épocas do programa (2021→hoje) em frames reais do acervo histórico; ~2,4 s de pausa sem voz para a sala ler.",
+   "reusable": true,
+   "license_or_provenance": "Frame extraído de material MB: 01_BRUTOS/CAM_GERAL.mp4 em 514,9 s",
+   "notes": "Frame em baixa resolução (miniatura de contact sheet / 960 px); re-extrair do original para uso em alta."
+  },
+  {
+   "id": "print_ep282_convidada",
+   "name": "Print EP282_CONVIDADA",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/prints_episodios/EP282_CONVIDADA.png",
+   "source": "MB OFFICIAL",
+   "used_in": [],
+   "purpose": "Quadro real de episódio recente (polaroid na pilha do bordão / mural 191)",
+   "visual_meaning": "Prova visual de que o programa existe há anos",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Print das pastas de produção do podcast: I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026\\282_O QUE SEPARA ANALISE DE RELATORIO\\08_PRINTS\\282_O QUE SEPARA ANALISE DE RELATORIO.00_05_06_11.Quadro003.png",
+   "notes": ""
+  },
+  {
+   "id": "print_ep282_gustavo_lucian",
+   "name": "Print EP282_GUSTAVO_LUCIAN",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/prints_episodios/EP282_GUSTAVO_LUCIAN.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C04_01 BORDAO_203_PRINTS"
+   ],
+   "purpose": "Quadro real de episódio recente (polaroid na pilha do bordão / mural 191)",
+   "visual_meaning": "Prova visual de que o programa existe há anos",
+   "usage_context": "Usado na cena C04_01 BORDAO_203_PRINTS: \"203 vezes… fala aí, analítica\" — prints reais de episódios em pilha, contador correndo.",
+   "reusable": true,
+   "license_or_provenance": "Print das pastas de produção do podcast: I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026\\282_O QUE SEPARA ANALISE DE RELATORIO\\08_PRINTS\\282_O QUE SEPARA ANALISE DE RELATORIO.00_01_39_20.Quadro001.png",
+   "notes": ""
+  },
+  {
+   "id": "print_ep283_convidado",
+   "name": "Print EP283_CONVIDADO",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/prints_episodios/EP283_CONVIDADO.png",
+   "source": "MB OFFICIAL",
+   "used_in": [],
+   "purpose": "Quadro real de episódio recente (polaroid na pilha do bordão / mural 191)",
+   "visual_meaning": "Prova visual de que o programa existe há anos",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Print das pastas de produção do podcast: I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026\\283_IA GENERATIVA NO CRO\\08_PRINTS\\283_IA GENERATIVA NO CRO.00_05_32_29.Quadro012.png",
+   "notes": ""
+  },
+  {
+   "id": "print_ep284_convidada",
+   "name": "Print EP284_CONVIDADA",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/prints_episodios/EP284_CONVIDADA.png",
+   "source": "MB OFFICIAL",
+   "used_in": [],
+   "purpose": "Quadro real de episódio recente (polaroid na pilha do bordão / mural 191)",
+   "visual_meaning": "Prova visual de que o programa existe há anos",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Print das pastas de produção do podcast: I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026\\284_IA GENERATIVA EM WEB ANALYTICS\\07_PRINTS\\284_IA GENERATIVA NO ANALYTICS.00_07_03_22.Quadro001.png",
+   "notes": ""
+  },
+  {
+   "id": "print_ep284_gustavo_lucian",
+   "name": "Print EP284_GUSTAVO_LUCIAN",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/prints_episodios/EP284_GUSTAVO_LUCIAN.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C04_01 BORDAO_203_PRINTS"
+   ],
+   "purpose": "Quadro real de episódio recente (polaroid na pilha do bordão / mural 191)",
+   "visual_meaning": "Prova visual de que o programa existe há anos",
+   "usage_context": "Usado na cena C04_01 BORDAO_203_PRINTS: \"203 vezes… fala aí, analítica\" — prints reais de episódios em pilha, contador correndo.",
+   "reusable": true,
+   "license_or_provenance": "Print das pastas de produção do podcast: I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026\\284_IA GENERATIVA EM WEB ANALYTICS\\07_PRINTS\\284_IA GENERATIVA NO ANALYTICS.00_12_58_20.Quadro002.png",
+   "notes": ""
+  },
+  {
+   "id": "print_ep286_convidados",
+   "name": "Print EP286_CONVIDADOS",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/prints_episodios/EP286_CONVIDADOS.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Quadro real de episódio recente (polaroid na pilha do bordão / mural 191)",
+   "visual_meaning": "Prova visual de que o programa existe há anos",
+   "usage_context": "Usado na cena C05_01 MESA_191_348_140_MURAL: \"191 pessoas… 348 vezes… mais de 140 empresas\" — número no centro + 4 convidados históricos em adesivo (Phill, Mafê, Bonel, Layla) e 2 frames reais; reações trocam a cada número.",
+   "reusable": true,
+   "license_or_provenance": "Print das pastas de produção do podcast: I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026\\286_GARBAGE IN MILHOES OUT\\07_PRINTS\\286_GARBAGE IN MILHOES OUT.00_05_34_16.Quadro013.png",
+   "notes": ""
+  },
+  {
+   "id": "print_ep286_gustavo_lucian",
+   "name": "Print EP286_GUSTAVO_LUCIAN",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/prints_episodios/EP286_GUSTAVO_LUCIAN.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C04_01 BORDAO_203_PRINTS"
+   ],
+   "purpose": "Quadro real de episódio recente (polaroid na pilha do bordão / mural 191)",
+   "visual_meaning": "Prova visual de que o programa existe há anos",
+   "usage_context": "Usado na cena C04_01 BORDAO_203_PRINTS: \"203 vezes… fala aí, analítica\" — prints reais de episódios em pilha, contador correndo.",
+   "reusable": true,
+   "license_or_provenance": "Print das pastas de produção do podcast: I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026\\286_GARBAGE IN MILHOES OUT\\07_PRINTS\\286_GARBAGE IN MILHOES OUT.00_03_17_11.Quadro001.png",
+   "notes": ""
+  },
+  {
+   "id": "print_ep288_convidados",
+   "name": "Print EP288_CONVIDADOS",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/prints_episodios/EP288_CONVIDADOS.png",
+   "source": "MB OFFICIAL",
+   "used_in": [],
+   "purpose": "Quadro real de episódio recente (polaroid na pilha do bordão / mural 191)",
+   "visual_meaning": "Prova visual de que o programa existe há anos",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": true,
+   "license_or_provenance": "Print das pastas de produção do podcast: I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026\\288_GUIA DE SERVER SIDE TRACKING\\05_PRINTS\\288_GUIA DEFINITIVO DE SERVER SIDE TRACKING.00_07_48_03.Quadro003.png",
+   "notes": ""
+  },
+  {
+   "id": "print_ep288_gustavo_lucian",
+   "name": "Print EP288_GUSTAVO_LUCIAN",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/prints_episodios/EP288_GUSTAVO_LUCIAN.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C04_01 BORDAO_203_PRINTS"
+   ],
+   "purpose": "Quadro real de episódio recente (polaroid na pilha do bordão / mural 191)",
+   "visual_meaning": "Prova visual de que o programa existe há anos",
+   "usage_context": "Usado na cena C04_01 BORDAO_203_PRINTS: \"203 vezes… fala aí, analítica\" — prints reais de episódios em pilha, contador correndo.",
+   "reusable": true,
+   "license_or_provenance": "Print das pastas de produção do podcast: I:/Drives compartilhados/Educação/Marketing Métricas Boss/01_CANAIS_ATIVOS/02_PODCAST/2026\\288_GUIA DE SERVER SIDE TRACKING\\05_PRINTS\\288_GUIA DEFINITIVO DE SERVER SIDE TRACKING.00_04_54_19.Quadro010.png",
+   "notes": ""
+  },
+  {
+   "id": "ep126_f_guest",
+   "name": "EP 126 PMERJ — PM-RJ convidado",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/ep126_pmerj/f_guest.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C05_04 PICA_PAU_PM_RJ_EP126"
+   ],
+   "purpose": "Gag “nós chamamos a polícia… gravamos com a PM do RJ”",
+   "visual_meaning": "Trecho real do EP 126",
+   "usage_context": "Usado na cena C05_04 PICA_PAU_PM_RJ_EP126: \"nós chamamos. Gravamos até com a PM do RJ\" — trecho REAL do EP 126 + a viatura (sticker do Gabriel) chegando.",
+   "reusable": true,
+   "license_or_provenance": "Frame de 00_ARQUIVO_HISTORICO/01_VIDEOS/08_OUTROS/02_MAKING_OFF/126_ANALISE DE DADOS NA PMERJ.mp4",
+   "notes": ""
+  },
+  {
+   "id": "ep126_f_duo",
+   "name": "EP 126 PMERJ — PM-RJ dupla",
+   "type": "imagem_frame",
+   "file": "03_SHARED_ASSETS/images/ep126_pmerj/f_duo.png",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C05_04 PICA_PAU_PM_RJ_EP126"
+   ],
+   "purpose": "Gag “nós chamamos a polícia… gravamos com a PM do RJ”",
+   "visual_meaning": "Trecho real do EP 126",
+   "usage_context": "Usado na cena C05_04 PICA_PAU_PM_RJ_EP126: \"nós chamamos. Gravamos até com a PM do RJ\" — trecho REAL do EP 126 + a viatura (sticker do Gabriel) chegando.",
+   "reusable": true,
+   "license_or_provenance": "Frame de 00_ARQUIVO_HISTORICO/01_VIDEOS/08_OUTROS/02_MAKING_OFF/126_ANALISE DE DADOS NA PMERJ.mp4",
+   "notes": ""
+  },
+  {
+   "id": "caixa_pipoca_frente",
+   "name": "caixa_pipoca_frente",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/caixa_pipoca_frente.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Caixa de pipoca EP300 (versão V1, anterior à corrigida)",
+   "visual_meaning": "Referência histórica",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": false,
+   "license_or_provenance": "Recortada (rembg local) de 4_caixa_de_pipoca_EP300_simulacao_3D_e_gabarito.pdf",
+   "notes": "SUPERADA pelo balde_pipoca_cheio (geometria corrigida). Mantida só como referência."
+  },
+  {
+   "id": "caixa_pipoca_verso",
+   "name": "caixa_pipoca_verso",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/caixa_pipoca_verso.png",
+   "source": "CREATED FOR EP300",
+   "used_in": [],
+   "purpose": "Caixa de pipoca EP300 (versão V1, anterior à corrigida)",
+   "visual_meaning": "Referência histórica",
+   "usage_context": "Nenhuma referência encontrada em plan.py/customs/scene.json (varredura estática): disponível no pacote (variação/estado alternativo ou material histórico), não visível na V2.",
+   "reusable": false,
+   "license_or_provenance": "Recortada (rembg local) de 4_caixa_de_pipoca_EP300_simulacao_3D_e_gabarito.pdf",
+   "notes": "SUPERADA pelo balde_pipoca_cheio (geometria corrigida). Mantida só como referência."
+  },
+  {
+   "id": "cena_sofa_1",
+   "name": "Cena do sofá — quadro 1",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/cena_sofa/1.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C07_03 DE_VOLTA_PARA_2038"
+   ],
+   "purpose": "Animação do sofá (6 quadros) usada em “de volta para 2038”",
+   "visual_meaning": "Cena do site",
+   "usage_context": "Usado na cena C07_03 DE_VOLTA_PARA_2038: \"terminaria em 2038\" — cena do sofá + ano correndo + homenagem tipográfica (sem imagens de terceiros).",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/cena-sofa)",
+   "notes": "Homenagem tipográfica a “De Volta para o Futuro” foi feita só com texto; nenhuma imagem de terceiros."
+  },
+  {
+   "id": "cena_sofa_2",
+   "name": "Cena do sofá — quadro 2",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/cena_sofa/2.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C07_03 DE_VOLTA_PARA_2038"
+   ],
+   "purpose": "Animação do sofá (6 quadros) usada em “de volta para 2038”",
+   "visual_meaning": "Cena do site",
+   "usage_context": "Usado na cena C07_03 DE_VOLTA_PARA_2038: \"terminaria em 2038\" — cena do sofá + ano correndo + homenagem tipográfica (sem imagens de terceiros).",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/cena-sofa)",
+   "notes": "Homenagem tipográfica a “De Volta para o Futuro” foi feita só com texto; nenhuma imagem de terceiros."
+  },
+  {
+   "id": "cena_sofa_3",
+   "name": "Cena do sofá — quadro 3",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/cena_sofa/3.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C07_03 DE_VOLTA_PARA_2038"
+   ],
+   "purpose": "Animação do sofá (6 quadros) usada em “de volta para 2038”",
+   "visual_meaning": "Cena do site",
+   "usage_context": "Usado na cena C07_03 DE_VOLTA_PARA_2038: \"terminaria em 2038\" — cena do sofá + ano correndo + homenagem tipográfica (sem imagens de terceiros).",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/cena-sofa)",
+   "notes": "Homenagem tipográfica a “De Volta para o Futuro” foi feita só com texto; nenhuma imagem de terceiros."
+  },
+  {
+   "id": "cena_sofa_4",
+   "name": "Cena do sofá — quadro 4",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/cena_sofa/4.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C07_03 DE_VOLTA_PARA_2038"
+   ],
+   "purpose": "Animação do sofá (6 quadros) usada em “de volta para 2038”",
+   "visual_meaning": "Cena do site",
+   "usage_context": "Usado na cena C07_03 DE_VOLTA_PARA_2038: \"terminaria em 2038\" — cena do sofá + ano correndo + homenagem tipográfica (sem imagens de terceiros).",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/cena-sofa)",
+   "notes": "Homenagem tipográfica a “De Volta para o Futuro” foi feita só com texto; nenhuma imagem de terceiros."
+  },
+  {
+   "id": "cena_sofa_5",
+   "name": "Cena do sofá — quadro 5",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/cena_sofa/5.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C07_03 DE_VOLTA_PARA_2038"
+   ],
+   "purpose": "Animação do sofá (6 quadros) usada em “de volta para 2038”",
+   "visual_meaning": "Cena do site",
+   "usage_context": "Usado na cena C07_03 DE_VOLTA_PARA_2038: \"terminaria em 2038\" — cena do sofá + ano correndo + homenagem tipográfica (sem imagens de terceiros).",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/cena-sofa)",
+   "notes": "Homenagem tipográfica a “De Volta para o Futuro” foi feita só com texto; nenhuma imagem de terceiros."
+  },
+  {
+   "id": "cena_sofa_6",
+   "name": "Cena do sofá — quadro 6",
+   "type": "grafico",
+   "file": "03_SHARED_ASSETS/graphics/cena_sofa/6.webp",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C07_03 DE_VOLTA_PARA_2038"
+   ],
+   "purpose": "Animação do sofá (6 quadros) usada em “de volta para 2038”",
+   "visual_meaning": "Cena do site",
+   "usage_context": "Usado na cena C07_03 DE_VOLTA_PARA_2038: \"terminaria em 2038\" — cena do sofá + ano correndo + homenagem tipográfica (sem imagens de terceiros).",
+   "reusable": true,
+   "license_or_provenance": "Handoff visual do site do EP300 (assets/cena-sofa)",
+   "notes": "Homenagem tipográfica a “De Volta para o Futuro” foi feita só com texto; nenhuma imagem de terceiros."
+  },
+  {
+   "id": "fonte_sora",
+   "name": "Fonte Sora",
+   "type": "fonte",
+   "file": "03_SHARED_ASSETS/fonts_reference/Sora-VariableFont_wght.ttf",
+   "source": "EXTERNAL REFERENCE",
+   "used_in": [],
+   "purpose": "Sora = títulos/números/adesivos (peso 800); Inter = overlines/legendas pequenas",
+   "visual_meaning": "Tipografia pesada do site",
+   "usage_context": "Usada em todos os textos renderizados da Abertura (gfx.py) e do Loop (build.py).",
+   "reusable": true,
+   "license_or_provenance": "Sora — Google Fonts (SIL Open Font License)",
+   "notes": "Emojis são renderizados com Segoe UI Emoji do Windows (não redistribuível, não copiado)."
+  },
+  {
+   "id": "fonte_inter",
+   "name": "Fonte Inter",
+   "type": "fonte",
+   "file": "03_SHARED_ASSETS/fonts_reference/Inter-VariableFont_opsz_wght.ttf",
+   "source": "EXTERNAL REFERENCE",
+   "used_in": [
+    "C00_01 CONTAGEM_PRE_SESSAO",
+    "C00_03 AVISO_ANTES_DA_SESSAO",
+    "C00_02 TELA_EPISODIO_300",
+    "C01_02 DADOS_11526_TELA_CHEIA",
+    "C01_03 PLACAR_DADOS_X_ACHO",
+    "C02_01 HISTORIA_LINHA_DO_TEMPO",
+    "C02_03 EVOLUCAO_DO_PROGRAMA",
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS",
+    "C03_02 UNIVERSAL_ON_OFF",
+    "C03_03 CONTADOR_153_GRADE_4_DE_10",
+    "C03_05 GA4_1_DE_3",
+    "C03_07 IA_LINHA_DO_TEMPO",
+    "C03_08 BOTAO_VIRA_MODELO",
+    "C04_01 BORDAO_203_PRINTS",
+    "C04_03 APELIDOS_16",
+    "C04_06 PICA_PAU_24_TELA_CHEIA",
+    "C05_01 MESA_191_348_140_MURAL",
+    "C05_02 SETORES_E_GOOGLE",
+    "C06_03 DATAS_FEV22_OUT24",
+    "C06_05 DATAS_MERIDIAN_MCP_DEZ24",
+    "C06_07 DATAS_FEV26_JUN26_ACERTOU",
+    "C07_02 OUVIDAS_700_MIL",
+    "C07_03 DE_VOLTA_PARA_2038",
+    "C07_05 EP_197",
+    "C08_01 TITULO_EPISODIO"
+   ],
+   "purpose": "Sora = títulos/números/adesivos (peso 800); Inter = overlines/legendas pequenas",
+   "visual_meaning": "Tipografia pesada do site",
+   "usage_context": "Usada em todos os textos renderizados da Abertura (gfx.py) e do Loop (build.py).",
+   "reusable": true,
+   "license_or_provenance": "Inter — Google Fonts (SIL Open Font License)",
+   "notes": "Emojis são renderizados com Segoe UI Emoji do Windows (não redistribuível, não copiado)."
+  },
+  {
+   "id": "musica_aviso",
+   "name": "Beat The Odds (LEX Music) 30 s",
+   "type": "musica",
+   "file": "03_SHARED_ASSETS/audio/musica/MA_LEXMusic_BeatTheOdds_30s.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "C00_03 AVISO_ANTES_DA_SESSAO"
+   ],
+   "purpose": "Trilha da abertura",
+   "visual_meaning": "Energia leve de cinema/pré-sessão",
+   "usage_context": "Trilha do “antes da sessão”, −13 dB, repete para cobrir os ~31 s",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — obtido pela conta/licença já disponível da Métricas Boss. Origem local: ./2026/35_TRUSTY DATA/02_PROJETOS/Motion Array Assets/Beat The Odds/MA_LEXMusic_BeatTheOdds_30s.wav",
+   "notes": "license_note: asset licenciado pela MB; não tratar como criação própria; redistribuição fora do ambiente autorizado não verificada — manter dentro da MB."
+  },
+  {
+   "id": "musica_bed",
+   "name": "A Groove Pool (Trigubovich) — loop",
+   "type": "musica",
+   "file": "03_SHARED_ASSETS/audio/musica/Trigubovich_A_Groove_Pool_loop_long.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "fundo sob o diálogo (S1…S7)"
+   ],
+   "purpose": "Trilha da abertura",
+   "visual_meaning": "Energia leve de cinema/pré-sessão",
+   "usage_context": "Cama sob o diálogo, −31 dB (+10 dB no respiro “Gritem”)",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — obtido pela conta/licença já disponível da Métricas Boss. Origem local: ./2026/10_CONVERSOES ASSISTIDAS/02_PROJETOS/Motion Array Assets/A Groove Pool/Trigubovich_A_Groove_Pool_loop_long.wav",
+   "notes": "license_note: asset licenciado pela MB; não tratar como criação própria; redistribuição fora do ambiente autorizado não verificada — manter dentro da MB."
+  },
+  {
+   "id": "musica_final",
+   "name": "In The Spotlight (Puremusic) 12 s",
+   "type": "musica",
+   "file": "03_SHARED_ASSETS/audio/musica/MA_Puremusic_InTheSpotlight_12s.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "C08_01/C09_01 título e final"
+   ],
+   "purpose": "Trilha da abertura",
+   "visual_meaning": "Energia leve de cinema/pré-sessão",
+   "usage_context": "Trilha do título/final, −9 dB, fade-in 1,2 s",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — obtido pela conta/licença já disponível da Métricas Boss. Origem local: ./2026/22_O ERRO QUE SALVOU OS AVIOES E PODE SALVAR SEU ROI/02_PROJETOS/Motion Array Assets/In The Spotlight/MA_Puremusic_InTheSpotlight_12s.wav",
+   "notes": "license_note: asset licenciado pela MB; não tratar como criação própria; redistribuição fora do ambiente autorizado não verificada — manter dentro da MB."
+  },
+  {
+   "id": "sfx_ma_click",
+   "name": "SFX “click” (MA_SergeySopko_MouseClick_1.wav)",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/motion_array/MA_SergeySopko_MouseClick_1.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "C03_02 UNIVERSAL_ON_OFF"
+   ],
+   "purpose": "Efeito sonoro da abertura",
+   "visual_meaning": "",
+   "usage_context": "Ganho no mix: -14 dB + low-pass 7 kHz + ducking −12 dB sob a voz.",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — licença da conta MB. Origem local: ./2026/11_3 FERRAMENTAS/02_PROJETOS/Motion Array Assets/Mouse Click/MA_SergeySopko_MouseClick_1.wav",
+   "notes": "license_note: obtido pela licença já disponível da Métricas Boss; manter dentro da MB."
+  },
+  {
+   "id": "sfx_ma_whoosh",
+   "name": "SFX “whoosh” (MA_Amenteramco_Whoosh_Pass-By_1.wav)",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/motion_array/MA_Amenteramco_Whoosh_Pass-By_1.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "C00_02 TELA_EPISODIO_300",
+    "C02_02 CHUVA_DE_PERGUNTAS",
+    "C04_01 BORDAO_203_PRINTS",
+    "C04_02 EPISODIO_DE_ORIGEM",
+    "C04_06 PICA_PAU_24_TELA_CHEIA",
+    "C05_04 PICA_PAU_PM_RJ_EP126"
+   ],
+   "purpose": "Efeito sonoro da abertura",
+   "visual_meaning": "",
+   "usage_context": "Ganho no mix: -21 dB + low-pass 7 kHz + ducking −12 dB sob a voz.",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — licença da conta MB. Origem local: ./2026/09_NEWSLETTER_36/02_PROJETOS/Motion Array Assets/Whoosh Pass-By/MA_Amenteramco_Whoosh_Pass-By_1.wav",
+   "notes": "license_note: obtido pela licença já disponível da Métricas Boss; manter dentro da MB."
+  },
+  {
+   "id": "sfx_ma_impact",
+   "name": "SFX “impact” (01 Impact.wav)",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/motion_array/01 Impact.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [],
+   "purpose": "Efeito sonoro da abertura",
+   "visual_meaning": "",
+   "usage_context": "Ganho no mix: -24 dB + low-pass 7 kHz + ducking −12 dB sob a voz.",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — licença da conta MB. Origem local: ./2026/14_O CUSTO DO ACHISMO/02_PROJETOS/Motion Array Assets/Cinematic Whoosh Impact Sound/01 Impact.wav",
+   "notes": "license_note: obtido pela licença já disponível da Métricas Boss; manter dentro da MB."
+  },
+  {
+   "id": "sfx_ma_tvoff",
+   "name": "SFX “tvoff” (Turn the TV Off and On 1.wav)",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/motion_array/Turn the TV Off and On 1.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "C03_02 UNIVERSAL_ON_OFF"
+   ],
+   "purpose": "Efeito sonoro da abertura",
+   "visual_meaning": "",
+   "usage_context": "Ganho no mix: -17 dB + low-pass 7 kHz + ducking −12 dB sob a voz.",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — licença da conta MB. Origem local: ./2026/27_ERROS DO GA4/02_PROJETOS/Motion Array Assets/Turn The TV Off And On/Turn the TV Off and On 1.wav",
+   "notes": "license_note: obtido pela licença já disponível da Métricas Boss; manter dentro da MB."
+  },
+  {
+   "id": "sfx_ma_wrong",
+   "name": "SFX “wrong” (MA_AppleHillStudios_WrongAnswer_1.wav)",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/motion_array/MA_AppleHillStudios_WrongAnswer_1.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "C05_02 SETORES_E_GOOGLE"
+   ],
+   "purpose": "Efeito sonoro da abertura",
+   "visual_meaning": "",
+   "usage_context": "Ganho no mix: -15 dB + low-pass 7 kHz + ducking −12 dB sob a voz.",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — licença da conta MB. Origem local: ./2026/12_PORQUE EU PAREI DE USAR O SUPERMETRICS/02_PROJETOS/Motion Array Assets/Wrong Answer/Wrong Answer/MA_AppleHillStudios_WrongAnswer_1.wav",
+   "notes": "license_note: obtido pela licença já disponível da Métricas Boss; manter dentro da MB."
+  },
+  {
+   "id": "sfx_ma_ding",
+   "name": "SFX “ding” (MA_SoundsByGFXSounds_DingNotification_1.wav)",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/motion_array/MA_SoundsByGFXSounds_DingNotification_1.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "C07_06 GENTE"
+   ],
+   "purpose": "Efeito sonoro da abertura",
+   "visual_meaning": "",
+   "usage_context": "Ganho no mix: -21 dB + low-pass 7 kHz + ducking −12 dB sob a voz.",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — licença da conta MB. Origem local: ./2026/11_3 FERRAMENTAS/02_PROJETOS/Motion Array Assets/Ding Notification/MA_SoundsByGFXSounds_DingNotification/MA_SoundsByGFXSounds_DingNotification_1.wav",
+   "notes": "license_note: obtido pela licença já disponível da Métricas Boss; manter dentro da MB."
+  },
+  {
+   "id": "sfx_ma_tick",
+   "name": "SFX “tick” (01 Clock Ticking.wav)",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/motion_array/01 Clock Ticking.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "C07_03 DE_VOLTA_PARA_2038"
+   ],
+   "purpose": "Efeito sonoro da abertura",
+   "visual_meaning": "",
+   "usage_context": "Ganho no mix: -21 dB + low-pass 7 kHz + ducking −12 dB sob a voz.",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — licença da conta MB. Origem local: ./2026/39_ANALYTICS COPILOT 01 - CONCEITO/02_PROJETOS/Motion Array Assets/Clock Ticking/01 Clock Ticking.wav",
+   "notes": "license_note: obtido pela licença já disponível da Métricas Boss; manter dentro da MB."
+  },
+  {
+   "id": "sfx_ma_woosh_boom",
+   "name": "SFX “woosh_boom” (MA_AleXZavesa_WooshAndBoom_1.wav)",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/motion_array/MA_AleXZavesa_WooshAndBoom_1.wav",
+   "source": "MOTION ARRAY",
+   "used_in": [
+    "C04_05 GRITEM_SE_CONCORDAM"
+   ],
+   "purpose": "Efeito sonoro da abertura",
+   "visual_meaning": "",
+   "usage_context": "Ganho no mix: -21 dB + low-pass 7 kHz + ducking −12 dB sob a voz.",
+   "reusable": true,
+   "license_or_provenance": "Motion Array — licença da conta MB. Origem local: ./2026/18_ERROS DE ANALISE INDICE DE CONFIABILIDADE/02_PROJETOS/Motion Array Assets/Woosh And Boom/MA_AleXZavesa_WooshAndBoom_1.wav",
+   "notes": "license_note: obtido pela licença já disponível da Métricas Boss; manter dentro da MB."
+  },
+  {
+   "id": "sfx_bleep_1khz",
+   "name": "SFX BLEEP_1kHz",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_BLEEP_1kHz.wav",
+   "source": "GENERATED",
+   "used_in": [],
+   "purpose": "Bleep de palavrão",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_leader_beep_1khz",
+   "name": "SFX LEADER_BEEP_1kHz",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_LEADER_BEEP_1kHz.wav",
+   "source": "GENERATED",
+   "used_in": [],
+   "purpose": "Bipe da contagem de película",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_party",
+   "name": "SFX SYN_party",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_party.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C01_01 ADESIVO_300_CONFETE",
+    "C09_01 FINAL_300_E_LOOPING"
+   ],
+   "purpose": "Festa do 300: estouro + confete + língua de sogra",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_pop",
+   "name": "SFX SYN_pop",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_pop.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C00_02 TELA_EPISODIO_300",
+    "C00_03 AVISO_ANTES_DA_SESSAO",
+    "C02_01 HISTORIA_LINHA_DO_TEMPO",
+    "C02_03 EVOLUCAO_DO_PROGRAMA",
+    "C03_03 CONTADOR_153_GRADE_4_DE_10",
+    "C03_04 DE_NADA_VITORIA",
+    "C03_05 GA4_1_DE_3",
+    "C03_07 IA_LINHA_DO_TEMPO",
+    "C03_08 BOTAO_VIRA_MODELO",
+    "C06_03 DATAS_FEV22_OUT24",
+    "C07_01 VOCES_PLATEIA",
+    "C07_04 PAISES_110_BANDEIRAS"
+   ],
+   "purpose": "Big numbers (tique-taque que sobe), impactos e pops macios",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_rise2.6",
+   "name": "SFX SYN_rise2.6",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_rise2.6.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C07_03 DE_VOLTA_PARA_2038"
+   ],
+   "purpose": "Big numbers (tique-taque que sobe), impactos e pops macios",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_thump",
+   "name": "SFX SYN_thump",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_thump.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C00_03 AVISO_ANTES_DA_SESSAO",
+    "C01_03 PLACAR_DADOS_X_ACHO",
+    "C02_01 HISTORIA_LINHA_DO_TEMPO",
+    "C02_03 EVOLUCAO_DO_PROGRAMA",
+    "C03_01 ECOSSISTEMA_DE_FERRAMENTAS",
+    "C03_07 IA_LINHA_DO_TEMPO",
+    "C04_04 DIAMANTE_NEGRO_OFICIAL",
+    "C04_06 PICA_PAU_24_TELA_CHEIA",
+    "C05_04 PICA_PAU_PM_RJ_EP126",
+    "C06_03 DATAS_FEV22_OUT24",
+    "C06_05 DATAS_MERIDIAN_MCP_DEZ24",
+    "C06_07 DATAS_FEV26_JUN26_ACERTOU",
+    "C07_05 EP_197"
+   ],
+   "purpose": "Big numbers (tique-taque que sobe), impactos e pops macios",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_tickup0.8",
+   "name": "SFX SYN_tickup0.8",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_tickup0.8.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C07_02 OUVIDAS_700_MIL"
+   ],
+   "purpose": "Big numbers (tique-taque que sobe), impactos e pops macios",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_tickup0.9",
+   "name": "SFX SYN_tickup0.9",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_tickup0.9.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C07_02 OUVIDAS_700_MIL"
+   ],
+   "purpose": "Big numbers (tique-taque que sobe), impactos e pops macios",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_tickup0.95",
+   "name": "SFX SYN_tickup0.95",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_tickup0.95.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C05_01 MESA_191_348_140_MURAL"
+   ],
+   "purpose": "Big numbers (tique-taque que sobe), impactos e pops macios",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_tickup1.0",
+   "name": "SFX SYN_tickup1.0",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_tickup1.0.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C01_02 DADOS_11526_TELA_CHEIA",
+    "C04_03 APELIDOS_16"
+   ],
+   "purpose": "Big numbers (tique-taque que sobe), impactos e pops macios",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_tickup1.1",
+   "name": "SFX SYN_tickup1.1",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_tickup1.1.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C01_03 PLACAR_DADOS_X_ACHO",
+    "C03_03 CONTADOR_153_GRADE_4_DE_10",
+    "C09_01 FINAL_300_E_LOOPING"
+   ],
+   "purpose": "Big numbers (tique-taque que sobe), impactos e pops macios",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "sfx_syn_tickup2.6",
+   "name": "SFX SYN_tickup2.6",
+   "type": "sfx",
+   "file": "03_SHARED_ASSETS/sfx/sinteticos/SFX_SYN_tickup2.6.wav",
+   "source": "GENERATED",
+   "used_in": [
+    "C04_01 BORDAO_203_PRINTS"
+   ],
+   "purpose": "Big numbers (tique-taque que sobe), impactos e pops macios",
+   "visual_meaning": "",
+   "usage_context": "Sintetizado em numpy (v2/sfx_v2.py), macio, sem agudos agressivos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado em código (sfx_v2.py) para o EP300 — custo zero, sem fonte externa",
+   "notes": ""
+  },
+  {
+   "id": "audio_cold_b_2023_05_24",
+   "name": "Áudio do bastidor 24/05/2023 (cold open)",
+   "type": "audio_bastidor",
+   "file": "03_SHARED_ASSETS/audio/bastidores/COLD_B_2023_05_24.wav",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_00 COLD_OPEN_ARQUIVO"
+   ],
+   "purpose": "Som ambiente + voz do cold open",
+   "visual_meaning": "",
+   "usage_context": "Normalizado (loudnorm −20) e com highpass 80 Hz.",
+   "reusable": true,
+   "license_or_provenance": "Extraído de 00_ASSETS E INSERTS/erros de gravação antigos/ (material MB)",
+   "notes": ""
+  },
+  {
+   "id": "audio_cold_b_verdades",
+   "name": "Áudio do bastidor “Verdades Inconvenientes” (cold open)",
+   "type": "audio_bastidor",
+   "file": "03_SHARED_ASSETS/audio/bastidores/COLD_B_VERDADES.wav",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_00 COLD_OPEN_ARQUIVO"
+   ],
+   "purpose": "Som ambiente + voz do cold open",
+   "visual_meaning": "",
+   "usage_context": "Normalizado (loudnorm −20) e com highpass 80 Hz.",
+   "reusable": true,
+   "license_or_provenance": "Extraído de 00_ASSETS E INSERTS/erros de gravação antigos/ (material MB)",
+   "notes": ""
+  },
+  {
+   "id": "bastidor_b_2023_05_24",
+   "name": "Bastidor 24/05/2023",
+   "type": "video_bastidor",
+   "file": "01_OPENING/ASSETS/bastidores_cold_open/B_2023_05_24.mp4",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_00 COLD_OPEN_ARQUIVO"
+   ],
+   "purpose": "Cold open humano: erro + reação + risada",
+   "visual_meaning": "Começar com pessoas",
+   "usage_context": "Trecho 0–9,3 s (b0) e 19,45–21,92 s (b3); tratado em PB + grão + REC no render.",
+   "reusable": true,
+   "license_or_provenance": "Cópia de 00_ASSETS E INSERTS/erros de gravação antigos/ (nome curto por limite de 260 caracteres do Windows)",
+   "notes": ""
+  },
+  {
+   "id": "bastidor_b_verdades",
+   "name": "Bastidor Verdades Inconvenientes",
+   "type": "video_bastidor",
+   "file": "01_OPENING/ASSETS/bastidores_cold_open/B_VERDADES.mp4",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "C00_00 COLD_OPEN_ARQUIVO"
+   ],
+   "purpose": "Cold open humano: erro + reação + risada",
+   "visual_meaning": "Começar com pessoas",
+   "usage_context": "Trecho 0–9,3 s (b0) e 19,45–21,92 s (b3); tratado em PB + grão + REC no render.",
+   "reusable": true,
+   "license_or_provenance": "Cópia de 00_ASSETS E INSERTS/erros de gravação antigos/ (nome curto por limite de 260 caracteres do Windows)",
+   "notes": ""
+  },
+  {
+   "id": "overlays_abertura_v2",
+   "name": "Overlays da Abertura V2 (44 × ProRes 4444 alpha)",
+   "type": "overlay",
+   "file": "NÃO COPIADO → I:/Drives compartilhados\\Educação\\Marketing Métricas Boss\\01_CANAIS_ATIVOS\\02_PODCAST\\2026\\300_[Kinoplex] DO IMPÉRIO DOS DADOS AO FUTURO DA MENSURAÇÃO\\01_VIDEO DE ABERTURA\\00_ASSETS E INSERTS\\V2_GERADOS\\OVERLAYS",
+   "source": "GENERATED",
+   "used_in": [
+    "todas as cenas Cxx"
+   ],
+   "purpose": "Camada de motion sobre a câmera",
+   "visual_meaning": "Linguagem de colagem/sticker animada",
+   "usage_context": "Gerados por v2/build.py a partir de plan.py (determinístico).",
+   "reusable": true,
+   "license_or_provenance": "Gerado para o EP300 com Pillow/numpy/FFmpeg (custo zero)",
+   "notes": ""
+  },
+  {
+   "id": "loop_mosaico_acervo",
+   "name": "Mosaico de acervo do loop (72 imagens)",
+   "type": "imagem_colagem",
+   "file": "02_LOADING_LOOP/ASSETS/mosaic/",
+   "source": "MB OFFICIAL",
+   "used_in": [
+    "LOOP V2"
+   ],
+   "purpose": "Fundo “300 episódios de história” (92 cartões, parallax lento, troca lenta em 16)",
+   "visual_meaning": "Acervo = tempo acumulado",
+   "usage_context": "t_EP* = thumbs oficiais EP260–289; p_EP* = prints do estúdio; b_EP* = prints de bastidor; r_f_* = quadros do EP 126 (Rio). Só acervo conhecido (busca dirigida).",
+   "reusable": true,
+   "license_or_provenance": "Thumbs oficiais e prints dos episódios (pastas de produção do podcast, Drive MB)",
+   "notes": "Não há thumbs de episódios anteriores ao 251 — limitação registrada no README do loop. EXCLUSIVO do loop."
+  },
+  {
+   "id": "loop_scene_json",
+   "name": "scene.json (manifesto do loop)",
+   "type": "manifesto",
+   "file": "02_LOADING_LOOP/EDITABLE/scene.json",
+   "source": "CREATED FOR EP300",
+   "used_in": [
+    "LOOP V2"
+   ],
+   "purpose": "Toda a composição/animação do loop (cartões, atores, presença por keyframes, patrocinadores)",
+   "visual_meaning": "",
+   "usage_context": "Asset visual ≠ lógica de animação: trocar arquivo mantendo nome, ou editar os caminhos.",
+   "reusable": true,
+   "license_or_provenance": "Gerado por make_v1_scene.py, editável à mão",
+   "notes": ""
+  }
+ ]
+}

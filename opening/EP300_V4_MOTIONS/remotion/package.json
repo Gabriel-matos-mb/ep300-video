@@ -1,0 +1,22 @@
+{
+  "name": "ep300-v4-motions",
+  "version": "0.1.0",
+  "private": true,
+  "description": "EP300 V4 - motions dos slots (trechos de camera desativados na sequencia do Premiere). 1920x1080 @ 23.976, escala 2 = 4K.",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "still": "remotion still src/index.ts",
+    "render": "remotion render src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0",
+    "zod": "^3.22.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "typescript": "^5.4.5"
+  }
+}

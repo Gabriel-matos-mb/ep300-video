@@ -1,0 +1,11 @@
+import path from 'node:path';
+import fs from 'node:fs';
+import {bundle} from '@remotion/bundler';
+import {renderStill, selectComposition} from '@remotion/renderer';
+const root = process.cwd();
+const serveUrl = await bundle({entryPoint: path.resolve(root, 'tools/qa_control_entry.tsx'), publicDir: path.resolve(root, '../assets')});
+const composition = await selectComposition({serveUrl, id: 'QA-CONTROL'});
+const out = path.resolve(root, '../reports/qa_alpha_control');
+fs.mkdirSync(out, {recursive: true});
+await renderStill({composition, serveUrl, frame: 0, imageFormat: 'png', scale: 0.25, output: path.join(out, 'QA-CONTROL_0000.png')});
+console.log('control ok');

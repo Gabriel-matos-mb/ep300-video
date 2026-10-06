@@ -1,0 +1,194 @@
+[507.7] Fala aí, analítica, analítico de plantão, belezinha?
+[511.4] Bem-vindos ao nosso episódio especial de número 300.
+[515.3] É, meu parceiro, chegamos a 300 episódios.
+[518.6] E sabe qual é a palavra que o Gustavo e eu mais falamos aqui?
+[521.7] qual, Luciano? Pô, dados, né,
+[524.2] meu parceiro? 11.526
+[526.9] vezes.
+[527.8] A segunda mais falada foi, acho.
+[530.3] Acho.
+[532.8] 494 vezes de diferença.
+[534.8] Tem noção disso? Exatamente.
+[536.4] E esse podcast aqui existe pra
+[538.0] aumentar essa distância.
+[540.3] Exatamente. Cada vez mais.
+[541.7] É de dados que eu achei.
+[544.6] Começou lá em 2015
+[546.1] como um programa do Prime
+[547.7] chamado MB Talks.
+[549.3] Duas pessoas e uma pergunta por semana
+[551.9] Quando eu voltei a gravar com o Gustavo
+[554.2] Virou podcast e não parou mais
+[555.9] Lá se vão 300 episódios
+[558.9] São mais de 300 perguntas
+[561.8] E a pergunta, logicamente, foi mudando
+[566.4] Aí, tipo, o que mudou, né?
+[570.4] No começo, no C, quase tudo que a gente falava
+[573.4] Era sobre ferramenta
+[574.9] Como instalar, como taguear
+[577.3] porque o número do relatório
+[579.2] não bate com o número do financeiro
+[581.3] parece que até hoje essa realidade existe
+[583.2] exatamente, e aí em 2023
+[584.8] o Google Analytics desligou
+[587.0] o universo e a gente teve que correr pra gerar
+[589.0] conteúdo, naquele ano a gente publicou
+[591.1] mais de 153 episódios
+[593.0] sendo que
+[594.7] 4 em cada 10 falavam sobre o GA4
+[597.2] só isso, hein, de nada
+[598.9] Vitória Comarim, exatamente, de nada
+[600.9] o GA4 nunca saiu da pauta
+[603.0] tá em uma, volta aí rapidinho
+[607.2] Não, tá ok
+[608.1] É só porque a gente tem que ir lá pra não ficar
+[610.9] Sobe um pouquinho mais
+[613.6] Sobe mais
+[614.2] Sobe mais
+[615.0] Sobe mais pra dar tempo de você chegar lá e sentar lá
+[620.1] De nada hein Vitória Comarin
+[621.9] Te ajudou, não foi pouco não hein
+[623.4] O GA4 nunca saiu da pauta
+[626.1] E ainda tá em um a cada três episódios
+[629.1] O que mudou foi o que entrou do lado dele
+[632.2] Exatamente
+[632.7] é um tema que eu gosto pouco, meu parceiro
+[635.5] inteligência artificial
+[636.6] não existia na nossa pauta até
+[638.6] 2021, você acredita?
+[640.2] nesse ano de 2025, está em um
+[642.5] a cada quatro episódios a gente fala ou cita
+[644.9] inteligência artificial, atribuição
+[646.7] e incrementalidade quase no mesmo tanto
+[648.8] e o Big Query, que era assunto de engenheiro
+[650.7] virou assunto de marketing, meu parceiro
+[652.6] a gente começou perguntando
+[654.5] como tá ganhando um botão
+[655.9] e hoje a gente pergunta se dá pra confiar
+[658.2] no modelo
+[660.9] é loucura
+[662.0] O assunto mudou, outras coisas ficaram iguaizinhas, sabia disso?
+[666.7] Tem coisa que mudou, mas tem coisa que não.
+[669.5] 203 vezes, sabe o que é isso? É verdade.
+[671.9] Foram 203 vezes que eu falei, fala aí, analítica, analíticos plantão.
+[675.3] Inclusive, você sabe qual foi o episódio que nasceu?
+[677.3] Não, nem eu.
+[680.4] E 16 maneiras diferentes que o Gustavo utilizou pra poder me apresentar.
+[685.4] Mas calma aí, que diamante negro é oficial, né galera?
+[688.6] Gritem, se concordam.
+[689.8] Pelo amor de Deus.
+[690.4] E 24 vezes alguém lembrou que se o Pica-Pau
+[693.4] tivesse chamado a polícia, nada disso
+[695.4] teria acontecido. É isso.
+[697.3] É isso. Tem gente que não sabe nem que diferença é essa.
+[699.3] Exatamente. Falou 24 vezes.
+[700.8] Só que as respostas quase nunca foram nossas.
+[704.0] 191 pessoas
+[705.1] sentaram nessa mesa aqui
+[708.5] 348
+[709.0] vezes. Mais de
+[710.8] 140 empresas.
+[712.9] Que loucura. Banco, varejo, mídia,
+[715.3] telecom, o Google,
+[717.0] a meta... De nada, Vitória
+[719.1] com o Marinho de novo, tá? Tem que ter uma anotação
+[721.1] ali que eu lijo. Google, a meta!
+[723.3] Confirma, não tem meta não.
+[727.1] Enquanto falar o Google, desou a vitória de novo.
+[729.0] De nada, ele tá aqui.
+[730.4] A gente pode falar aí, a gente ainda não é parceiro
+[733.2] do Google, tu acredita?
+[734.8] Aí eu vou meter, ela vai ficar segura.
+[736.6] Eu vou meter essa.
+[742.4] Eu começo do 194 empresas.
+[751.0] de 140
+[753.1] empresas
+[753.6] passaram falando aqui no nosso episódio
+[756.2] banco, varejo, mídia
+[758.2] telecom e até o Google
+[760.1] e tu acredita que ainda assim a gente não é
+[762.2] parceiro do Google? Eu queria
+[763.8] também queria, o pica-pau
+[766.1] não chamou a polícia, mas nós
+[768.2] chamamos, gravamos até com a
+[770.2] PM do Rio de Janeiro
+[771.5] tem noção do que é isso? Teve gente
+[774.0] que gabaritou a ficha de presença
+[776.2] o fio do nosso time passou por
+[778.2] vinte e nove vezes aqui. Muito obrigado. A Mafê
+[780.0] vinte e quatro vezes e ela foi a convidada do episódio
+[782.1] um. Exatamente.
+[784.3] Fora casa, o
+[785.4] fora de casa, o recordista é o
+[787.9] Cláudio Coisa Rica Bonel.
+[790.9] Sete participações
+[792.2] aqui. E tem gente que veio responder
+[794.0] uma pergunta e ficou por anos.
+[796.4] Quando você pergunta algo
+[798.1] trezentas vezes... Volta ali, a entonação ficou errada.
+[806.5] Tem gente, eu tenho gente.
+[808.5] pode subir mais um pouquinho
+[811.2] aí tá bom
+[814.9] banco, varejo, mídia
+[816.8] telecom e até o google
+[818.4] e ainda assim a gente não é parceiro do google
+[820.5] tu acredita? o pica-pau
+[822.4] não chamou a polícia, mas nós chamamos
+[824.7] gravamos até com
+[826.4] a PM do Rio de Janeiro
+[827.7] teve gente que amaratou a ficha de presença
+[829.8] viu? passou por aqui
+[832.1] 29 vezes, 24
+[833.6] e ela foi convidada depois
+[835.4] exatamente, fora de casa
+[837.6] o recordista é o nosso queridíssimo
+[839.6] Cláudio Coisa Rica Bonel
+[841.8] com sete participações
+[843.2] e tem gente que veio responder uma pergunta
+[845.6] e ficou aqui por anos
+[846.8] acho que não ficou boa essa partida
+[849.4] só corta
+[854.7] quando você pergunta algo
+[856.3] trezentas vezes
+[858.0] de vez em quando
+[859.2] você acerta antes
+[862.2] em fevereiro de 2022
+[864.0] a gente perguntou se o GA4
+[865.9] era esse todinho todo.
+[868.1] Desculpa, Vi.
+[869.4] 27 dias depois, o Google anunciou o fim do universo.
+[872.6] Em outubro de 2024,
+[874.5] a gente fez um episódio inteiro sobre o M&M.
+[876.9] Olha aí, de nada, viu?
+[878.5] Purple Match do Guta, galera aí, tá?
+[881.2] Três meses depois, o Google abriu Meridian, viu, Laila?
+[883.9] Em abril de 25, a gente criou o primeiro MCP do mundo
+[887.5] pro Google Analytics.
+[888.7] E do Google, saiu em julho.
+[891.3] Chupa, Google.
+[893.1] É só não colocar, eu só queria falar aqui.
+[897.8] Dezembro de 2024
+[898.9] a gente disse que ia dar pra conversar
+[900.7] com os dados, na verdade eu vou assumir
+[902.8] aqui minha meia-culpa que eu neguei
+[904.4] E aí o GA foi lá e colocou
+[906.3] IA na home em fevereiro de 26 e a gente lançou
+[908.5] na lista de compartilho em junho, mas o Luciano falou que era mentira
+[910.8] que era impossível, mas eu acertei
+[913.0] E do outro lado da pergunta
+[914.9] a vocês, mais de 700
+[916.9] mil vezes alguém
+[918.9] apertou o play
+[920.7] 106 mil horas vão ver o negócio
+[922.4] Se você apertasse o play agora
+[924.9] E não parasse e terminaria em 2038, meu parceiro.
+[928.9] Em 110 países.
+[930.5] E o episódio mais ouvido não é sobre ferramenta nenhuma.
+[933.9] É o 197 Transição de Carreira para Dados.
+[937.8] A pergunta que mais bombou em 300 episódios era sobre...
+[941.6] Gente.
+[942.6] Exatamente.
+[943.7] 300 episódios, 700 mil plays e a gente ainda tem uma pergunta para te fazer.
+[949.0] Qual o futuro da mensuração?
+[952.2] Esse é o tema do episódio?
+[953.7] Obrigado, gente.
